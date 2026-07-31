@@ -87,6 +87,14 @@ en una fase.
 - **Fase 4 — Componentes de UI**: selector de ciudad/día, lista de sedes con horario, tarjeta
   de función (película o bloque de cortos), detalle de película/conversatorio, buscador y
   filtros (categoría, nacional/internacional, título).
+  - **Índice derivado por película**: además de `data/<ciudad>.json` (sesiones con películas
+    anidadas, útil para la vista "qué hay en tal sede a tal hora"), generar en
+    `scripts/build_data.py` un `data/films.json` agrupado por título normalizado, cada uno
+    con su lista de funciones (fecha, hora, sede, ciudad). Es lo que permite "buscar película
+    → ver dónde y cuándo se proyecta" sin tocar el parser de Excel. Al construirlo hay que
+    revisar a mano los títulos que no calcen exacto entre ciudades (mayúsculas, espacios,
+    variantes de escritura) antes de agrupar, ya que ya se vieron inconsistencias de formato
+    entre fuentes (ver `data/README.md`).
 - **Fase 5 — Empaquetado como Web Component**: `defineCustomElement`, Shadow DOM para aislar
   estilos del sitio anfitrión, atributos (`city`, `day`) como props reactivas.
 - **Fase 6 — Funcionalidades extra (opcional)**: botón "agregar al calendario" (.ics), link a
@@ -102,6 +110,5 @@ en una fase.
 
 - [x] Exploración inicial de los archivos Excel y su estructura.
 - [x] Decisión de arquitectura (Vue + `defineCustomElement`).
-- [x] Fase 1 — Script de conversión Excel → JSON (rama `fase-1-parser-excel-json`, pendiente
-  de revisión/merge a `main`).
+- [x] Fase 1 — Script de conversión Excel → JSON (mergeado a `main`).
 - [ ] Fase 2 en adelante.
