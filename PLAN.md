@@ -56,6 +56,12 @@ Film      { title, director, durationMin, country, year, category, sala?, qa, pr
 Conversatorio { moderacion?, protagonistas?: string[], fotosLink? }
 ```
 
+## Flujo de trabajo
+
+Cada fase se desarrolla en su propia rama (`fase-N-descripcion`) y se integra a `main` por
+merge una vez revisada. Esto permite volver atrás sin afectar lo ya validado si algo sale mal
+en una fase.
+
 ## Fases
 
 - **Fase 0 — Modelo de datos**: cerrar el esquema anterior (tipos TypeScript).
