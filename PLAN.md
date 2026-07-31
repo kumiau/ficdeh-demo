@@ -106,6 +106,11 @@ en una fase.
 - **Fase 7 — Deploy**: bundle estático (JS + JSON) en hosting estático (Netlify/Vercel/GitHub
   Pages/S3); en el sitio del festival solo se agrega el `<script type="module">` y la etiqueta
   `<ficdeh-cartelera>`.
+  - **Adelanto**: repo público en `github.com/kumiau/ficdeh-demo`, con
+    `.github/workflows/deploy-pages.yml` (build de `app/` + `actions/deploy-pages`) publicando
+    en **https://kumiau.github.io/ficdeh-demo/** en cada push a `main`. `vite.config.ts` usa
+    `base: './'` (rutas relativas) para que funcione bajo el subpath de Pages. Esto es la app
+    completa (SPA), no todavía el Web Component embebible — eso sigue siendo la Fase 5. *(Hecho.)*
 - **Fase 8 — Mantenimiento**: definir el proceso para regenerar el JSON cuando cambie la
   programación (ya se observan ediciones tipo "SE AGREGO" en los archivos actuales, así que
   esto va a pasar seguido durante el festival).
@@ -117,6 +122,6 @@ en una fase.
 - [x] Fase 1 — Script de conversión Excel → JSON (mergeado a `main`).
 - [ ] Fase 2 — Fuente de datos "viva" (pendiente, se saltó por ahora a la Fase 3).
 - [x] Fase 3 — Scaffold del proyecto (mergeado a `main`).
-- [x] Fase 4 — Componentes de UI + índice por película (rama `fase-4-componentes-ui`,
-  probado a mano en el navegador, pendiente de merge).
+- [x] Fase 4 — Componentes de UI + índice por película (mergeado a `main`).
+- [x] Repo público + GitHub Pages (adelanto de Fase 7): https://kumiau.github.io/ficdeh-demo/
 - [ ] Fase 5 en adelante.
