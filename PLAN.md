@@ -82,8 +82,10 @@ en una fase.
   (y se regenera el JSON cada vez que cambien) o si se migra a una fuente más simple de
   mantener hacia adelante (Google Sheet con una fila por función, o el JSON directo). Afecta
   si el script de la Fase 1 es de una sola vez o un pipeline recurrente.
-- **Fase 3 — Scaffold del proyecto**: Vite + Vue 3 + TypeScript, configurado en modo "custom
-  element" (`customElement: true` en el plugin de Vue).
+- **Fase 3 — Scaffold del proyecto**: Vite + Vue 3 + TypeScript en `app/`, con
+  `customElement: true` en el plugin de Vue (afecta solo a futuros `*.ce.vue`, no al
+  scaffold por defecto). Node local es v8 (incompatible con Vite) — se fijó `app/` para
+  correr con Node 22 vía `.nvmrc` (`nvm use`). *(Hecho.)*
 - **Fase 4 — Componentes de UI**: selector de ciudad/día, lista de sedes con horario, tarjeta
   de función (película o bloque de cortos), detalle de película/conversatorio, buscador y
   filtros (categoría, nacional/internacional, título).
@@ -111,4 +113,6 @@ en una fase.
 - [x] Exploración inicial de los archivos Excel y su estructura.
 - [x] Decisión de arquitectura (Vue + `defineCustomElement`).
 - [x] Fase 1 — Script de conversión Excel → JSON (mergeado a `main`).
-- [ ] Fase 2 en adelante.
+- [ ] Fase 2 — Fuente de datos "viva" (pendiente, se saltó por ahora a la Fase 3).
+- [x] Fase 3 — Scaffold del proyecto (rama `fase-3-scaffold-proyecto`, pendiente de merge).
+- [ ] Fase 4 en adelante.
