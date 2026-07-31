@@ -1,0 +1,423 @@
+{
+  "citySlug": "quibdo",
+  "cityName": "Quibdó",
+  "sourceFiles": [
+    "QUIBDÓ/Programación _ QUIBDÓ.xlsx"
+  ],
+  "sessions": [
+    {
+      "date": "2026-08-13",
+      "time": "4:00 P.M",
+      "timeSortKey": 960,
+      "venueName": "CINELAND",
+      "venueAddress": null,
+      "films": [
+        {
+          "title": "Bojayá, la verdad desde adentro",
+          "director": "Ramón Alexander Valencia Córdoba",
+          "durationMin": 105,
+          "country": "Colombia",
+          "year": 2026,
+          "category": "Retrospectiva 10 años acuerdos de paz",
+          "synopsisEs": "Tres líderes de Bojayá recorren el municipio llevando el baúl de la verdad, recogiendo cuestionamientos y exigencias de la comunidad para enfrentar a los responsables del conflicto armado en su territorio. Después de su recorrido, comparten las respuestas que han encontrado con la comunidad con quienes construyen una verdad desde adentro.",
+          "synopsisEn": "Three leaders from Bojayá travel throughout the municipality carrying a \"truth chest\", gathering questions and demands from the community to confront those responsible for the armed conflict in their territory. After their journey, they share the answers they have found with the community, working together to construct a truth from within.",
+          "directorProfile": "Sociólogo y gestor cultural. Investigador social y comunitario. Director del documental de reparación de la comunidad de Bojayá.",
+          "filmSocial": "https://www.instagram.com/bojayadesdeadentro/",
+          "directorSocial": "https://www.instagram.com/alex_valenciac/",
+          "posterUrl": "https://drive.google.com/open?id=1cYpzzghv1BYZYc7Y2Etv8h0MezYEx-Lj",
+          "trailerUrl": "https://youtu.be/VcqMdpor2is",
+          "themePrimary": "Memoria histórica / Historical memory",
+          "themeSecondary": "Conflicto armado colombiano / Colombian armed conflict",
+          "pressKitUrl": "N/A",
+          "ageRating": "Familiar / Family"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "date": "2026-08-14",
+      "time": "8:00 A.M",
+      "timeSortKey": 480,
+      "venueName": "COLEGIO ISAAC RODRÍGUEZ",
+      "venueAddress": null,
+      "films": [
+        {
+          "title": "El verano de Jahia (Jahia's Summer)",
+          "director": "Olivier Meys",
+          "durationMin": 90,
+          "country": "Bélgica/Francia/Luxemburgo",
+          "year": 2025,
+          "category": "Largometraje Ficción",
+          "synopsisEs": "En un centro de acogida belga, Jahia lleva una vida tranquila y reservada junto a su madre traumatizada. Todo cambia con la llegada de la vivaz Mila. Atraídas la una por la otra, las dos jóvenes forjan un vínculo frágil que aporta calidez y resiliencia a un entorno marcado por el miedo y la incertidumbre. Jahia empieza a cocinar para consolar a su madre, mientras Mila se enfrenta al inminente veredicto que decidirá su solicitud de asilo. Su amistad se convierte en un refugio, un espacio donde la esperanza puede respirar a pesar de las sombras del exilio.",
+          "synopsisEn": "In a Belgian asylum center, Jahia lives a quiet, guarded life with her traumatized mother. Everything shifts when spirited Mila arrives. Drawn together, the two young girls form a fragile bond that brings warmth and resilience into an environment marked by fear and uncertainty. Jahia begins cooking to comfort her mother, while Mila faces the looming verdict that will decide her asylum claim. Their friendship becomes a refuge, a space where hope can breathe despite the shadows of exile. With sensitivity and restraint, Olivier Meys shapes a tender, Dardenne-like tale about belonging, childhood solidarity, and the fragile balance between safety and loss.",
+          "directorProfile": "Olivier Meys es un director belga. Ha realizado diversos documentales y películas de ficción, entre ellas Dans les décombres (2008). También dirigió el AJC (Atelier\nJeunes Cinéastes) en 2001. Olivier ha producido varios documentales radiofónicos, como À la source du bug (1998) y Fièvre (2001). Este último ganó el Gran Premio del SCAM Radiophonic Festival (2003) y fue nominado al Gran Premio Paul-Gilson y al Premio Italia. Desde 2004, Olivier Meys es miembro del Atelier de Création\nSonore Radiophonique (ACSR), donde ha dirigido varios audiodocumentales, entre ellos Four Seasons under the Earth (2005).\nVivió en China durante doce años, donde dirigió varios documentales, entre ellos Vies nouvelles y Dans les décombres. Esta última recibió el Premio Internacional SCAM de Cine Real en París en 2008.\nPosteriormente, Olivier Meys se dedicó a la ficción. Su primer largometraje, Flores amargas, rodado\nentre París y China, fue aclamado por la crítica y en 2019 recibió el Premio Magritte\na la Mejor Ópera Prima Belga. Continúa en esta línea con El verano de Jahia,\nsu segundo largometraje.",
+          "filmSocial": null,
+          "directorSocial": null,
+          "posterUrl": "https://drive.google.com/file/d/10ldFmTjhUGATm48qL364YrcCiJIn9Spj/view?usp=sharing",
+          "trailerUrl": "https://youtu.be/wgCzi6qWxQU",
+          "themePrimary": null,
+          "themeSecondary": null,
+          "pressKitUrl": "https://drive.google.com/drive/folders/1PcVjaR3aMfhF6Y1q6c1oBGZnDm8yUcwz",
+          "ageRating": "Adolescentes / Teenagers, Adultos / Adults"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "date": "2026-08-15",
+      "time": "3:00 p.m",
+      "timeSortKey": 900,
+      "venueName": "BAGATÁ",
+      "venueAddress": null,
+      "films": [
+        {
+          "title": "Juntas por la paz del Chocó",
+          "director": "Andrés Estefan",
+          "durationMin": 18,
+          "country": "Colombia",
+          "year": 2024,
+          "category": "Cine Comunitario Nacional",
+          "synopsisEs": "¿Cómo avanza la implementación del Acuerdo de Paz entre el Gobierno Nacional y las FARC-EP? ¿Cómo han mejorado las condiciones de vida de las mujeres gracias a los compromisos de género establecidos en el Acuerdo? En 2023, en el corazón del Chocó, se creó el Comité Local de Monitoreo, un grupo de 15 lideresas defensores de DDHH que trabajan para convertir las promesas del Acuerdo en realidades tangibles para las mujeres de Bahía Solano, El Carmen de Atrato, Istmina, Medio San Juan y Quibdó",
+          "synopsisEn": "How is the implementation of the Peace Agreement between the National Government and the FARC-EP? How have women's living conditions improved as a result of the gender commitments established in the Agreement? In 2023, in the heart of Chocó, the Local Monitoring Committee was created—a group of 15 social leaders and human rights defenders working to turn the promises of the Peace Agreement into tangible realities for women in Bahía Solano, El Carmen de Atrato, Istmina, Medio San Juan, and Quibdó",
+          "directorProfile": "Andrés Estefan es un Fotógrafo y realizador audiovisual, dedicado principalmente a la producción de contenidos documentales sobre historias de naturaleza, cultura y construcción de paz en Colombia. Durante su carrera, ha apoyado la comunicación audiovisual de diferentes equipos profesionales y multidisciplinarios que trabajan por la restauración, la protección y la sostenibilidad, esto lo ha llevado a recorrer lugares majestuosos y grabar experiencias únicas; toda esta energía emocional y vivencial lo impulsó a emprender su propio proyecto, Colombia Indómita, con el deseo de seguir recorriendo el país, en busca de sus historias, lugares y personas que entretejen su mega diversidad.",
+          "filmSocial": "@humanascolombia",
+          "directorSocial": "@colombia.indomita",
+          "posterUrl": "https://drive.google.com/open?id=1HV2vGkgJ8uVlSF_chWgF5w7gdmFQME7W",
+          "trailerUrl": null,
+          "themePrimary": "Acuerdos de paz / Peace Accords",
+          "themeSecondary": "Comunidades afrodescendientes / Afro-descendant communities",
+          "pressKitUrl": "N/A",
+          "ageRating": "Adolescentes / Teenagers, Adultos / Adults"
+        },
+        {
+          "title": "Después del Frío",
+          "director": "María Jimena Duzán",
+          "durationMin": 84,
+          "country": "Colombia",
+          "year": 2022,
+          "category": "Retrospectiva 10 años Acuerdo de Paz",
+          "synopsisEs": "En 2016, Colombia firmó un histórico acuerdo de paz con las FARC, marcando el fin de una guerra de 60 años. 'Después del frío' narra las historias de tres personas: un ganadero uribista que fue secuestrado, un coronel implicado en 'falsos positivos' y un líder social de Siloé, en Cali. A través de entrevistas cercanas y humanas, este documental revela los desafíos y las pequeñas victorias en el camino hacia la reconciliación y la justicia en un país\naún marcado por la sombra del conflicto.",
+          "synopsisEn": "In 2016, Colombia signed a historic peace agreement with the FARC guerrilla, marking the end of a 60 year armed conflict. After the Cold tells the stories of three people: a conservative rancher who was kidnapped, an army colonel implicated in the false positives scandal, and a social leader from Siloé, a neighborhood in Cali. Through intimate and deeply human interviews, this documentary reveals the challenges and  victories on the path toward reconciliation and justice in a wounded country.",
+          "directorProfile": "María Jimena Duzán es una reconocida periodista, politóloga y documentalista colombiana, destacada por sus incisivos análisis sobre el conflicto armado y la política nacional. Se ha consolidado como una figura crítica e influyente en la opinión pública, dirigiendo actualmente su programa de entrevistas y debates A Fondo.",
+          "filmSocial": null,
+          "directorSocial": "Instagram @mariajimenaduzan X:MJDuzan",
+          "posterUrl": "N/A",
+          "trailerUrl": "https://youtu.be/RNDEsvSsmh4?si=olgHATgcu8ODEgh8",
+          "themePrimary": "Acuerdos de paz / Peace Accords",
+          "themeSecondary": "Conflicto armado colombiano / Colombian armed conflict",
+          "pressKitUrl": "https://drive.google.com/file/d/1twcDunU8hbEBvm0rP0a7IoaLqFWkXoF5/view",
+          "ageRating": "Adolescentes / Teenagers, Adultos / Adults"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "date": "2026-08-16",
+      "time": "6:00 p.m",
+      "timeSortKey": 1080,
+      "venueName": "FUNCIÓN, AIRE LIBRE , MALECÓN",
+      "venueAddress": null,
+      "films": [
+        {
+          "title": "EL JUEGO DE LA VIDA",
+          "director": "Mario Andrés Ruiz Zuluaga",
+          "durationMin": 95,
+          "country": "Colombia",
+          "year": 2026,
+          "category": "Largometraje Documental Nacional",
+          "synopsisEs": "Un documental sigue durante 14 años a cinco familias colombianas que enfrentan las desigualdades de un país donde el origen influye en las oportunidades. A través de sus decisiones, frustraciones, resiliencia y logros, revela que, aunque las reglas no son iguales para todos, la voluntad de transformar el propio destino persiste. EL JUEGO DE LA VIDA es un retrato íntimo sobre la movilidad social, la dignidad y la esperanza en Colombia.",
+          "synopsisEn": "A documentary follows five Colombian families for 14 years as they confront the inequalities of a country where one's origins influence opportunities. Through their decisions, frustrations, resilience, and achievements, it reveals that, although the rules are not the same for everyone, the will to transform one's own destiny persists. THE GAME OF LIFE is an intimate portrait of social mobility, dignity, and hope in Colombia.",
+          "directorProfile": "Mario Andrés Ruiz es documentalista y realizador audiovisual, magíster en creación\nliteraria de la Universidad Central y comunicador social de la Universidad Externado de Colombia. En 2007 dirigió y produjo el documental Cuestión de química, ganador del premio Santa Lucía a Mejor Documental en el Festival In Vitro Visual (hoy Bogoshorts). Con esta obra obtuvo el Premio Nacional de Periodismo Simón Bolívar y participó en la 9a Muestra\nDocumental del RIDM en Montreal en 2008.",
+          "filmSocial": "@septima_films, @marioandresruiz, @cineplexcol",
+          "directorSocial": "@marioandresruiz - Instagram, @andresruizzuluaga - TikTok",
+          "posterUrl": "https://drive.google.com/open?id=1r7untwB8Vqmc1enjpn3669EfgCa5IwQk",
+          "trailerUrl": "https://youtu.be/GQODuASHV-s",
+          "themePrimary": "Estudio de Familias y sus expectativas de vida",
+          "themeSecondary": "Evolución de la pobreza en Colombia",
+          "pressKitUrl": "https://drive.google.com/open?id=1x_neezlqjkCO_jTZ-nAM8nncPmPDZnWF",
+          "ageRating": "Familiar / Family"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "date": "2026-08-17",
+      "time": "8:00 a.m",
+      "timeSortKey": 480,
+      "venueName": "COLEGIO ISAAC RODRÍGUEZ",
+      "venueAddress": null,
+      "films": [
+        {
+          "title": "Semillas",
+          "director": "Eliana Niño",
+          "durationMin": 100,
+          "country": "Colombia - España",
+          "year": 2025,
+          "category": "Largometraje Ficción",
+          "synopsisEs": "Shaira sueña con participar en un Torneo de Coleo, sin embargo, un día su caballo desaparece. En un atardecer llanero y en medio de una gran sequía, su abuelo le dice que en el verano el cielo atrapa a los animales y que ellos solo regresan hasta el día en que vuelva a llover en la tierra. Shaira encontrará la forma de hacer volver la lluvia para traer de vuelta a su caballo Semillas.",
+          "synopsisEn": "Shaira, a girl from the eastern plains of Colombia, dreams of participating in a coleo festival.  But after a recent drought severely damaged the crops, Shaira’s grandfather sells her horse without telling her. One day, he tells Shaira that the reason why some clouds take the shape of animals is that the sky traps them and won’t return them until it rains again. Shaira embarks on a journey to go in search of a special seed that will make the heavens rain again to bring her horse back.",
+          "directorProfile": "Guionista, directora y productora de cine, nacida el 9 de abril de 1990 Estudió el máster \"Cinéma, Réalisation et Création\" en la Universidad París 8, Francia, donde realiza su cortometraje BAJO EL JARDÍN, y con el cual ha participado en diversos festivales obteniendo el Premio del jurado en el Girogirocorto film festival en Roma, Italia (2016) y el Premio del público \"Ricardo Restrepo\" en Festival de Coine \"Regards sur le cinéma de Colombie et d'Amérique du Sud\" (FECRECCAS) en Montpellier, Francia (2018).  Su primer largometraje «Semillas», estrenado en el 2025 y rodado en San Martín Meta, fue proyecto ganador del FDC de Colombia y del ICAA de España. También participó en la Sección Primer Corte del mercado argentino Ventana Sur 2023 y el WIP del Festival Internacional de Cine de Cartagena 2024. Semillas ha participado en festivales como Spirit Of Fire en Rusia, el Chicago Latino Film Festival, Vancouver latino film festival y recientemente ganó premio de jurado en el festival para niños y adolescentes Schlingel en Alemania. En Colombia se ha llevado premios a mejor largometraje en el Festival de cine en las montañas en Salento, en el Festival Villa del cine en Villa de Leyva y el Festival del Gran Santander. Lidera el colectivo Heroínas y Villanas, un laboratorio de creación de guion y audiovisual dirigido a niñas y mujeres adolescentes.",
+          "filmSocial": "IG: semillas_film y elio.cine",
+          "directorSocial": "IG: elio.cine",
+          "posterUrl": "https://drive.google.com/open?id=1ewjRfEDiCqxf69QVLHBJ0ZMtVaEAEPDs",
+          "trailerUrl": "https://youtu.be/S14TnBcCcb4",
+          "themePrimary": "Infancia y adolescencia / Infancy and adolescence",
+          "themeSecondary": "Violencias basadas en género / Gender-based violence",
+          "pressKitUrl": "https://drive.google.com/open?id=1NP_4YqNYBzREKJ_apQKFiMLjAkqNdMCI",
+          "ageRating": "Familiar / Family"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "date": "2026-08-17",
+      "time": "3:00 p.m",
+      "timeSortKey": 900,
+      "venueName": "Biblioteca Pública Deptal Arnoldo de los Santos Palacios Mosquera",
+      "venueAddress": null,
+      "films": [
+        {
+          "title": "Chaski Pacha",
+          "director": "Ramiro Fierro",
+          "durationMin": 22,
+          "country": "Colombia",
+          "year": 2025,
+          "category": "Cortometraje Ficción Nacional",
+          "synopsisEs": "José, un muchacho indígena con discapacidad intelectual, se gana la vida como mandadero en la ciudad de Ipiales, en la frontera de Colombia y Ecuador. Casi todas las tardes recibe una pequeña maleta en el lado ecuatoriano y debe entregarla a otra persona en Colombia, sin saber lo que contiene. Sin embargo, una tarde, se desatan una serie de eventos que harán que José no cumpla la siguiente cita con la maleta, se choque con una nueva realidad y descubra que no todo es como su mente se lo pinta.",
+          "synopsisEn": "José, an Indigenous boy with an intellectual disability, makes a living as an errand boy in the city of Ipiales, in the Colombian-Ecuadorian border.\n\nAlmost every afternoon, he receives a small suitcase on the Ecuadorian side and must deliver it to another person in Colombia, without knowing what it contains.\n\nBut a series of events unfolds that prevents José from making his next delivery. As he collides with a new reality he begins to discover that not everything is as his mind paints it to be.",
+          "directorProfile": "Nació en Ipiales, Nariño. Estudió cine en la Escuela Internacional de Cine y Televisión (EICTV), donde se graduó como cineasta especializado en sonido. Con más de 30 años de trayectoria profesional en todas las áreas del sonido cinematográfico, trabaja en Colombia y Bolivia y ha colaborado con algunos de los cineastas más destacados de ambos países. Se ha desempeñado como productor, montajista y supervisor de posproducción. En 2013 ganó el Premio Coral a Mejor Sonido en el Festival Internacional de Cine de La Habana y ha sido nominado en tres ocasiones al Premio Macondo de la Academia Colombiana de Cine. En 2020 codirigió y produjo su ópera prima La casa del sur, coproducción Bolivia-Colombia con apoyo de Ibermedia.",
+          "filmSocial": null,
+          "directorSocial": "https://www.instagram.com/ramirofierro/",
+          "posterUrl": "https://drive.google.com/open?id=1sjC61UCOBTjbrzjyktVLwPl2SQ2dzubY",
+          "trailerUrl": "https://youtu.be/kAiNZvLxd-w",
+          "themePrimary": "Infancia y adolescencia / Infancy and adolescence",
+          "themeSecondary": "Discriminación / Discrimination",
+          "pressKitUrl": "N/A",
+          "ageRating": "Todos"
+        },
+        {
+          "title": "Muerto no",
+          "director": "Alex Reis",
+          "durationMin": 15,
+          "country": "Brasil",
+          "year": 2025,
+          "category": "Cortometraje Ficción Internacional",
+          "synopsisEs": "El nacimiento del primer hijo de una joven pareja negra trae consigo felicidad, pero también agonía. El padre del recién nacido vive y expresa sus dilemas ante la llegada, la convivencia y la partida de su querido primogénito.",
+          "synopsisEn": "The birth of a young black couple's first child brings happiness, but also agony. The father experiences and expresses his dilemmas regarding the arrival, coexistence and departure of his beloved firstborn.",
+          "directorProfile": "Director, guionista, actor y profesor brasileño. Fundador de Ananse Filmes, ha presentado sus obras en festivales de cine de Brasil y del extranjero. Entre sus trabajos destacan Papa-Figo (2018), Paloma (2020) y Muerto no (2025), cortometraje híbrido inspirado en la obra de W. E. B. Du Bois.",
+          "filmSocial": "Instagram: @mortonao_shortfilm",
+          "directorSocial": "Instagram: @oalexreis",
+          "posterUrl": "https://drive.google.com/open?id=1xe1DfaJZ33UCy4dCT0jWph7xCbGCQt8q",
+          "trailerUrl": "https://youtu.be/vgrJIIcgYZo",
+          "themePrimary": "Comunidades afrodescendientes / Afro-descendant communities",
+          "themeSecondary": "Salud mental / Mental health",
+          "pressKitUrl": "N/A",
+          "ageRating": "Adolescentes / Teenagers, Adultos / Adults"
+        },
+        {
+          "title": "Y el río lloró",
+          "director": "Zumaya Mayers C. / Rodrigo Cuervo J.",
+          "durationMin": 26,
+          "country": "Colombia",
+          "year": 2024,
+          "category": "Cortometraje Documental Nacional",
+          "synopsisEs": "En el corazón del Pacífico colombiano, Manuel Cruz y su esposa Angy, luchan por sanar las heridas de su comunidad devastada por el conflicto armado, preservando sus tradiciones ancestrales y honrando la memoria de las víctimas, mientras el río, silencioso testigo, fluye como símbolo de resistencia y esperanza.",
+          "synopsisEn": "In the heart of the Colombian Pacific, Manuel Cruz and his wife Angy are striving to heal the wounds of their community, which has been devastated by armed conflict, by preserving their ancestral traditions and honoring the memory of the victims, while the river, a silent witness, flows as a symbol of resilience and hope.",
+          "directorProfile": "Directora Zumaya Mayers: Especialista en Educación, Cultura y Política con un enfoque disruptivo en la cinematografía decolonial. Su trabajo se centra en la representación dignificada de las comunidades afrodescendientes, utilizando el cine documental como una herramienta de mediación social y preservación cultural.\nEs reconocida por su enfoque en la narrativa afrodescendiente y su compromiso con la representación y preservación de la cultura africana en América Latina. Su trabajo refleja su herencia y su conexión con la comunidad afrocolombiana, que busca a través de sus obras promover la comprensión y el aprecio por la diversidad cultural.\n\nEs cofundadora de la Fundación de Medios de Comunicación Étnicos y Ambientales – FUMCETA, creada en el año 2009 y de la empresa ZUSURRO FILMS SAS, dedicada exclusivamente al área cinematográfica. \n\nCo Director Rodrigo Cuervo: Cineasta y documentalista, comunicador social y periodista de la Universidad Autónoma de Occidente. Ha desarrollado, escrito y dirigido diversos contenidos documentales para televisión pública en Colombia, alcanzando importantes reconocimientos y nominaciones resultando ganador del Premio India Catalina de la Industria Audiovisual 2025 en Mejor Serie Documental y ganador premios TAL Televisión Latinoamérica de los años 2020, 2024, 2025 entre otros.",
+          "filmSocial": "Instagram: @fumceta",
+          "directorSocial": "Instagram: @fumceta - X: @zumayers - Instagram:@zusurrofilms",
+          "posterUrl": "https://drive.google.com/open?id=145wmd8npj-z8SlAyx8wvcLAbtcPJ8TlL",
+          "trailerUrl": "https://youtu.be/-YwzlUes_JQ",
+          "themePrimary": "Conflicto armado colombiano / Colombian armed conflict",
+          "themeSecondary": "Comunidades afrodescendientes / Afro-descendant communities",
+          "pressKitUrl": "https://drive.google.com/open?id=12q07nmO0QE49ZV9kzEMVX6Ub84mvCLAV",
+          "ageRating": "Familiar / Family"
+        },
+        {
+          "title": "Apotnojushi La Casa del viento",
+          "director": "Marbel Ina Vanegas Jusayu",
+          "durationMin": 12,
+          "country": "Colombia",
+          "year": 2026,
+          "category": "Cortometraje Documental Nacional",
+          "synopsisEs": "Ana Rosa Jusayu (Mi Madre), lideresa ancestral de la comunidad Apotnojushi ubicada en cercanias del cerro de la teta en la alta Guajira Colombiana, trata de recuperar el tejido y unión familiar que ocasionó el “desarrollo sostenible” invasivo.\nEn medio de las pocas esperanzas de sobrevivir en lo desolado de su territorio ancestral, la familia comparte su añoranza de permanecer en el territorio, enfrentando las dificultades y los cambios económicos que afectan al pueblo wayuu.",
+          "synopsisEn": "Ana Rosa Jusayu (My Mother), an ancestral leader of the Apotnojushi community\nlocated near Cerro de la Teta in the upper Guajira region of Colombia, is trying to rebuild the\nfamily fabric and unity that was disrupted by invasive “sustainable development.”\nAmidst the slim hopes of surviving in the desolation of their ancestral territory, the family\nshares their longing to remain there, facing the hardships and economic changes that affect\nthe Wayuu people.",
+          "directorProfile": "Marbel Vanegas Jusayu es indígena del Pueblo Wayuu, nacida en el departamento de La Guajira del territorio ancestral de Apotnojushi, es guionista y directora. Su trabajo se centra en las comunidades promoviendo su cultura, memoria y defensa territorial a través del audiovisual como herramienta para fortalecer la identidad y los derechos de los pueblos indígenas.\nDirectora del cortometraje Aquel Cuatro de noviembre, co directora del largometraje documental Buscando las marcas de asho’ojushi, Tatuaje Wayuu en fase de postproducción, directora general de la cuarta y sexta temporada de la serie documental El Buen Vivir de la CONCIP.\nEl documental Aquel cuatro de noviembre, ha podido circular en variedad de festivales nacionales e internacionales como LA SUR REAL, BOGOSHORTS, FICDDHH, CINE A LA CALLE, DAUPARA, entre otros.\n\nDentro de las últimas obras se aproxima el estreno de Pawa, un cortometraje ficción, que busca evocar la memoria y el saber de las abuelas, Apotnojushi - la casa del viento, un cortometraje documental que narra la importancia de recuperar el tejido y unión familiar que ocasionó el ingreso de empresas eólicas al territorio, y Jintüikai - El niño, un cortometraje que pone en diálogo la dualidad entre la medicina convencional y la importancia de preservar el saber de las mujeres parteras en el territorio Wayuu.",
+          "filmSocial": "@aguacateaudiovisual",
+          "directorSocial": "@marbelvanegas",
+          "posterUrl": "https://drive.google.com/open?id=1GJJgn5VM0Q8c8zRiGN-D9wo08yFJJlzX",
+          "trailerUrl": "https://youtu.be/5lHWfE7tg5Y",
+          "themePrimary": "Líderes sociales / Defensores de Derechos Humanos - Social Leaders / Human Rights Defenders",
+          "themeSecondary": "Comunidades indígenas / Indigenous communities",
+          "pressKitUrl": "N/A",
+          "ageRating": "Infantil / Children's, Familiar / Family, Adolescentes / Teenagers, Adultos / Adults"
+        },
+        {
+          "title": "Más allá de la corona",
+          "director": "Juan David Mesa",
+          "durationMin": 14,
+          "country": "Colombia",
+          "year": 2025,
+          "category": "Cortometraje Documental Nacional",
+          "synopsisEs": "Ángel debe responder tres preguntas y superar una serie de obstáculos antes de lograr su sueño: ser coronada como Reina Trans de Palmira, Colombia.",
+          "synopsisEn": "Angel must answer three questions and overcome a series of obstacles before achieving her dream: being crowned as Trans Queen of Palmira, Colombia.",
+          "directorProfile": "Guionista, director y productor creativo. Es sociólogo y profesional en mercado internacional y publicidad con maestría en estudios sociales y políticos. A lo largo de su trayectoria ha dirigido seis cortometrajes de ficción y no ficción. Juan David, además, es docente de cine y producción audiovisual en la Pontificia Universidad Javeriana Cali y en la Universidad Icesi. Actualmente se encuentra en la etapa de postproducción de su ópera prima “Aquí el aburrimiento es una peste”.",
+          "filmSocial": "https://www.instagram.com/andar_mirando/",
+          "directorSocial": "https://www.instagram.com/juandmess/",
+          "posterUrl": "https://drive.google.com/open?id=1XewzaZ1Lfb4o7JvCoCkOINNXcoAI0LbC",
+          "trailerUrl": "https://youtu.be/QjiL-wszl3Y",
+          "themePrimary": "LGBTIQ+",
+          "themeSecondary": "Discriminación / Discrimination",
+          "pressKitUrl": "N/A",
+          "ageRating": "Familiar / Family, Adolescentes / Teenagers, Adultos / Adults"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "date": "2026-08-17",
+      "time": "4:00 p.m",
+      "timeSortKey": 960,
+      "venueName": "Biblioteca Pública Deptal Arnoldo de los Santos Palacios Mosquera",
+      "venueAddress": null,
+      "films": [
+        {
+          "title": "Cuando la palabra se hace búsqueda",
+          "director": "Frank Benitez",
+          "durationMin": 61,
+          "country": "Colombia",
+          "year": 2026,
+          "category": "Largometraje Documental Nacional",
+          "synopsisEs": "En Colombia, la búsqueda de las personas desaparecidas ha abierto caminos inesperados de encuentro entre quienes sufren su ausencia y quienes guardan información clave sobre su paradero. Este largometraje revela el papel fundamental de los aportantes de información, en las voces de quienes participaron directa e indirectamente en las hostilidades y que, desde el compromiso, han decidido sumarse al proceso humanitario de la búsqueda liderado por la Unidad de Búsqueda (UBPD).",
+          "synopsisEn": "In Colombia, the search for missing persons has opened unexpected paths of connection between those who suffer their absence and those who hold key information about their whereabouts. This feature film reveals the fundamental role of information providers, through the voices of those who participated directly and indirectly in the hostilities and who, driven by commitment, have decided to join the humanitarian search process led by the Search Unit (UBPD).",
+          "directorProfile": "Guionista y director colombiano. Entre sus obras se encuentran el documental EL PANTERA, estrenado en 2025; la miniserie LAS IGUANAS, estrenada en HBO Max; y los cortometrajes ZOMBIE, estrenado en el Festival Internacional de Cine de Huesca 2024, El TRAJE DE KARINA, ganador de Mejor Guion y Mejor Dirección en el Festival de Cine Queer de Long Beach 2021, y MINUTO 200, Mejor Cortometraje Iberoamericano en el Festival de Cine de Guadalajara 2012",
+          "filmSocial": "@UBPDColombia",
+          "directorSocial": "@franklugosi",
+          "posterUrl": "https://drive.google.com/open?id=19jCOYfC7WSsA5vAWv21PKLfucDn8XHQJ",
+          "trailerUrl": "https://youtu.be/BpsG1cflm9A",
+          "themePrimary": "Conflicto armado colombiano / Colombian armed conflict",
+          "themeSecondary": "Acuerdos de paz / Peace Accords",
+          "pressKitUrl": "N/A",
+          "ageRating": "Adultos / Adults"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "date": "2026-08-18",
+      "time": "9:00 a.m",
+      "timeSortKey": 540,
+      "venueName": "UTCH, IDIOMAS",
+      "venueAddress": null,
+      "films": [
+        {
+          "title": "Three black men (Tres hombres negros)",
+          "director": "Sienna McLean-LoGreco",
+          "durationMin": 99,
+          "country": "Estados Unidos",
+          "year": 2026,
+          "category": "Largometraje Documental Internacional",
+          "synopsisEs": "¿Puede un viaje hacia el pasado abrir nuevas posibilidades para la Negritud? Tres hombres negros recorren a la inversa la ruta transatlántica del comercio de esclavos, de Los Ángeles (California) a Salvador de Bahía (Brasil) y, finalmente, a Accra (Ghana). En este recorrido exploran aspectos fundamentales de la historia negra y las representaciones de la migración forzosa, la supervivencia y la desaparición de los millones de personas que cruzaron el Atlántico; y brazan la identidad negra como una fuente viva de conexión, creación y renovación.",
+          "synopsisEn": "Can a journey open new possibilities for Blackness? Three Black men embark on a transformative journey along the transatlantic slave route in reverse. This epic voyage takes them from Los Angeles, California to Salvador da Bahia in Brazil, and finally to Accra in Ghana. They explore crucial pieces of Black history and representations of the forced migration, survival and demise of the millions who crossed the Atlantic and embrace Blackness as a living source of connection, creation, and renewal.",
+          "directorProfile": "Guionista y productora apasionada por historias que entretienen e inspiran. Ha trabajado para HBO, Showtime, A+E, VH1 y Discovery, y creado contenido de marca para RSA Films de Ridley Scott. Su cortometraje Still Revolutionaries se estrenó en Sundance y se distribuye internacionalmente. La serie documental Jerrod Carmichael: Reality Show (HBO, 2024) fue destacada como uno de los mejores programas del año. Formó parte del equipo que puso en marcha la Television Race Initiative (ahora conocida como Active Voice), promoviendo documentales que abordan cuestiones de raza e igualdad, utilizándolos como catalizador para el diálogo comunitario.",
+          "filmSocial": "Instagram: three_black_men",
+          "directorSocial": "IG: sienna_mcl LinkedIn: Sienna McLean LoGreco",
+          "posterUrl": "https://drive.google.com/open?id=1Becxsn8b0sLGgsrX-M-z-xJe-glZY_5i",
+          "trailerUrl": "https://youtu.be/1vWwBO9l-S8",
+          "themePrimary": "Comunidades afrodescendientes / Afro-descendant communities",
+          "themeSecondary": "Memoria histórica / Historical memory",
+          "pressKitUrl": "https://drive.google.com/open?id=1Becxsn8b0sLGgsrX-M-z-xJe-glZY_5i",
+          "ageRating": "Adultos / Adults"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "date": "2026-08-18",
+      "time": "3:00 p.m",
+      "timeSortKey": 900,
+      "venueName": "BAGATÁ",
+      "venueAddress": null,
+      "films": [
+        {
+          "title": "EL SILENCIO DE LOS PALAFITOS",
+          "director": "Yull Núñez",
+          "durationMin": 73,
+          "country": "COLOMBIA-MÉXICO",
+          "year": 2024,
+          "category": "Largometraje Ficción",
+          "synopsisEs": "Abrumado por no obtener suficiente fuente de ingresos debido a un desastre ambiental en el pueblo palafito donde vive, ELÍAS; un joven pescador que posee una gaita heredada de su padre, pierde la cordura al fracasar en sus intentos de revivir los peces muertos de la ciénaga, aferrándose a los recuerdos de su esposa MARGOT, desaparecida a manos de los insurgentes. Pero el poder de la música y su tenacidad devolverán la esperanza al lugar.",
+          "synopsisEn": "Overwhelmed by not getting enough source of income due to an environmental disaster in the stilt village where he lives, ELÍAS; a young fisherman who owns a bagpipe inherited by his father, loses his sanity by failing in his attempts to revive the dead fish of the swamp, clinging to the memories of his wife MARGOT, who disappeared at the hands of the insurgents. But the power of music and its tenacity will bring hope back to the place.",
+          "directorProfile": "DIRECTOR y GUIONISTA: YULL NÚÑEZ; afrocolombiano, Licen ciado en arte, folklore y cultura. Director y guionista del largometraje EL SILENCIO DE LOS PALAFITOS (selección oficial Festival del nuevo cine latinoamericano LA HABANA CUBA 2024, premio a mejor largometraje internacional de ficción en el Festival de cine de autor ISLAS CANARIAS 2025, mención de honor por el jurado del IBERIOAMERICAN FILM FESTIVAL – MIAMI 2025). Guionista y director del cortometraje EL LAMENTO DE LAS GAITAS. Guionista y director de la mini serie SUEÑOS DE CARBÓN. Actor principal del largometraje LOS VIAJES DEL VIENTO, asistente de casting de del largometraje PÁJAROS DE VERANO. Guionista y director del largometraje “EL GRITO DE SERANKWA” ganador del fondo cinematográfico de Colombia FDC 2024. Actor en el largometraje PIMPINERO de Amazon Prime. Actor principal del largometraje VERDE (postproducción).",
+          "filmSocial": "@CINEQUIPOSPRODUCCIONES (INSTAGRAM)",
+          "directorSocial": "ig: @yullnunez",
+          "posterUrl": "https://drive.google.com/open?id=15OWfDXCxfcsYmUTeFfv8-c-A3JegpU9X",
+          "trailerUrl": "https://youtu.be/s3MWTaWfEh0",
+          "themePrimary": "La ausencia, migración, medioambiental, relaciones interpersonales, afroindígenas.",
+          "themeSecondary": "Conflicto armado colombiano / Colombian armed conflict",
+          "pressKitUrl": "N/A",
+          "ageRating": "Adultos / Adults"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "date": "2026-08-19",
+      "time": "9:00 a.m",
+      "timeSortKey": 540,
+      "venueName": "UTCH , AUDIOVISUAL",
+      "venueAddress": null,
+      "films": [
+        {
+          "title": "58th",
+          "director": "Carl Joseph Papa",
+          "durationMin": 86,
+          "country": "Filipinas",
+          "year": 2026,
+          "category": "Largometraje Documental Internacional",
+          "synopsisEs": "A pesar del dolor y el trauma que ha soportado, una hija persigue incansablemente la justicia para su padre, que sigue desaparecido y es considerado la víctima número 58 de la Masacre de Maguindanao, el ataque más mortífero contra periodistas en la historia.",
+          "synopsisEn": "Despite enduring grief and trauma, a daughter relentlessly pursues justice for her still-missing father, believed to be the 58th victim of the Maguindanao Massacre—the deadliest single attack on journalists in history.",
+          "directorProfile": "Ingeniero de software de profesión y cineasta de vocación. Su largometraje The Unforgetting ganó el Premio del Jurado NETPAC en QCinema 2014. Pioneer de la animación filipina: Manang Biring fue la primera animación en proyectarse en el Festival de Annecy (2016), y Paglisan repitió la hazaña en 2018. Su tercer largometraje de animación, Iti Mapukpukaw (The Missing), ganó Mejor Película en Cinemalaya 2023 y se convirtió en la primera animación filipina nominada al Óscar en la categoría de Mejor Largometraje Internacional.",
+          "filmSocial": "N/A",
+          "directorSocial": "Carl Papa Facebook",
+          "posterUrl": "https://drive.google.com/file/d/1izNqmOequQUgy7B_mhX_4xnjSswcShbR/view",
+          "trailerUrl": "https://youtu.be/xeqAXdTedlI",
+          "themePrimary": "Justicia restaurativa / Restorative justice",
+          "themeSecondary": "Memoria histórica / Historical memory",
+          "pressKitUrl": "https://drive.google.com/open?id=1izNqmOequQUgy7B_mhX_4xnjSswcShbR",
+          "ageRating": "Adultos / Adults"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "date": "2026-08-19",
+      "time": "4:00 p.m",
+      "timeSortKey": 960,
+      "venueName": "Biblioteca Pública Deptal Arnoldo de los Santos Palacios Mosquera",
+      "venueAddress": null,
+      "films": [
+        {
+          "title": "Carmela y los caminantes",
+          "director": "Esteban Coloma, Luis Herrera",
+          "durationMin": 92,
+          "country": "Ecuador",
+          "year": 2025,
+          "category": "Largometraje Documental Internacional",
+          "synopsisEs": "Cerca de la frontera entre Ecuador y Colombia, Carmela, una mujer afro ecuatoriana, abre su casa a miles de migrantes venezolanos que cruzan Sudamérica a pie buscando una vida mejor. Durante años ha sostenido este trabajo junto a su familia, a pesar de los escasos recursos. Con una mirada íntima y observacional, la película explora la migración, la familia y la resiliencia desde el corazón de una mujer que lo da todo.",
+          "synopsisEn": "Near the border between Ecuador and Colombia, Carmela, an Afro-Ecuadorian woman, opens her home to thousands of Venezuelan migrants who cross South America on foot in search of a better life. For years, she has sustained this work with her family, despite scarce resources. With an intimate and observational look, the film explores migration, family, and resilience from the heart of a woman who gives her all.",
+          "directorProfile": "Esteban Coloma G. y Luis Herrera R. han codirigido cortometrajes sobre poblaciones indígenas, migraciones y grupos poco representados desde 2018. Entre ellos destacan Caminantes (2021) y MAMA (2019). Carmela y los Caminantes es su ópera prima.",
+          "filmSocial": "carmela_documental",
+          "directorSocial": "@ecoloma.g @luisherrerafoto",
+          "posterUrl": "https://drive.google.com/open?id=1AgtlsDeq5l23YyLeGzbFk07ngQN1m7AR",
+          "trailerUrl": "https://youtu.be/e80JfEvwayA",
+          "themePrimary": "Migración / Migration",
+          "themeSecondary": "Comunidades afrodescendientes / Afro-descendant communities",
+          "pressKitUrl": "https://drive.google.com/open?id=1KINWZWfNHmjnG8Gi0sKwZbhLKNfNg_i8",
+          "ageRating": "Todo público"
+        }
+      ],
+      "notes": []
+    }
+  ]
+}

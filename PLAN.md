@@ -36,6 +36,16 @@ humana, no para consumo automático. Estructura observada:
 **Conclusión:** el primer trabajo real del proyecto es convertir este formato humano en datos
 limpios y consistentes — no se puede consumir el Excel directamente desde el frontend.
 
+**Actualización (Fase 1):** casi todas las ciudades, salvo Bogotá, además tienen un segundo
+archivo `Programación _ <CIUDAD>.xlsx` que **sí es una tabla plana** (una fila por función) y
+mucho más rico: trae sinopsis en español/inglés, perfil del director, redes y poster. Bogotá
+es la excepción — su programación principal solo existe en el formato "cartelera" descrito
+arriba. Se verificó cruzando nombres de sede que los archivos "Cinemateca de Bogotá",
+"BIBLIORED" y "CASAS DE JUVENTUD" son extractos redundantes del archivo maestro de Bogotá
+(duplicaban sesiones); "PAZOSFERA" en cambio es un programa nacional en centros de reclusión,
+no una sede bogotana, así que se maneja como su propio "city slug". Detalle completo en
+`data/README.md`.
+
 ## Decisión de arquitectura: Vue en vez de React
 
 Se evaluó React vs Vue para el Web Component. Se recomienda **Vue 3** porque tiene soporte
@@ -65,10 +75,9 @@ en una fase.
 ## Fases
 
 - **Fase 0 — Modelo de datos**: cerrar el esquema anterior (tipos TypeScript).
-- **Fase 1 — Script de conversión Excel → JSON**: script en Python (`openpyxl`, ya disponible
-  en el entorno) que recorra cada archivo/hoja, detecte bloques de sede, agrupe filas por
-  `HORA` y genere un JSON limpio por ciudad. Debe tolerar las variaciones de columnas
-  encontradas entre ciudades. *(Próximo paso a ejecutar.)*
+- **Fase 1 — Script de conversión Excel → JSON**: `scripts/build_data.py`, con dos parsers
+  (flat y cartelera) descritos en `data/README.md`. Genera `data/<ciudad>.json` +
+  `data/index.json`. *(Hecho, ver rama `fase-1-parser-excel-json`.)*
 - **Fase 2 — Fuente de datos "viva"**: decidir si el equipo sigue editando estos mismos Excel
   (y se regenera el JSON cada vez que cambien) o si se migra a una fuente más simple de
   mantener hacia adelante (Google Sheet con una fila por función, o el JSON directo). Afecta
@@ -93,5 +102,6 @@ en una fase.
 
 - [x] Exploración inicial de los archivos Excel y su estructura.
 - [x] Decisión de arquitectura (Vue + `defineCustomElement`).
-- [ ] Fase 1 — Script de conversión Excel → JSON.
+- [x] Fase 1 — Script de conversión Excel → JSON (rama `fase-1-parser-excel-json`, pendiente
+  de revisión/merge a `main`).
 - [ ] Fase 2 en adelante.

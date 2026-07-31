@@ -1,0 +1,84 @@
+{
+  "festivalYear": 2026,
+  "cities": [
+    {
+      "slug": "bogota",
+      "name": "Bogotá",
+      "sessionCount": 92,
+      "filmCount": 137
+    },
+    {
+      "slug": "pazosfera",
+      "name": "Pazósfera (centros de reclusión)",
+      "sessionCount": 35,
+      "filmCount": 36
+    },
+    {
+      "slug": "armenia",
+      "name": "Armenia",
+      "sessionCount": 9,
+      "filmCount": 24
+    },
+    {
+      "slug": "barranquilla",
+      "name": "Barranquilla",
+      "sessionCount": 30,
+      "filmCount": 46
+    },
+    {
+      "slug": "cali",
+      "name": "Cali",
+      "sessionCount": 20,
+      "filmCount": 30
+    },
+    {
+      "slug": "cartagena",
+      "name": "Cartagena",
+      "sessionCount": 7,
+      "filmCount": 17
+    },
+    {
+      "slug": "ibague",
+      "name": "Ibagué",
+      "sessionCount": 19,
+      "filmCount": 53
+    },
+    {
+      "slug": "manizales",
+      "name": "Manizales",
+      "sessionCount": 10,
+      "filmCount": 10
+    },
+    {
+      "slug": "medellin",
+      "name": "Medellín",
+      "sessionCount": 25,
+      "filmCount": 41
+    },
+    {
+      "slug": "municipios",
+      "name": "Municipios (Tenjo)",
+      "sessionCount": 3,
+      "filmCount": 3
+    },
+    {
+      "slug": "pereira",
+      "name": "Pereira",
+      "sessionCount": 13,
+      "filmCount": 30
+    },
+    {
+      "slug": "quibdo",
+      "name": "Quibdó",
+      "sessionCount": 11,
+      "filmCount": 16
+    },
+    {
+      "slug": "tunja",
+      "name": "Tunja",
+      "sessionCount": 8,
+      "filmCount": 11
+    }
+  ],
+  "warnings": []
+}

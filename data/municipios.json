@@ -1,0 +1,96 @@
+{
+  "citySlug": "municipios",
+  "cityName": "Municipios (Tenjo)",
+  "sourceFiles": [
+    "MUNICIPIOS /Programación _ TENJO.xlsx"
+  ],
+  "sessions": [
+    {
+      "date": "2026-08-13",
+      "time": "5:00 p.m",
+      "timeSortKey": 1020,
+      "venueName": "Auditorio Nhora Matallana Forero",
+      "venueAddress": null,
+      "films": [
+        {
+          "title": "AMOR REBELDE",
+          "director": "ALEJANDRO BERNAL",
+          "durationMin": 77,
+          "country": "Colombia, Canadá, Brasil",
+          "year": 2021,
+          "category": "Retrospectiva 10 años acuerdo de paz",
+          "synopsisEs": "Dos excombatientes de las FARC luchan por mantener viva su relación y construir una familia durante su tránsito a la vida civil. A lo largo de cinco años, el documental acompaña su proceso de reintegración mientras enfrentan los desafíos personales y sociales que deja el conflicto armado colombiano.",
+          "synopsisEn": "Two young former FARC guerrillas struggle to keep their love alive and start a family during the transition from war to peace. We follow them over five years as they reintegrate into civilian life, build a home, and welcome their first child. Having lived through the conflict, they are determined never to return to war, but Colombia's peace process is deeply polarized, and their future remains uncertain.",
+          "directorProfile": "Alejandro Bernal Rueda es director, productor y director de fotografía de documentales colombiano, radicado en Bogotá. Durante más de una década ha desarrollado historias documentales en distintos países de América Latina para canales internacionales como HBO, Discovery Channel, Al Jazeera English y Univision. Su trabajo se ha enfocado en temas de derechos humanos, conflicto armado, migración y medio ambiente, con un interés particular por retratar historias de acceso excepcional e íntimo. Es además director de la serie documental **Santos Bravos**, producida por LuloFilms para HYBE Latin America. *Amor rebelde* es su ópera prima como director de largometraje documental y tuvo su estreno mundial en el Hot Docs Canadian International Documentary Festival en 2021.",
+          "filmSocial": "https://linktr.ee/amorrebelde?utm_source=linktree_profile_share&ltsid=2dd028e1-7f0b-414b-86d7-628ac881a7df",
+          "directorSocial": "https://www.imdb.com/name/nm8203031/ https://www.instagram.com/alejandrobernalrueda?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
+          "posterUrl": "https://drive.google.com/open?id=1xgXQbI3QudvZsKc1d_F4G_q7imP9G7oC",
+          "trailerUrl": "https://youtu.be/_Jp5K6MhB_0",
+          "themePrimary": "Conflicto armado colombiano / Colombian armed conflict",
+          "themeSecondary": "Acuerdos de paz / Peace Accords",
+          "pressKitUrl": "https://drive.google.com/open?id=1JwxQF0Xqhv9vPrpOalU9d-vjNJbUvGEW",
+          "ageRating": "Adultos / Adults"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "date": "2026-08-15",
+      "time": "5:30 p.m",
+      "timeSortKey": 1050,
+      "venueName": "Salón Comunal de la Vereda Poveda II.",
+      "venueAddress": null,
+      "films": [
+        {
+          "title": "Republic of Amnesia",
+          "director": "Kannan Arunasalam",
+          "durationMin": 78,
+          "country": "Reino Unido, Sri Lanka",
+          "year": 2025,
+          "category": "Largometraje Documental Internacional",
+          "synopsisEs": "Republic of Amnesia sigue el ascenso y la caída del Aragalaya (“La Lucha”), el movimiento de protesta liderado por jóvenes que obligó al presidente autoritario de Sri Lanka, Gotabaya Rajapaksa, a huir del país en 2022. En el centro de la historia están jóvenes activistas como Melani, Buwanaka y Jeana, cuyo despertar político se desarrolla en tiempo real mientras organizan manifestaciones, enfrentan arrestos y desafían un sistema político construido para resistir el cambio.",
+          "synopsisEn": "Republic of Amnesia follows the rise and fall of Sri Lanka’s Aragalaya (“The Struggle”), the youth-led protest movement that forced authoritarian president Gotabaya Rajapaksa to flee the country in 2022. At its heart are young activists such as Melani, Buwanaka and Jeana, whose political awakening unfolds in real time as they organise demonstrations, face arrest, and confront a political system built to endure.",
+          "directorProfile": "Kannan Arunasalam is a British-Sri Lankan filmmaker working across documentary film and moving-image installation. His work explores memory, political resistance, and the legacies of conflict and colonialism.\n\nHis installation The Tent (2019) was presented in a solo exhibition at Yorkshire Contemporary. His documentary Sri Lanka’s Rebel Wife (2021) was shortlisted for Best Documentary at the DIG Investigative Film Awards.\n\nHe recently completed two feature documentaries: Republic of Amnesia (2025, UK/Sri Lanka), examining Sri Lanka’s 2022 Aragalaya protest movement, and Possible Landscapes (2025, US/Trinidad & Tobago), which premiered at the BlackStar Film Festival and explores intergenerational environmental experience.",
+          "filmSocial": "@republicofamnesia @lotus.eyes",
+          "directorSocial": "@lotus.eyes",
+          "posterUrl": "https://drive.google.com/open?id=1A0m8fNxf7VNSbbIlZY_Gh1MZSo3SMM0S",
+          "trailerUrl": "https://youtu.be/h8MkQ1y2YCY",
+          "themePrimary": "Democracia / Participación política - Democracy / Political participation",
+          "themeSecondary": "Memoria histórica / Historical memory",
+          "pressKitUrl": "https://drive.google.com/open?id=1qfDuvRMouwlk14CUWNj6jQLka7Csptsk",
+          "ageRating": "Adolescentes / Teenagers"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "date": "2026-08-19",
+      "time": "10:00 a.m",
+      "timeSortKey": 600,
+      "venueName": "Salón Comunal de la Vereda Poveda II.",
+      "venueAddress": null,
+      "films": [
+        {
+          "title": "La Raya",
+          "director": "Yolanda Cruz",
+          "durationMin": 80,
+          "country": "Mexico",
+          "year": 2025,
+          "category": "Largometraje Ficción",
+          "synopsisEs": "La llegada de un refrigerador cambia la vida en La Raya, un pueblo abandonado en la sierra sur de Oaxaca. Sotera y su amigo Erick tratan de venderlo y hacer un negocio. Sin embargo, el refri pronto empieza a revelar cosas misteriosas a la gente que se le acerca.",
+          "synopsisEn": "The arrival of a refrigerator changes life in La Raya, an abandoned village in the southern mountains of Oaxaca. Sotera and her friend Erick try to sell it and make a business. However, the fridge soon begins to reveal mysterious things to the people who approach it.",
+          "directorProfile": "Yolanda Cruz  es una cineasta independiente originaria de una comunidad Chatina de San Juan Quiahije, Oaxaca. En los últimos quince años ha producido: dos largometrajes, tres cortometrajes de ficción y siete documentales. Su más reciente largometraje es La Raya.\nEl tema constante de su trabajo es el arte, las lenguas indígenas y la migración. Como cineasta indígena, migrante y latina se ha centrado en filmar temas urgentes para su comunidad y presentar nuevos temas a discusión. Es alumna de Sundance y de la escuela de cine de la Universidad de California en Los Ángeles.",
+          "filmSocial": "petatefilms",
+          "directorSocial": "petatefilms",
+          "posterUrl": "https://drive.google.com/open?id=1f67q7LEDXtJxSvq6dOsBrhGo9ImGyrGE",
+          "trailerUrl": "https://youtu.be/Eaz6YFKdO_s",
+          "themePrimary": "Migración / Migration",
+          "themeSecondary": "Comunidades indígenas / Indigenous communities",
+          "pressKitUrl": null,
+          "ageRating": "Familiar / Family, Adolescentes / Teenagers, Adultos / Adults"
+        }
+      ],
+      "notes": []
+    }
+  ]
+}

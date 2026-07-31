@@ -1,0 +1,299 @@
+{
+  "citySlug": "manizales",
+  "cityName": "Manizales",
+  "sourceFiles": [
+    "MANIZALES/Programación _ MANIZALES.xlsx"
+  ],
+  "sessions": [
+    {
+      "date": "2026-08-12",
+      "time": "5:00 p.m",
+      "timeSortKey": 1020,
+      "venueName": "Centro Cultral Universitario Rogelio Salmona - Auditorio",
+      "venueAddress": null,
+      "films": [
+        {
+          "title": "Por Una Gota de Leche",
+          "director": "Esteban J. Corzo",
+          "durationMin": 59,
+          "country": "Colombia",
+          "year": 2025,
+          "category": "Cine Comunitario Nacional",
+          "synopsisEs": "En 1985, varios jóvenes guerrilleros del M-19 robaron un camión de leche para dar a la población más vulnerable del sur de Bogotá, por esto fueron asesinados por fuerzas del estado colombiano tras rendirse. 40 años después, sus familiares y la comunidad cuentan esta historia.",
+          "synopsisEn": "In 1985, several young M-19 millitants stole a milk truck to give it to the most vulnerable population in South Bogotá; for this, they were killed by Colombian State forces after surrendering. Forty years later, their families and the community tell their story.",
+          "directorProfile": "Esteban J. Corzo es un realizador audiovisual independiente colombiano, quien ha realizado varios cortometrajes premiados a nivel internacional, entre los cuales se destacan \"Encrucijada\" (Selección Oficial en Categoría Internacional del LDS Film Festival 2013 en Orem, Utah, Estados Unidos) y \"El Sexo de los Ángeles\" (selección oficial en el 30 Festival Internacional de Cine de Bogotá, entre otros). Recibió el premio a Mejor Videoclip Nacional en el Festival de Cine y Metal FICIME 2019 por su trabajo \"Muerte, el Libro de Tu Vida\" de la banda de metal colombiano Pacto, así como los reconocimientos al cortometraje \"Monstruos en Cuarentena\" (Selección Oficial en Categoría Profesional de SmartFilms 2020 y ganador al premio a Mejor Maquillaje, Selección Oficial en el Bogotá Horror Film Festival 2020 y elegido en el Top 5 del Mobile Got Talent 2020).\n\nRecientemente, su cortometraje \"Desprogramación\" ganó el Primer Puesto en la categoría Sci-Fi en Cine Con Lo Que Hay Fest 2023 y su cortometraje \"Un Retoque para Marina\" fue premiado como Mejor Ficción Nacional en el Festival Internacional De Cine De Suacha - Ficxue 2023. Recientemente finalizó el documental \"Por Una Gota de Leche\", su primer largometraje documental, el cual se encuentra actualmente en circuito de festivales.",
+          "filmSocial": "instagram.com/gatanegrafilms, instagram.com/esteban.j.corzo",
+          "directorSocial": "instagram.com/esteban.j.corzo",
+          "posterUrl": "https://drive.google.com/open?id=1PjhNKcsQeJAqI6WumMLYSqVjPSB7w1sd",
+          "trailerUrl": "https://youtu.be/VJ42h_vilV0?si=BJTkXi11TwPDLhMX",
+          "themePrimary": "Conflicto armado colombiano / Colombian armed conflict",
+          "themeSecondary": "Líderes sociales / Defensores de Derechos Humanos - Social Leaders / Human Rights Defenders",
+          "pressKitUrl": "N/A",
+          "ageRating": "Familiar / Family, Adolescentes / Teenagers, Adultos / Adults"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "date": "2026-08-12",
+      "time": "7:00 p.m",
+      "timeSortKey": 1140,
+      "venueName": "Centro Cultral Universitario Rogelio Salmona - Auditorio",
+      "venueAddress": null,
+      "films": [
+        {
+          "title": "Si La Escombrera hablara",
+          "director": "Juan Prado",
+          "durationMin": 30,
+          "country": "Colombia",
+          "year": 2025,
+          "category": "Cortometraje Documental Nacional",
+          "synopsisEs": "En la comuna 13 de Medellín se encuentra la fosa urbana más grande de América Latina: La Escombrera. Las familias de las personas víctimas de desaparición forzada la señalan como el lugar donde están muchos de los 503 desaparecidos de este territorio. TRas dos décadas de negacionismo, la búsqueda forense liderada por el colectivo Mujeres Caminando por la Verdad desencadenó en 2024, el hallazgo de cuerpos. Este acontecimiento histórico envió un mensaje muy claro a toda Colombia: la tierra ha comenzado a hablar.",
+          "synopsisEn": "Medellín’s Comuna 13 is home to the largest urban mass grave in Latin America. La Escombrera has been identified by families of victims of enforced disappearance as the site where many of the territory’s 503 disappeared persons are buried. Mujeres Caminando por la Verdad leads the forensic search that, after two decades of denialism, led to the discovery of human remains in 2024. This historic event sent a clear message across Colombia: the earth has begun to speak.",
+          "directorProfile": "Politólogo de la Universidad Nacional, miembro de la Corporación Cultural TallerarTe y del Movimiento Nacional de Víctimas de Crímenes de Estado. Apoya tareas de comunicación con la creación de contenidos audiovisuales en diferentes formatos. Ha hecho parte de procesos comunitarios asociados al cine y la comunicación como el Colectivo Audiovisual CINEngaños (2005-2017) y la Alianza de Medios Alternativos (2013-2021). En estos hizo su formación como comunicador popular y participó en la realización de producciones asociadas a temáticas como: memoria barrial, defensa del territorio y derechos humanos.",
+          "filmSocial": "Redes de las organizaciones productoras: https://www.instagram.com/corpojuridicalibertad?igsh=MWE1amZ2ZndlbjJ0dQ== https://www.instagram.com/mcv.comuna13?igsh=MWN4MmhtamtqbTFtNQ==",
+          "directorSocial": "https://www.instagram.com/prado.londono?igsh=MWp4MXBrNHFieXlrZw==",
+          "posterUrl": "https://drive.google.com/open?id=1h2C8RzRt2MBAcXX5MQ4a_eUINVKzZE34",
+          "trailerUrl": "https://youtu.be/AL9VIZAH1cE",
+          "themePrimary": "Desaparición Forzada",
+          "themeSecondary": "Justicia restaurativa / Restorative justice",
+          "pressKitUrl": "N/A",
+          "ageRating": "Adultos / Adults"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "date": "2026-08-13",
+      "time": "5:00 p.m",
+      "timeSortKey": 1020,
+      "venueName": "Centro Cultral Universitario Rogelio Salmona - Auditorio",
+      "venueAddress": null,
+      "films": [
+        {
+          "title": "El Silencio de la Tierra",
+          "director": "Frank Gutiérrez",
+          "durationMin": 77,
+          "country": "España / Francia /Bélgica",
+          "year": 2026,
+          "category": "Largometraje Documental Internacional",
+          "synopsisEs": "Berta Cáceres, Paulo Paulino Guajajara y Aldo Zamora dieron la vida por defender la Tierra. Estos activistas medioambientales fueron brutalmente asesinados en América Latina por enfrentarse a los intereses de grandes corporaciones multinacionales y sus aliados locales. ¿Quién está detrás de estos crímenes y por qué gozan de una impunidad casi total? ¿Qué consecuencias tiene esta violencia para el planeta y el futuro de la humanidad?",
+          "synopsisEn": "Berta Cáceres, Paulo Paulino Guajajara, and Aldo Zamora gave their lives defending the Earth. These environmental activists were brutally murdered in Latin America for standing up to the interests of large multinational corporations and their local allies. Who is behind these crimes, and why do they enjoy near-total impunity? What consequences does this violence have for the planet and the future of humanity?",
+          "directorProfile": "Con casi cuatro décadas de experiencia en el sector audiovisual, se ha consolidado como un profesional de referencia en cine y televisión. Ha trabajado como montador en documentales y series destacadas como Al otro lado del muro, 9 días en Haití, Tranvía Crucis o La Fibra Sensible, entre otras. Su trayectoria rigurosa y versátil ha sido reconocida con premios y nominaciones. Tras más de veinte años como montador, debuta ahora como director, aportando toda su experiencia y sensibilidad narrativa.",
+          "filmSocial": "@diagonaltelevisio",
+          "directorSocial": "N/A",
+          "posterUrl": "https://drive.google.com/open?id=1Rb7WJ3-xzFcLweJ0ouZLb8xGG-EvYL7w",
+          "trailerUrl": "https://youtu.be/-7_eeb4h2Vg",
+          "themePrimary": "Medio ambiente / Environment",
+          "themeSecondary": "Líderes sociales / Defensores de Derechos Humanos - Social Leaders / Human Rights Defenders",
+          "pressKitUrl": "https://drive.google.com/open?id=1Rb7WJ3-xzFcLweJ0ouZLb8xGG-EvYL7w",
+          "ageRating": "Adultos / Adults"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "date": "2026-08-13",
+      "time": "7:00 p.m",
+      "timeSortKey": 1140,
+      "venueName": "Centro Cultral Universitario Rogelio Salmona - Auditorio",
+      "venueAddress": null,
+      "films": [
+        {
+          "title": "Volver a creer",
+          "director": "Paola Díaz Gómez, Nicolás Cuéllar Gempeler, Eric Marti, Nayid Lorena Herran, Gustavo Cabezas, Ismail Pang, Mumit M, Maria Fernanda Pinilla",
+          "durationMin": 16,
+          "country": "Colombia, Kenia, Bangladesh",
+          "year": 2025,
+          "category": "Cine Comunitario Nacional",
+          "synopsisEs": "Volver a Creer es un cortometraje documental que reúne a seis equipos de producción de Colombia, Kenia y Bangladés para contar una historia común: cómo el arte fortalece a las comunidades, las conecta más allá de sus fronteras y las impulsa a recuperar la esperanza. A través de imágenes íntimas y relatos entrelazados, el filme muestra cómo la creatividad transforma las heridas de cada territorio en resistencia, encuentro y una visión compartida de futuro.",
+          "synopsisEn": "Believe Again is a documentary short film that brings together six production teams from Colombia, Kenya, and Bangladesh to tell a shared story: how art strengthens communities, connects them across borders, and helps them regain hope. Through intimate visuals and interconnected stories, the film shows how creativity transforms the wounds of each territory into resilience, connection, and a shared vision for the future.",
+          "directorProfile": "Historias en Kilómetros (HEK) es un laboratorio de formación, producción y difusión de cine comunitario que desde 2018 trabaja en tres continentes, en lugares históricamente invisibilizados, con comunidades afrocolombianas, firmantes de paz, campesinos, comunidad LGBTIQ+, comunidades indígenas y campos de refugiados en Kenia y Bangladesh.\n\nA lo largo de su trayectoria, HEK ha consolidado una metodología propia de formación audiovisual comunitaria que combina creación cinematográfica, memoria colectiva y  fortalecimiento organizativo. A través de procesos de formación desarrollados junto a organizaciones sociales, instituciones nacionales e internacionales y aliados estratégicos, ha acompañado la creación y el fortalecimiento de más de 16 productoras comunitarias en Colombia, así como de equipos locales en Bangladesh y Kenia. Estos procesos han permitido que comunidades históricamente excluidas desarrollen capacidades para narrar sus propias historias desde sus territorios.\n\nAdemás de su laboratorio de formación, HEK ha impulsado producciones documentales dirigidas por realizadores comunitarios, promovido intercambios culturales internacionales y consolidado el Festival Internacional de Cine Comunitario HEK, un espacio de encuentro entre experiencias audiovisuales de América Latina, África y Asia. Este trabajo ha dado origen a innovadoras experiencias de creación colaborativa internacional, incluyendo producciones transcontinentales realizadas por cineastas formados dentro del laboratorio.\n\nA lo largo de su historia, Historias en Kilómetros ha demostrado que el cine comunitario es una herramienta de transformación social, memoria colectiva y construcción de paz. Su metodología, alianzas, producciones y festivales han permitido que decenas de comunidades narren sus propias historias, fortalezcan sus procesos culturales y amplifiquen sus voces a nivel nacional e internacional.",
+          "filmSocial": "https://www.instagram.com/historiasenkm/",
+          "directorSocial": "Instagram: https://www.instagram.com/historiasenkm/ Facebook: https://www.facebook.com/Historiasenkilometros",
+          "posterUrl": "https://drive.google.com/open?id=1HvGF3k5mUvK3nXqPw1J5VsZs9geJBX6d",
+          "trailerUrl": "https://youtu.be/JCRTkNVm5Eo",
+          "themePrimary": "Derechos culturales / Cultural rights",
+          "themeSecondary": "Líderes sociales / Defensores de Derechos Humanos - Social Leaders / Human Rights Defenders",
+          "pressKitUrl": "N/A",
+          "ageRating": "Adultos / Adults"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "date": "2026-08-18",
+      "time": "5:00 p.m",
+      "timeSortKey": 1020,
+      "venueName": "Centro Cultral Universitario Rogelio Salmona - Auditorio",
+      "venueAddress": null,
+      "films": [
+        {
+          "title": "Hija Del Volcán",
+          "director": "Jenifer de la Rosa",
+          "durationMin": 109,
+          "country": "España -Mexico",
+          "year": 2026,
+          "category": "Largometraje Documental Nacional",
+          "synopsisEs": "Adoptada en España tras la tragedia de Armero, Jenifer ha vivido treinta años con una pregunta que nunca dejó de perseguirla: ¿quién era su madre? La única pista que tiene sobre su origen la lleva de regreso a Colombia, al lugar donde la erupción del volcán Nevado del Ruiz sepultó un pueblo entero y cambió miles de vidas para siempre.",
+          "synopsisEn": "Adopted in Spain after the Armero tragedy, Jenifer has spent thirty years haunted by a question that never left her: who was her mother? The only clue to her origins leads her back to Colombia, to the place where the eruption of the Nevado del Ruiz volcano buried an entire town and forever changed thousands of lives.",
+          "directorProfile": "Guionista, directora y productora de ficción y documental, periodista, nacida en Colombia y adoptada en España. Su primer largometraje documental, “Hija del volcán”, en el que explora su propia búsqueda de orígenes, se estrenó en DocsMx, ganó el Premio Seminci Joven en 2024 y el Premio Mejor Dirección Festival Cine Madrid 2025, entre otros.\n\nEn 2024 realizó la miniserie “En el centro” para el Ministerio de Derechos Sociales de España; desarrolla el largometraje documental “La herida primaria”, mientras co-dirige y produce “Sin pecado concebidas” junto a Raquel Colera y Claudia Barthelemy, y escribe su primer largo de ficción “Con todo lo vivido”. Su corto “Tierra” se estrenó en la 67ª Seminci, y ha viajado por todo el mundo. \n\nFundadora de Mayéutica Producciones y Colectiva Fílmica. Como productora forma parte de la coproducción internacional hispano-francesa de la primera película de Irlanda Tambascio “El jaguar y el camaleón”. Participa como ponente en eventos sobre diversidad y antirracismo en el cine por todo el mundo.",
+          "filmSocial": "@doccoagencia",
+          "directorSocial": "@jedelarosa",
+          "posterUrl": "https://drive.google.com/open?id=1dE5ROY_DrP5Kf1n9GKcBy3Jgx6BKdtP6",
+          "trailerUrl": "https://youtu.be/eiW9qOsIJqk",
+          "themePrimary": "Desaparición",
+          "themeSecondary": "Memoria histórica / Historical memory",
+          "pressKitUrl": "N/A",
+          "ageRating": "Familiar / Family"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "date": "2026-08-18",
+      "time": "7:00 p.m",
+      "timeSortKey": 1140,
+      "venueName": "SALA FUNDADORES",
+      "venueAddress": null,
+      "films": [
+        {
+          "title": "Soñé su nombre",
+          "director": "Ángela Carabalí",
+          "durationMin": 86,
+          "country": "Colombia",
+          "year": 2026,
+          "category": "Largometraje Documental Nacional",
+          "synopsisEs": "Después de 30 años negando su dolor, Ángela se enfrenta a su pasado cuando su padre, en un sueño, le pide que lo busque. Junto a su hermana Juliana, emprende un viaje a través de Colombia hasta las tierras indígenas donde su padre, un agricultor afrodescendiente, fue víctima de desaparición forzada.",
+          "synopsisEn": "After 30 years of suppressing her grief, Ángela is forced to confront her past when her father appears in a dream, asking her to find him. Accompanied by her sister Juliana, she sets out on a journey across Colombia to the Indigenous territories where her father, an Afro-descendant farmer, was forcibly disappeared.",
+          "directorProfile": "Documentalista afrocolombiana, con maestría honorífica en Cine Documental y máster en Fotografía Documental. “Soñé su nombre” es su primer largometraje (Hot Docs - Mención Especial del Jurado, DOC NYC, FAM - Mejor largometraje, FICCALI - Mejor largometraje nacional, FIDBA - Mejor largometraje Iberoamericano, SFFILM, VLAFF 2025)\n\nEs directora, guionista y coproductora del documental interactivo \"Pregoneros de Medellín\" reconocido internacionalmente. (Dok Leipzig, MIT Docubase). Becaria del Instituto Sundance, Firelight Media, American Film Showcase, Fondo ERA - para la equidad racial  y Solutions Storytelling Project:LATAM, donde creó el cortometraje documental “El eco”.  \n\nSocia fundadora de la compañía Carabalí Films & New Media, que aborda temas sociales, étnicos y narrativas transmedia.",
+          "filmSocial": "@doccoagencia",
+          "directorSocial": "@la_carabli",
+          "posterUrl": "https://drive.google.com/open?id=1v3_bVfqJbktUGd5wNzuZw_YGJ0gBzFZx",
+          "trailerUrl": "https://youtu.be/a3RN7grJq3c",
+          "themePrimary": "Desaparición Forzada",
+          "themeSecondary": "Memoria histórica / Historical memory",
+          "pressKitUrl": "https://drive.google.com/open?id=1yars_FFiuYc_6nJ2bryVMOR_dyT4GyyU",
+          "ageRating": "Familiar / Family"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "date": "2026-08-19",
+      "time": "10:30 a.m",
+      "timeSortKey": 630,
+      "venueName": "Facultad Ciencias Jurídicas y Sociales - Auditorio Tulio Gómez Estrada",
+      "venueAddress": null,
+      "films": [
+        {
+          "title": "Cuando la palabra se hace búsqueda",
+          "director": "Frank Benitez",
+          "durationMin": 61,
+          "country": "Colombia",
+          "year": 2026,
+          "category": "Largometraje Documental Nacional",
+          "synopsisEs": "En Colombia, la búsqueda de las personas desaparecidas ha abierto caminos inesperados de encuentro entre quienes sufren su ausencia y quienes guardan información clave sobre su paradero. Este largometraje revela el papel fundamental de los aportantes de información, en las voces de quienes participaron directa e indirectamente en las hostilidades y que, desde el compromiso, han decidido sumarse al proceso humanitario de la búsqueda liderado por la Unidad de Búsqueda (UBPD).",
+          "synopsisEn": "In Colombia, the search for missing persons has opened unexpected paths of connection between those who suffer their absence and those who hold key information about their whereabouts. This feature film reveals the fundamental role of information providers, through the voices of those who participated directly and indirectly in the hostilities and who, driven by commitment, have decided to join the humanitarian search process led by the Search Unit (UBPD).",
+          "directorProfile": "Guionista y director colombiano. Entre sus obras se encuentran el documental EL PANTERA, estrenado en 2025; la miniserie LAS IGUANAS, estrenada en HBO Max; y los cortometrajes ZOMBIE, estrenado en el Festival Internacional de Cine de Huesca 2024, El TRAJE DE KARINA, ganador de Mejor Guion y Mejor Dirección en el Festival de Cine Queer de Long Beach 2021, y MINUTO 200, Mejor Cortometraje Iberoamericano en el Festival de Cine de Guadalajara 2012",
+          "filmSocial": "@UBPDColombia",
+          "directorSocial": "@franklugosi",
+          "posterUrl": "https://drive.google.com/open?id=19jCOYfC7WSsA5vAWv21PKLfucDn8XHQJ",
+          "trailerUrl": "https://youtu.be/BpsG1cflm9A",
+          "themePrimary": "Conflicto armado colombiano / Colombian armed conflict",
+          "themeSecondary": "Acuerdos de paz / Peace Accords",
+          "pressKitUrl": null,
+          "ageRating": "Adultos / Adults"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "date": "2026-08-19",
+      "time": "5:00 p.m",
+      "timeSortKey": 1020,
+      "venueName": "Facultad Ciencias Jurídicas y Sociales - Auditorio Tulio Gómez Estrada",
+      "venueAddress": null,
+      "films": [
+        {
+          "title": "Bojayá, la verdad desde adentro",
+          "director": "Ramón Alexander Valencia Córdoba",
+          "durationMin": 105,
+          "country": "Colombia",
+          "year": 2026,
+          "category": "Retrospectiva 10 años del acuerdo de paz",
+          "synopsisEs": "Tres líderes de Bojayá recorren el municipio llevando el baúl de la verdad, recogiendo cuestionamientos y exigencias de la comunidad para enfrentar a los responsables del conflicto armado en su territorio. Después de su recorrido, comparten las respuestas que han encontrado con la comunidad con quienes construyen una verdad desde adentro.",
+          "synopsisEn": "Three leaders from Bojayá travel throughout the municipality carrying a \"truth chest\", gathering questions and demands from the community to confront those responsible for the armed conflict in their territory. After their journey, they share the answers they have found with the community, working together to construct a truth from within.",
+          "directorProfile": "Sociólogo y gestor cultural. Investigador social y comunitario. Director del documental de reparación de la comunidad de Bojayá.",
+          "filmSocial": "https://www.instagram.com/bojayadesdeadentro/",
+          "directorSocial": "https://www.instagram.com/alex_valenciac/",
+          "posterUrl": "https://drive.google.com/open?id=1cYpzzghv1BYZYc7Y2Etv8h0MezYEx-Lj",
+          "trailerUrl": "https://youtu.be/VcqMdpor2is",
+          "themePrimary": "Memoria histórica / Historical memory",
+          "themeSecondary": "Conflicto armado colombiano / Colombian armed conflict",
+          "pressKitUrl": null,
+          "ageRating": "Familiar / Family"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "date": "2026-08-19",
+      "time": "7:00 p.m",
+      "timeSortKey": 1140,
+      "venueName": "SALA FUNDADORES",
+      "venueAddress": null,
+      "films": [
+        {
+          "title": "EL JUEGO DE LA VIDA",
+          "director": "Mario Andrés Ruiz Zuluaga",
+          "durationMin": 95,
+          "country": "Colombia",
+          "year": 2026,
+          "category": "Largometraje Documental Nacional",
+          "synopsisEs": "Un documental sigue durante 14 años a cinco familias colombianas que enfrentan las desigualdades de un país donde el origen influye en las oportunidades. A través de sus decisiones, frustraciones, resiliencia y logros, revela que, aunque las reglas no son iguales para todos, la voluntad de transformar el propio destino persiste. EL JUEGO DE LA VIDA es un retrato íntimo sobre la movilidad social, la dignidad y la esperanza en Colombia.",
+          "synopsisEn": "A documentary follows five Colombian families for 14 years as they confront the inequalities of a country where one's origins influence opportunities. Through their decisions, frustrations, resilience, and achievements, it reveals that, although the rules are not the same for everyone, the will to transform one's own destiny persists. THE GAME OF LIFE is an intimate portrait of social mobility, dignity, and hope in Colombia.",
+          "directorProfile": "Mario Andrés Ruiz es documentalista y realizador audiovisual, magíster en creación\nliteraria de la Universidad Central y comunicador social de la Universidad Externado de Colombia. En 2007 dirigió y produjo el documental Cuestión de química, ganador del premio Santa Lucía a Mejor Documental en el Festival In Vitro Visual (hoy Bogoshorts). Con esta obra obtuvo el Premio Nacional de Periodismo Simón Bolívar y participó en la 9a Muestra\nDocumental del RIDM en Montreal en 2008.",
+          "filmSocial": "@septima_films, @marioandresruiz, @cineplexcol",
+          "directorSocial": "@marioandresruiz - Instagram, @andresruizzuluaga - TikTok",
+          "posterUrl": "https://drive.google.com/open?id=1r7untwB8Vqmc1enjpn3669EfgCa5IwQk",
+          "trailerUrl": "https://youtu.be/GQODuASHV-s",
+          "themePrimary": "Estudio de Familias y sus expectativas de vida",
+          "themeSecondary": "Evolución de la pobreza en Colombia",
+          "pressKitUrl": "https://drive.google.com/open?id=1x_neezlqjkCO_jTZ-nAM8nncPmPDZnWF",
+          "ageRating": "Familiar / Family"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "date": "2026-08-19",
+      "time": "7:30 p.m",
+      "timeSortKey": 1170,
+      "venueName": "Facultad Ciencias Jurídicas y Sociales - Auditorio Tulio Gómez Estrada",
+      "venueAddress": null,
+      "films": [
+        {
+          "title": "Madres de nacimiento",
+          "director": "Gloria Isabel Gómez Ceballos",
+          "durationMin": 8,
+          "country": "Colombia",
+          "year": 2026,
+          "category": "Cortometraje Documental Nacional",
+          "synopsisEs": "Del olvido y la oscuridad hay imágenes y sonidos que resurgen para controlar los cuerpos de las mujeres latinoamericanas, quienes desde niñas han sido consideradas madres de nacimiento. Pero en estos archivos emerge una interferencia que proviene del pasado para evocar un mensaje de lucha, memoria y libertad.",
+          "synopsisEn": "From oblivion and obscurity there are images and sounds that resurface to control the bodies of Latin American women, who since childhood have been considered to be mothers from birth. But there is an interference that emerges in these archives which comes from the past to evoke a message of struggle, memory and freedom.",
+          "directorProfile": "Cineasta y docente latinoamericana egresada de la maestría en Creación y Estudios Audiovisuales, con tesis Cum Laude. Desde 2013 dirige cortometrajes enfocados en el duelo, el cine ensayo y los derechos de las mujeres. En 2018 cofundó El Cine Sana, empresa audiovisual que ha colaborado con el Ministerio de las Culturas, la Cinemateca Distrital de Medellín y ACDI/VOCA. Actualmente adelanta estudios doctorales en la Universidad de Quebec en Montreal, donde explora la creación participativa como herramienta de emancipación frente a los discursos que intentan controlar el cuerpo de las mujeres.",
+          "filmSocial": "https://www.instagram.com/cinespecimen/",
+          "directorSocial": "https://www.instagram.com/isabeldandi/ https://www.instagram.com/elcinesana/",
+          "posterUrl": "https://drive.google.com/open?id=1FPzYHIicrSAu54iYgp00yafM29td9WEj",
+          "trailerUrl": "https://youtu.be/TQ-JUyHWbPo",
+          "themePrimary": "Violencias basadas en género / Gender-based violence",
+          "themeSecondary": "Infancia y adolescencia / Infancy and adolescence",
+          "pressKitUrl": "https://drive.google.com/open?id=1Y11I2E1awPt32zqSSj8J7iAg3eNrAhwS",
+          "ageRating": "Familiar / Family, Adolescentes / Teenagers, Adultos / Adults"
+        }
+      ],
+      "notes": []
+    }
+  ]
+}

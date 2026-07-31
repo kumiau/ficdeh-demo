@@ -1,0 +1,2625 @@
+{
+  "citySlug": "bogota",
+  "cityName": "Bogotá",
+  "sourceFiles": [
+    "BOGOTÁ/Bogotá_Programación 13° FICDEH.xlsx"
+  ],
+  "sessions": [
+    {
+      "date": "2026-08-12",
+      "time": "6:00 p.m",
+      "timeSortKey": 1080,
+      "venueName": "INAUGURACIÓN, TEATRO COLÓN - ENTRADA LIBRE",
+      "venueAddress": "Cl. 10 # 5-32 La Candelaria",
+      "films": [
+        {
+          "title": "Bojayá, la verdad desde adentro",
+          "durationMin": 105,
+          "time": "6:00 p.m",
+          "director": "Ramón Alexander Valencia Córdoba",
+          "country": "Colombia",
+          "year": 2026,
+          "category": "Largometraje Documental Nacional",
+          "qa": "Sí",
+          "premiere": "Sí"
+        }
+      ],
+      "notes": [
+        "Cóctel",
+        "CONVERSATORIO - LINK FOTOS",
+        "Moderación - Juan Manuel Santos - Fotos_InvitadosBojaya_2026",
+        "Director y guionista - Ramon Alexander Valencia Cordoba",
+        "Protagonistas - Maria Pascuala Palacios Chaverra",
+        "Heidy Palacios Conchave",
+        "Ever Murillo Rivas"
+      ]
+    },
+    {
+      "date": "2026-08-13",
+      "time": "8:00 a.m",
+      "timeSortKey": 480,
+      "venueName": "CRA 44 #58C-90 SUR",
+      "venueAddress": null,
+      "films": [
+        {
+          "title": "El valor de la palabra",
+          "durationMin": 79,
+          "time": "8:00 a.m",
+          "director": "Marta Rodríguez y Fernando Restrepo",
+          "country": "Colombia",
+          "year": 2026,
+          "category": "Largometraje Documental Nacional",
+          "sala": null,
+          "qa": null,
+          "premiere": "NO"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "date": "2026-08-13",
+      "time": "10:00 a.m",
+      "timeSortKey": 600,
+      "venueName": "CDJ IWOKA",
+      "venueAddress": "CRA. 78N BIS #39-33",
+      "films": [
+        {
+          "title": "Mujeres modernas",
+          "durationMin": 69,
+          "time": "10:00 a.m",
+          "director": "Hugo Santa Cruz",
+          "country": "Reino Unido",
+          "year": 2025,
+          "category": "Largometraje Ficción",
+          "sala": null,
+          "qa": null,
+          "premiere": "SI"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "date": "2026-08-13",
+      "time": "11:00 a.m",
+      "timeSortKey": 660,
+      "venueName": "BP CEFE FONTANAR DEL RIO",
+      "venueAddress": "CALLE 146 #138A-99",
+      "films": [
+        {
+          "title": "Cortometrajes",
+          "durationMin": 17,
+          "time": "11:00 a.m",
+          "director": "Omar E. Ospina Giraldo",
+          "country": "Colombia",
+          "year": 2025,
+          "category": "Cortometraje Ficción Nacional",
+          "sala": null,
+          "qa": null,
+          "premiere": "NO"
+        },
+        {
+          "title": "Los pliegues de la falda",
+          "durationMin": 18,
+          "time": null,
+          "director": "Blanca Muñoz Ávila",
+          "country": "Colombia",
+          "year": 2025,
+          "category": "Cortometraje Ficción Nacional",
+          "sala": null,
+          "qa": null,
+          "premiere": null
+        },
+        {
+          "title": "Más allá",
+          "durationMin": 16,
+          "time": null,
+          "director": "Bettina López Mendoza",
+          "country": "Venezuela/Colombia/Estados Unidos/Canadá",
+          "year": 2025,
+          "category": "Cortometraje Ficción Nacional",
+          "sala": null,
+          "qa": null,
+          "premiere": null
+        },
+        {
+          "title": "La Cerrillana",
+          "durationMin": 14,
+          "time": null,
+          "director": "Andrea Urquiola",
+          "country": "Argentina",
+          "year": 2025,
+          "category": "Cortometraje Ficción Internacional",
+          "sala": null,
+          "qa": null,
+          "premiere": null
+        },
+        {
+          "title": "Chaski Pacha",
+          "durationMin": 22,
+          "time": null,
+          "director": "Ramiro Fierro",
+          "country": "Colombia",
+          "year": 2025,
+          "category": "Cortometraje Ficción Nacional",
+          "sala": null,
+          "qa": null,
+          "premiere": null
+        }
+      ],
+      "notes": []
+    },
+    {
+      "date": "2026-08-13",
+      "time": "11:00 a.m",
+      "timeSortKey": 660,
+      "venueName": "TEATRO EL ENSUEÑO",
+      "venueAddress": "TRANSVERSAL 70D #60-90",
+      "films": [
+        {
+          "title": "La Raya",
+          "durationMin": 80,
+          "time": "11:00 a.m",
+          "director": "Yolanda Cruz",
+          "country": "México",
+          "year": 2025,
+          "category": "Largometraje Ficción",
+          "sala": null,
+          "qa": null,
+          "premiere": "NO"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "date": "2026-08-13",
+      "time": "2:00 p.m",
+      "timeSortKey": 840,
+      "venueName": "BP LA VICTORIA",
+      "venueAddress": "CALLE 37 BIS B SUR #2B",
+      "films": [
+        {
+          "title": "Cortometrajes",
+          "durationMin": 20,
+          "time": "2:00 p.m",
+          "director": "John Agudelo Suárez",
+          "country": "Colombia",
+          "year": 2025,
+          "category": "Cortometraje Ficción Nacional",
+          "sala": null,
+          "qa": null,
+          "premiere": "NO"
+        },
+        {
+          "title": "Una torreta en llamas",
+          "durationMin": 22,
+          "time": null,
+          "director": "Humberto Flores Jáuregui",
+          "country": "México",
+          "year": 2025,
+          "category": "Cortometraje Ficción Internacional",
+          "sala": null,
+          "qa": null,
+          "premiere": null
+        },
+        {
+          "title": "La gran hazaña",
+          "durationMin": 15,
+          "time": null,
+          "director": "Luber Yesidt Zúñiga Ordóñez",
+          "country": "Colombia",
+          "year": 2025,
+          "category": "Cortometraje Ficción Nacional",
+          "sala": null,
+          "qa": null,
+          "premiere": null
+        },
+        {
+          "title": "El Paraíso de Ainara",
+          "durationMin": 14,
+          "time": null,
+          "director": "Esther Niemeier/Laura Espinel",
+          "country": "Alemania/ Colombia",
+          "year": 2025,
+          "category": "Cortometraje Documental Nacional",
+          "sala": null,
+          "qa": null,
+          "premiere": null
+        }
+      ],
+      "notes": []
+    },
+    {
+      "date": "2026-08-13",
+      "time": "2:00 p.m",
+      "timeSortKey": 840,
+      "venueName": "BP LAS FERIAS",
+      "venueAddress": "CRA 69J #73-29",
+      "films": [
+        {
+          "title": "Herencia: Los cantos de la tierra",
+          "durationMin": 82,
+          "time": "2:00 p.m",
+          "director": "Iván Acosta Rojas",
+          "country": "Colombia",
+          "year": 2026,
+          "category": "Largometraje Documental Nacional",
+          "sala": null,
+          "qa": null,
+          "premiere": "NO"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "date": "2026-08-13",
+      "time": "2:00 p.m",
+      "timeSortKey": 840,
+      "venueName": "CINEMATECA DE BOGOTÁ - BOLETERÍA EN TAQUILLA",
+      "venueAddress": "Carrera 3 # 19 - 10 - Santa Fe",
+      "films": [
+        {
+          "title": "Niñxs",
+          "durationMin": 86,
+          "time": "2:00 p.m",
+          "director": "Kani Lapuerta",
+          "country": "México , Alemania",
+          "year": 2025,
+          "category": "Largometraje Documental Internacional",
+          "sala": "Sala Capital",
+          "qa": null,
+          "premiere": "Sí"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "date": "2026-08-13",
+      "time": "2:30 p.m",
+      "timeSortKey": 870,
+      "venueName": "CINEMATECA DE BOGOTÁ - BOLETERÍA EN TAQUILLA",
+      "venueAddress": "Carrera 3 # 19 - 10 - Santa Fe",
+      "films": [
+        {
+          "title": "El silencio de la tierra",
+          "durationMin": 77,
+          "time": "2:30 p.m",
+          "director": "Frank Gutierrez",
+          "country": "España, Francia, Bélgica",
+          "year": 2026,
+          "category": "Largometraje Documental Internacional",
+          "sala": "Sala 2",
+          "qa": null,
+          "premiere": "Sí"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "date": "2026-08-13",
+      "time": "3:00 p.m",
+      "timeSortKey": 900,
+      "venueName": "CINEMATECA DE BOGOTÁ - BOLETERÍA EN TAQUILLA",
+      "venueAddress": "Carrera 3 # 19 - 10 - Santa Fe",
+      "films": [
+        {
+          "title": "Aminetu",
+          "durationMin": 92,
+          "time": "3:00 p.m",
+          "director": "Lucía Muñoz Lucena",
+          "country": "España",
+          "year": 2026,
+          "category": "Largometraje Documental Internacional",
+          "sala": "Sala 3",
+          "qa": null,
+          "premiere": "Sí"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "date": "2026-08-13",
+      "time": "4:30 p.m",
+      "timeSortKey": 990,
+      "venueName": "CINEMATECA DE BOGOTÁ - BOLETERÍA EN TAQUILLA",
+      "venueAddress": "Carrera 3 # 19 - 10 - Santa Fe",
+      "films": [
+        {
+          "title": "La Raya",
+          "durationMin": 80,
+          "time": "4:30 p.m",
+          "director": "Yolanda Cruz",
+          "country": "México",
+          "year": 2025,
+          "category": "Largometraje Ficción Internacional",
+          "sala": "Sala Capital",
+          "qa": null,
+          "premiere": null
+        }
+      ],
+      "notes": []
+    },
+    {
+      "date": "2026-08-13",
+      "time": "5:00 p.m",
+      "timeSortKey": 1020,
+      "venueName": "CINEMATECA DE BOGOTÁ - BOLETERÍA EN TAQUILLA",
+      "venueAddress": "Carrera 3 # 19 - 10 - Santa Fe",
+      "films": [
+        {
+          "title": "XIE. Defensa de la Vida",
+          "durationMin": 71,
+          "time": "5:00 p.m",
+          "director": "Paola Zuluaga Palacios/ Adriana Bernal -Mor",
+          "country": "Colombia",
+          "year": 2025,
+          "category": "Largometraje Documental Nacional",
+          "sala": "Sala 2",
+          "qa": "Sí",
+          "premiere": null
+        }
+      ],
+      "notes": []
+    },
+    {
+      "date": "2026-08-13",
+      "time": "6:00 p.m",
+      "timeSortKey": 1080,
+      "venueName": "UNIVERSIDAD MINUTO DE DIOS",
+      "venueAddress": null,
+      "films": [
+        {
+          "title": "Semillas",
+          "durationMin": 100,
+          "time": "6:00 p.m",
+          "director": "Eliana Niño",
+          "country": "Colombia/España",
+          "year": 2025,
+          "category": "Largometraje Ficción",
+          "sala": null,
+          "qa": null,
+          "premiere": "NO"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "date": "2026-08-13",
+      "time": "6:30 p.m",
+      "timeSortKey": 1110,
+      "venueName": "CINEMA LOCAL",
+      "venueAddress": "CALLE 74 #20 B - 19",
+      "films": [
+        {
+          "title": "El mundo de Gugu (Feito Pipa)",
+          "durationMin": 93,
+          "time": "6:30 p.m",
+          "director": "Allan Deberton",
+          "country": "Brasil",
+          "year": 2026,
+          "category": "Largometraje Ficción",
+          "sala": null,
+          "qa": null,
+          "premiere": "NO"
+        }
+      ],
+      "notes": [
+        "Las guardianas del agua",
+        "05: 00 p.m. - Reseña - A partir de la proyección de la película XIE. Defensa de la vida, las invitadas conversarán sobre su experiencia de liderazgo en defensa del agua y la vida en La Calera.",
+        "MODERADORA - Gloria Castrillón - Periodista.Exdirectora editorial de Colombia +20.",
+        "PARTICIPANTES - Yessika Hoyos - Abogada. Integrante del Colectivo de Abogados y Abogadas José Alvear Restrepo -CAJAR.",
+        "Herminia Cristancho Cristancho - Lideresa ambiental. Fundadora de la Asociación de Veredas de La Calera -AVC.",
+        "Paola Zuluaga - Codirectora del documental XIE. Defensa de la vida.",
+        "Adriana Bernal - Mor - Codirectora del documental XIE. Defensa de la vida."
+      ]
+    },
+    {
+      "date": "2026-08-13",
+      "time": "7:30 p.m",
+      "timeSortKey": 1170,
+      "venueName": "CINEMATECA DE BOGOTÁ - BOLETERÍA EN TAQUILLA",
+      "venueAddress": "Carrera 3 # 19 - 10 - Santa Fe",
+      "films": [
+        {
+          "title": "Competencia Cortometrajes Nacionales, Programa 1",
+          "durationMin": 16,
+          "time": "7:30 p.m",
+          "director": "Bettina López Mendoza",
+          "country": "Venezuela, Colombia, Estados Unidos, Canadá",
+          "year": 2025,
+          "category": "Cortometraje Ficción Nacional",
+          "sala": "Sala 2",
+          "qa": "Sí",
+          "premiere": null
+        },
+        {
+          "title": "Pawa",
+          "durationMin": 22,
+          "time": null,
+          "director": "Marbel Ina Vanegas Jusayu",
+          "country": "Colombia",
+          "year": 2026,
+          "category": "Cortometraje Ficción Nacional",
+          "sala": null,
+          "qa": null,
+          "premiere": null
+        },
+        {
+          "title": "Clemencia",
+          "durationMin": 17,
+          "time": null,
+          "director": "Juliana Echeverry",
+          "country": "Colombia",
+          "year": 2026,
+          "category": "Cortometraje Documental Nacional",
+          "sala": null,
+          "qa": null,
+          "premiere": null
+        },
+        {
+          "title": "Tuktu, Padre Maíz",
+          "durationMin": 14,
+          "time": null,
+          "director": "Mauricio Prieto Muriel",
+          "country": "Colombia",
+          "year": 2025,
+          "category": "Cortometraje Ficción Nacional",
+          "sala": null,
+          "qa": null,
+          "premiere": null
+        },
+        {
+          "title": "Cartas a la tierra",
+          "durationMin": 11,
+          "time": null,
+          "director": "Erika David",
+          "country": "Colombia",
+          "year": 2025,
+          "category": "Cortometraje Documental Nacional",
+          "sala": null,
+          "qa": null,
+          "premiere": null
+        }
+      ],
+      "notes": []
+    },
+    {
+      "date": "2026-08-14",
+      "time": "2:00 p.m",
+      "timeSortKey": 840,
+      "venueName": "CDJ DIEGO FELIPE BECERRA",
+      "venueAddress": "CRA 125 #132C-82",
+      "films": [
+        {
+          "title": "Honorablé",
+          "durationMin": 72,
+          "time": "2:00 p.m",
+          "director": "Rhadem Musawah and Francis Tanglao-Aguas",
+          "country": "Filipinas",
+          "year": 2026,
+          "category": "Largometraje Documental Internacional",
+          "sala": null,
+          "qa": null,
+          "premiere": "SI"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "date": "2026-08-14",
+      "time": "2:00 p.m",
+      "timeSortKey": 840,
+      "venueName": "CINEMATECA FONTANAR",
+      "venueAddress": null,
+      "films": [
+        {
+          "title": "El bosque",
+          "durationMin": 81,
+          "time": "2:00 p.m",
+          "director": "Suneesh Vadakkumbadan",
+          "country": "India",
+          "year": 2026,
+          "category": "Largometraje Ficción",
+          "sala": null,
+          "qa": null
+        }
+      ],
+      "notes": []
+    },
+    {
+      "date": "2026-08-14",
+      "time": "2:00 p.m",
+      "timeSortKey": 840,
+      "venueName": "CINEMATECA TUNAL",
+      "venueAddress": null,
+      "films": [
+        {
+          "title": "El bosque",
+          "durationMin": 81,
+          "time": "2:00 p.m",
+          "director": "Suneesh Vadakkumbadan",
+          "country": "India",
+          "year": 2026,
+          "category": "Largometraje Ficción",
+          "sala": null,
+          "qa": null
+        }
+      ],
+      "notes": []
+    },
+    {
+      "date": "2026-08-14",
+      "time": "2:00 p.m",
+      "timeSortKey": 840,
+      "venueName": "FUGA, BIBLIOTECA",
+      "venueAddress": "CALLE 10 #3-16",
+      "films": [
+        {
+          "title": "Padamlágan (Night light)",
+          "durationMin": 80,
+          "time": "2:00 p.m",
+          "director": "Jenn Romano",
+          "country": "Filipinas",
+          "year": 2025,
+          "category": "Largometraje Ficción",
+          "sala": null,
+          "qa": null,
+          "premiere": "SI"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "date": "2026-08-14",
+      "time": "3:00 p.m",
+      "timeSortKey": 900,
+      "venueName": "CASA LGBTIQ SEBASTIAN ROMERO",
+      "venueAddress": "CALLE 44 #14-60",
+      "films": [
+        {
+          "title": "La Cerrillana",
+          "durationMin": 14,
+          "time": "3:00 p.m",
+          "director": "Andrea Urquiola",
+          "country": "Argentina",
+          "year": 2025,
+          "category": "Cortometraje Ficción Internacional",
+          "sala": null,
+          "qa": null,
+          "premiere": "SI"
+        },
+        {
+          "title": "Apolo",
+          "durationMin": 83,
+          "time": null,
+          "director": "Tainá Müller/Ísis Broken",
+          "country": "Brasil",
+          "year": 2025,
+          "category": "Largometraje Documental Internacional",
+          "sala": null,
+          "qa": null,
+          "premiere": "SI"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "date": "2026-08-14",
+      "time": "3:00 p.m",
+      "timeSortKey": 900,
+      "venueName": "CDJ JOSÉ SARAMAGO",
+      "venueAddress": "CRA 82J #70A-52",
+      "films": [
+        {
+          "title": "Por Una Gota de Leche",
+          "durationMin": 59,
+          "time": "3:00 p.m",
+          "director": "Esteban J. Corzo",
+          "country": "Colombia",
+          "year": 2025,
+          "category": "Cine Comunitario Nacional",
+          "sala": null,
+          "qa": null,
+          "premiere": "NO"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "date": "2026-08-14",
+      "time": "3:00 p.m",
+      "timeSortKey": 900,
+      "venueName": "CINEMATECA DE BOGOTÁ - BOLETERÍA EN TAQUILLA",
+      "venueAddress": "Carrera 3 # 19 - 10 - Santa Fe",
+      "films": [
+        {
+          "title": "Amor rebelde",
+          "durationMin": 77,
+          "time": "3:00 p.m",
+          "director": "Alejandro Bernal",
+          "country": "Colombia",
+          "year": 2021,
+          "category": "Retrospectiva 10 años del Acuerdo de Paz",
+          "sala": "Sala Capital",
+          "qa": null,
+          "premiere": null
+        }
+      ],
+      "notes": []
+    },
+    {
+      "date": "2026-08-14",
+      "time": "3:00 p.m",
+      "timeSortKey": 900,
+      "venueName": "MANZANA DEL CUIDADO MOCHUELO",
+      "venueAddress": "CALLE 91C SUR #18H-14",
+      "films": [
+        {
+          "title": "Semillas",
+          "durationMin": 100,
+          "time": "3:00 p.m",
+          "director": "Eliana Niño",
+          "country": "Colombia - España",
+          "year": 2025,
+          "category": "Largometraje Ficción",
+          "sala": null,
+          "qa": null,
+          "premiere": "NO"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "date": "2026-08-14",
+      "time": "4:00 p.m",
+      "timeSortKey": 960,
+      "venueName": "CDJ ANTONIO NARIÑO",
+      "venueAddress": "CRA 20 #19 SUR - 26",
+      "films": [
+        {
+          "title": "Del otro lado",
+          "durationMin": 86,
+          "time": "4:00 p.m",
+          "director": "Iván Guarnizo",
+          "country": "Colombia/España",
+          "year": 2021,
+          "category": "Retrospectiva 10 años acuerdos de paz",
+          "sala": null,
+          "qa": null,
+          "premiere": "NO"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "date": "2026-08-14",
+      "time": "4:00 p.m",
+      "timeSortKey": 960,
+      "venueName": "CDJ AYELEN",
+      "venueAddress": "CALLE 65A SUR #17C-30",
+      "films": [
+        {
+          "title": "El bosque",
+          "durationMin": 81,
+          "time": "4:00 p.m",
+          "director": "Suneesh Vadakkumbadan",
+          "country": "India",
+          "year": 2026,
+          "category": "Largometraje Ficción",
+          "sala": null,
+          "qa": null,
+          "premiere": "SI"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "date": "2026-08-14",
+      "time": "4:00 p.m",
+      "timeSortKey": 960,
+      "venueName": "CINEMATECA DE BOGOTÁ - BOLETERÍA EN TAQUILLA",
+      "venueAddress": "Carrera 3 # 19 - 10 - Santa Fe",
+      "films": [
+        {
+          "title": "1982.0",
+          "durationMin": 84,
+          "time": "4:00 p.m",
+          "director": "García JC",
+          "country": "Perú",
+          "year": 2025,
+          "category": "Largometraje Ficción Internacional",
+          "sala": "Sala 2",
+          "qa": null,
+          "premiere": null
+        }
+      ],
+      "notes": []
+    },
+    {
+      "date": "2026-08-14",
+      "time": "4:00 p.m",
+      "timeSortKey": 960,
+      "venueName": "CINEMATECA FONTANAR",
+      "venueAddress": null,
+      "films": [
+        {
+          "title": "Niñxs",
+          "durationMin": 86,
+          "time": "4:00 p.m",
+          "director": "Kani Lapuerta",
+          "country": "México , Alemania",
+          "year": 2025,
+          "category": "Largometraje Documental Internacional",
+          "sala": null,
+          "qa": "No"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "date": "2026-08-14",
+      "time": "4:00 p.m",
+      "timeSortKey": 960,
+      "venueName": "CINEMATECA TUNAL",
+      "venueAddress": null,
+      "films": [
+        {
+          "title": "Niñxs",
+          "durationMin": 86,
+          "time": "4:00 p.m",
+          "director": "Kani Lapuerta",
+          "country": "México , Alemania",
+          "year": 2025,
+          "category": "Largometraje Documental Internacional",
+          "sala": null,
+          "qa": "No"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "date": "2026-08-14",
+      "time": "5:00 p.m",
+      "timeSortKey": 1020,
+      "venueName": "CDJ CHAPINERO",
+      "venueAddress": "CALLE 65A #1-40",
+      "films": [
+        {
+          "title": "La luz por primera vez",
+          "durationMin": 78,
+          "time": "5:00 p.m",
+          "director": "Ibeth Rey Jerez/Frank Rodríguez",
+          "country": "Colombia - España",
+          "year": 2026,
+          "category": "Largometraje Documental Nacional",
+          "sala": null,
+          "qa": null,
+          "premiere": "NO"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "date": "2026-08-14",
+      "time": "5:30 p.m",
+      "timeSortKey": 1050,
+      "venueName": "CINEMATECA DE BOGOTÁ - BOLETERÍA EN TAQUILLA",
+      "venueAddress": "Carrera 3 # 19 - 10 - Santa Fe",
+      "films": [
+        {
+          "title": "Silenciada (Silenced)",
+          "durationMin": 97,
+          "time": "5:30 p.m",
+          "director": "Selina Miles",
+          "country": "Estados Unidos",
+          "year": 2026,
+          "category": "Largometraje Documental Internacional",
+          "sala": "Sala Capital",
+          "qa": null,
+          "premiere": null
+        }
+      ],
+      "notes": []
+    },
+    {
+      "date": "2026-08-14",
+      "time": "7:00 p.m",
+      "timeSortKey": 1140,
+      "venueName": "CENTRO COMPARTIR PILONA 10",
+      "venueAddress": "CALLE 66 BIS SUR #18T-45",
+      "films": [
+        {
+          "title": "Herencia: Los cantos de la tierra",
+          "durationMin": 82,
+          "time": "7:00 p.m",
+          "director": "Iván Acosta Rojas",
+          "country": "Colombia",
+          "year": 2026,
+          "category": "Largometraje Documental Nacional",
+          "sala": null,
+          "qa": null,
+          "premiere": "NO"
+        }
+      ],
+      "notes": [
+        "Hackeando los mandatos de la delgadez",
+        "10:00 a.m. - Reseña - ¿Qué se está haciendo en Colombia para erradicar estas violencias contra las mujeres? Expertas conversan sobre el tema.",
+        "MODERADORA - Luisa Fernanda Gómez - Periodista de género y diversidades de Mutante.",
+        "PARTICIPANTES - Laura Mantilla - León - Analista de políticas públicas para la ONG Derechos Digitales América Latina.",
+        "Carol Ann Figueroa - Periodista, guionista, escritora y creadora de contenido multiplataforma.",
+        "Catalina Moreno Arocha - Codirectora de Fundación Karisma.",
+        "Charlas que Unen",
+        "Hackeando los mandatos de la delgadez",
+        "4:00 p.m. - Reseña - El regreso de la delgadez extrema y su viralización digital representa un riesgo para niños, niñas y jóvenes.\nEn este espacio, activistas reflexionan sobre el cuerpo, la violencia estética, las redes sociales y la salud mental.",
+        "MODERADORA - Marce Salas Montaño - Activista gorda y transmachorra. Cofundadora e integrante de Gordas sin Chaqueta",
+        "PARTICIPANTES - Paola Sabogal Chaves - Nutricionista. Magíster en Relaciones Internacionales y Doctora en Psicología.",
+        "Gabriela Delgado - Directora de Hablando Solas: centro especializado en trastornos de la conducta alimentaria.",
+        "Adriana Convers (Fat Pandora) - Publicista y creadora de contenido."
+      ]
+    },
+    {
+      "date": "2026-08-14",
+      "time": "7:00 p.m",
+      "timeSortKey": 1140,
+      "venueName": "CINEMA LOCAL",
+      "venueAddress": "CALLE 74 #20 B - 19",
+      "films": [
+        {
+          "title": "Hija del volcán",
+          "durationMin": 109,
+          "time": "7:00 p.m",
+          "director": "Jenifer de la Rosa",
+          "country": "España/México",
+          "year": 2026,
+          "category": "Largometraje Documental Nacional",
+          "sala": null,
+          "qa": null,
+          "premiere": "NO"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "date": "2026-08-14",
+      "time": "4:30 - 7:30 p.m",
+      "timeSortKey": 1170,
+      "venueName": "CINEMATECA DE BOGOTÁ - BOLETERÍA EN TAQUILLA",
+      "venueAddress": "Carrera 3 # 19 - 10 - Santa Fe",
+      "films": [
+        {
+          "title": "Cuando un río se convierte en mar",
+          "durationMin": 180,
+          "time": "4:30 - 7:30 p.m",
+          "director": "Pere Vilà Barceló",
+          "country": "España",
+          "year": 2026,
+          "category": "Largometraje Ficción Internacional",
+          "sala": "Sala 3",
+          "qa": null,
+          "premiere": "Sí"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "date": "2026-08-14",
+      "time": "8:00 p.m.",
+      "timeSortKey": 1200,
+      "venueName": "CINEMATECA DE BOGOTÁ - BOLETERÍA EN TAQUILLA",
+      "venueAddress": "Carrera 3 # 19 - 10 - Santa Fe",
+      "films": [
+        {
+          "title": "Carmela y los caminantes",
+          "durationMin": 98,
+          "time": "8:00 p.m.",
+          "director": "Esteban Coloma G., Luis Herrera R.",
+          "country": "Ecuador",
+          "year": 2025,
+          "category": "Largometraje Documental Internacional",
+          "sala": "Sala 3",
+          "qa": null,
+          "premiere": "Sí"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "date": "2026-08-15",
+      "time": "10:00 a.m",
+      "timeSortKey": 600,
+      "venueName": "PARQUE ARQUEOLÓGICO DE USME",
+      "venueAddress": "CALLE 136B SUR #3A-48",
+      "films": [
+        {
+          "title": "El Paraíso de Ainara",
+          "durationMin": 14,
+          "time": "10:00 a.m",
+          "director": "Directora: Esther Niemeier ; Codirectora: Laura Espinel",
+          "country": "Alemania, Colombia",
+          "year": 2025,
+          "category": "Cortometraje Documental Nacional",
+          "sala": null,
+          "qa": null,
+          "premiere": "SI"
+        },
+        {
+          "title": "In Four Stops",
+          "durationMin": 19,
+          "time": null,
+          "director": "Elizaveta Khlomova",
+          "country": "Rusia",
+          "year": 2026,
+          "category": "Cortometraje Ficción Internacional",
+          "sala": null,
+          "qa": null,
+          "premiere": "SI"
+        },
+        {
+          "title": "Akababuru: Expresión de asombro",
+          "durationMin": 13,
+          "time": null,
+          "director": "Irati Dojura",
+          "country": "Colombia",
+          "year": 2025,
+          "category": "Cortometraje Ficción Nacional",
+          "sala": null,
+          "qa": null,
+          "premiere": "NO"
+        },
+        {
+          "title": "La gran hazaña",
+          "durationMin": 15,
+          "time": null,
+          "director": "Luber Yesidt Zúñiga Ordóñez",
+          "country": "Colombia",
+          "year": 2025,
+          "category": "Cortometraje Ficción Nacional",
+          "sala": null,
+          "qa": null,
+          "premiere": "NO"
+        },
+        {
+          "title": "Héroes del silencio",
+          "durationMin": 13,
+          "time": null,
+          "director": "Atikeinis Durán Izquierdo",
+          "country": "Colombia",
+          "year": 2026,
+          "category": "Cine Comunitario Nacional",
+          "sala": null,
+          "qa": null,
+          "premiere": "NO"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "date": "2026-08-15",
+      "time": "11:00 a.m",
+      "timeSortKey": 660,
+      "venueName": "CEFE COMETAS",
+      "venueAddress": "CALLE 127 A #87",
+      "films": [
+        {
+          "title": "La independencia",
+          "durationMin": 20,
+          "time": "11:00 a.m",
+          "director": "John Agudelo Suárez",
+          "country": "Colombia",
+          "year": 2025,
+          "category": "Cortometraje Ficción Nacional",
+          "sala": null,
+          "qa": "NO"
+        },
+        {
+          "title": "Una torreta en llamas",
+          "durationMin": 22,
+          "time": null,
+          "director": "Humberto Flores Jáuregui",
+          "country": "México",
+          "year": 2025,
+          "category": "Cortometraje Ficción Internacional",
+          "sala": null,
+          "qa": null
+        },
+        {
+          "title": "La gran hazaña",
+          "durationMin": 15,
+          "time": null,
+          "director": "Luber Yesidt Zúñiga Ordóñez",
+          "country": "Colombia",
+          "year": 2025,
+          "category": "Cortometraje Ficción Nacional",
+          "sala": null,
+          "qa": null
+        },
+        {
+          "title": "El Paraíso de Ainara",
+          "durationMin": 14,
+          "time": null,
+          "director": "Esther Niemeier/Laura Espinel",
+          "country": "Alemania/ Colombia",
+          "year": 2025,
+          "category": "Cortometraje Documental Nacional",
+          "sala": null,
+          "qa": null
+        }
+      ],
+      "notes": []
+    },
+    {
+      "date": "2026-08-15",
+      "time": "11:00 a.m",
+      "timeSortKey": 660,
+      "venueName": "CINEMATECA DE BOGOTÁ - BOLETERÍA EN TAQUILLA",
+      "venueAddress": "Carrera 3 # 19 - 10 - Santa Fe",
+      "films": [
+        {
+          "title": "Semillas",
+          "durationMin": 100,
+          "time": "11:00 a.m",
+          "director": "Eliana Niño",
+          "country": "Colombia, España",
+          "year": 2025,
+          "category": "Largometraje Ficción Nacional",
+          "sala": "Sala 3",
+          "qa": null,
+          "premiere": null
+        }
+      ],
+      "notes": []
+    },
+    {
+      "date": "2026-08-15",
+      "time": "2:00 p.m",
+      "timeSortKey": 840,
+      "venueName": "CDJ - CENTRO INTEGRAL DE JUSTICIA CAMPO VERDE",
+      "venueAddress": "CALLE 85 SUR #94-75",
+      "films": [
+        {
+          "title": "El valor de la palabra",
+          "durationMin": 79,
+          "time": "2:00 p.m",
+          "director": "Marta Rodríguez y Fernando Restrepo",
+          "country": "Colombia",
+          "year": 2026,
+          "category": "Largometraje Documental Nacional",
+          "sala": null,
+          "qa": null,
+          "premiere": "NO"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "date": "2026-08-15",
+      "time": "2:00 p.m",
+      "timeSortKey": 840,
+      "venueName": "CDJ ALDEA DE PENSADORES",
+      "venueAddress": "CALLE 70 #88A-7",
+      "films": [
+        {
+          "title": "Por Una Gota de Leche",
+          "durationMin": 59,
+          "time": "2:00 p.m",
+          "director": "Esteban J. Corzo",
+          "country": "Colombia",
+          "year": 2025,
+          "category": "Cine Comunitario Nacional",
+          "sala": null,
+          "qa": null,
+          "premiere": "NO"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "date": "2026-08-15",
+      "time": "2:00 p.m",
+      "timeSortKey": 840,
+      "venueName": "CDJ DAMAWHA",
+      "venueAddress": "CRA 1 ESTE #10-48 SUR",
+      "films": [
+        {
+          "title": "Bojayá, la verdad desde adentro",
+          "durationMin": 105,
+          "time": "2:00 p.m",
+          "director": "Ramón Alexander Valencia Córdoba",
+          "country": "Colombia",
+          "year": 2026,
+          "category": "Retrospectiva 10 años acuerdos de paz",
+          "sala": null,
+          "qa": null,
+          "premiere": "SI"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "date": "2026-08-15",
+      "time": "2:00 p.m",
+      "timeSortKey": 840,
+      "venueName": "CINEMATECA DE BOGOTÁ - BOLETERÍA EN TAQUILLA",
+      "venueAddress": "Carrera 3 # 19 - 10 - Santa Fe",
+      "films": [
+        {
+          "title": "Desierto verde",
+          "durationMin": 70,
+          "time": "2:00 p.m",
+          "director": "Meliza Luna Venegas",
+          "country": "Chile",
+          "year": 2025,
+          "category": "Largometraje Documental Internacional",
+          "sala": "Sala 3",
+          "qa": null,
+          "premiere": null
+        }
+      ],
+      "notes": []
+    },
+    {
+      "date": "2026-08-15",
+      "time": "2:00 p.m",
+      "timeSortKey": 840,
+      "venueName": "CINEMATECA FONTANAR",
+      "venueAddress": null,
+      "films": [
+        {
+          "title": "La Raya",
+          "durationMin": 80,
+          "time": "2:00 p.m",
+          "director": "Yolanda Cruz",
+          "country": "México",
+          "year": 2025,
+          "category": "Largometraje Ficción",
+          "sala": null,
+          "qa": null
+        }
+      ],
+      "notes": []
+    },
+    {
+      "date": "2026-08-15",
+      "time": "2:00 p.m",
+      "timeSortKey": 840,
+      "venueName": "CINEMATECA TUNAL",
+      "venueAddress": null,
+      "films": [
+        {
+          "title": "La Raya",
+          "durationMin": 80,
+          "time": "2:00 p.m",
+          "director": "Yolanda Cruz",
+          "country": "México",
+          "year": 2025,
+          "category": "Largometraje Ficción",
+          "sala": null,
+          "qa": null
+        }
+      ],
+      "notes": []
+    },
+    {
+      "date": "2026-08-15",
+      "time": "2:00 p.m",
+      "timeSortKey": 840,
+      "venueName": "FUGA, BIBLIOTECA",
+      "venueAddress": "CALLE 10 #3-16",
+      "films": [
+        {
+          "title": "Lo que sentimos",
+          "durationMin": 7,
+          "time": "2:00 p.m",
+          "director": "Fondo Multidonante de las Naciones Unidas para la paz en Colombia",
+          "country": "Colombia",
+          "year": 2026,
+          "category": "Invitada - Fuera de competencia",
+          "sala": null,
+          "qa": null,
+          "premiere": null
+        },
+        {
+          "title": "Un nuevo amanecer",
+          "durationMin": 94,
+          "time": null,
+          "director": "Priscila Padilla",
+          "country": "Colombia, Bolivia, Francia",
+          "year": 2024,
+          "category": "Largometraje Documental Nacional",
+          "sala": null,
+          "qa": null,
+          "premiere": "SI"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "date": "2026-08-15",
+      "time": "2:00 p.m",
+      "timeSortKey": 840,
+      "venueName": "PARQUE ARQUEOLÓGICO DE USME",
+      "venueAddress": "CALLE 136B SUR #3A-48",
+      "films": [
+        {
+          "title": "Herencia: Los cantos de la tierra",
+          "durationMin": 82,
+          "time": "2:00 p.m",
+          "director": "Iván Acosta Rojas",
+          "country": "Colombia",
+          "year": 2026,
+          "category": "Largometraje Documental Nacional",
+          "sala": null,
+          "qa": null,
+          "premiere": "NO"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "date": "2026-08-15",
+      "time": "3:00 p.m",
+      "timeSortKey": 900,
+      "venueName": "BP USAQUÉN SERVITÁ",
+      "venueAddress": "CALLE 165 #7-52",
+      "films": [
+        {
+          "title": "Indiamenta",
+          "durationMin": 25,
+          "time": "3:00 p.m",
+          "director": "Carlos Nieto",
+          "country": "Colombia",
+          "year": 2026,
+          "category": "Cortometraje Ficción Nacional",
+          "sala": null,
+          "qa": null,
+          "premiere": "SI"
+        },
+        {
+          "title": "Muerto no",
+          "durationMin": 15,
+          "time": null,
+          "director": "Alex Reis",
+          "country": "Brasil",
+          "year": 2025,
+          "category": "Cortometraje Ficción Internacional",
+          "sala": null,
+          "qa": null,
+          "premiere": "NO"
+        },
+        {
+          "title": "Celeste",
+          "durationMin": 15,
+          "time": null,
+          "director": "Clemen Villamizar Acosta",
+          "country": "México",
+          "year": 2025,
+          "category": "Cortometraje Ficción Internacional",
+          "sala": null,
+          "qa": null,
+          "premiere": "SI"
+        },
+        {
+          "title": "Más allá de la corona",
+          "durationMin": 14,
+          "time": null,
+          "director": "Juan David Mesa",
+          "country": "Colombia",
+          "year": 2025,
+          "category": "Cortometraje Documental Nacional",
+          "sala": null,
+          "qa": null,
+          "premiere": "NO"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "date": "2026-08-15",
+      "time": "3:00 p.m",
+      "timeSortKey": 900,
+      "venueName": "CASA SIN RAZA",
+      "venueAddress": "DIAGONAL 73B SUR #82F-34",
+      "films": [
+        {
+          "title": "Floresmiro",
+          "durationMin": 101,
+          "time": "3:00 p.m",
+          "director": "John Agudelo Suárez",
+          "country": "Colombia",
+          "year": 2025,
+          "category": "Largometraje Documental Nacional",
+          "sala": null,
+          "qa": null,
+          "premiere": "SI"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "date": "2026-08-15",
+      "time": "3:00 p.m",
+      "timeSortKey": 900,
+      "venueName": "CINEMATECA DE BOGOTÁ - BOLETERÍA EN TAQUILLA",
+      "venueAddress": "Carrera 3 # 19 - 10 - Santa Fe",
+      "films": [
+        {
+          "title": "Cuando la palabra se hace búsqueda. El eco de sus voces (UBPD)",
+          "durationMin": 61,
+          "time": "3:00 p.m",
+          "director": "Frank Benitez",
+          "country": "Colombia",
+          "year": 2026,
+          "category": "Largometraje Documental Nacional",
+          "sala": "Sala Capital",
+          "qa": null,
+          "premiere": null
+        }
+      ],
+      "notes": []
+    },
+    {
+      "date": "2026-08-15",
+      "time": "3:30 p.m",
+      "timeSortKey": 930,
+      "venueName": "CDJ EL CACMA",
+      "venueAddress": "CALLE 24 #27A-31",
+      "films": [
+        {
+          "title": "La luz por primera vez",
+          "durationMin": 78,
+          "time": "3:30 p.m",
+          "director": "Ibeth Rey Jerez/Frank Rodríguez",
+          "country": "Colombia - España",
+          "year": 2026,
+          "category": "Largometraje Documental Nacional",
+          "sala": null,
+          "qa": null,
+          "premiere": "NO"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "date": "2026-08-15",
+      "time": "4:00 p.m",
+      "timeSortKey": 960,
+      "venueName": "CASA DE LAS LUCIÉRNAGAS",
+      "venueAddress": "DIAGONAL 73H SUR #78-38",
+      "films": [
+        {
+          "title": "La Raya",
+          "durationMin": 80,
+          "time": "4:00 p.m",
+          "director": "Yolanda Cruz",
+          "country": "México",
+          "year": 2025,
+          "category": "Largometraje Ficción",
+          "sala": null,
+          "qa": null,
+          "premiere": "NO"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "date": "2026-08-15",
+      "time": "4:00 p.m",
+      "timeSortKey": 960,
+      "venueName": "CINEMATECA DE BOGOTÁ - BOLETERÍA EN TAQUILLA",
+      "venueAddress": "Carrera 3 # 19 - 10 - Santa Fe",
+      "films": [
+        {
+          "title": "Aquí no entra luz",
+          "durationMin": 79,
+          "time": "4:00 p.m",
+          "director": "Karol Maia",
+          "country": "Brasil",
+          "year": 2025,
+          "category": "Largometraje Documental Internacional",
+          "sala": "Sala 2",
+          "qa": null,
+          "premiere": null
+        }
+      ],
+      "notes": []
+    },
+    {
+      "date": "2026-08-15",
+      "time": "4:00 p.m",
+      "timeSortKey": 960,
+      "venueName": "CINEMATECA FONTANAR",
+      "venueAddress": null,
+      "films": [
+        {
+          "title": "Semillas",
+          "durationMin": 100,
+          "time": "4:00 p.m",
+          "director": "Eliana Niño",
+          "country": "Colombia, España",
+          "year": 2025,
+          "category": "Largometraje Ficción Nacional",
+          "sala": null,
+          "qa": "No"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "date": "2026-08-15",
+      "time": "4:00 p.m",
+      "timeSortKey": 960,
+      "venueName": "CINEMATECA TUNAL",
+      "venueAddress": null,
+      "films": [
+        {
+          "title": "Semillas",
+          "durationMin": 100,
+          "time": "4:00 p.m",
+          "director": "Eliana Niño",
+          "country": "Colombia, España",
+          "year": 2025,
+          "category": "Largometraje Ficción Nacional",
+          "sala": null,
+          "qa": "No"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "date": "2026-08-15",
+      "time": "5:00 p.m",
+      "timeSortKey": 1020,
+      "venueName": "LA TROCHA - LA CASA DE LA PAZ",
+      "venueAddress": "CRA 13 # 36-37",
+      "films": [
+        {
+          "title": "La luz que nos queda",
+          "durationMin": 7,
+          "time": "5:00 p.m",
+          "director": "Gloria Isabel Gomez Ceballos",
+          "country": "Colombia",
+          "year": 2017,
+          "category": "Retrospectiva",
+          "sala": null,
+          "qa": null,
+          "premiere": "NO"
+        },
+        {
+          "title": "Lo que sentimos",
+          "durationMin": 7,
+          "time": null,
+          "director": "Fondo Multidonante de las Naciones Unidas para la paz en Colombia",
+          "country": "Colombia",
+          "year": 2026,
+          "category": "Invitada - Fuera de competencia",
+          "sala": null,
+          "qa": null,
+          "premiere": null
+        }
+      ],
+      "notes": []
+    },
+    {
+      "date": "2026-08-15",
+      "time": "5:30 p.m",
+      "timeSortKey": 1050,
+      "venueName": "CINEMATECA DE BOGOTÁ - BOLETERÍA EN TAQUILLA",
+      "venueAddress": "Carrera 3 # 19 - 10 - Santa Fe",
+      "films": [
+        {
+          "title": "Eva",
+          "durationMin": 90,
+          "time": "5:30 p.m",
+          "director": "William Reyes",
+          "country": "Honduras, Colombia",
+          "year": 2026,
+          "category": "Largometraje Ficción Nacional",
+          "sala": "Sala Capital",
+          "qa": null,
+          "premiere": null
+        }
+      ],
+      "notes": []
+    },
+    {
+      "date": "2026-08-15",
+      "time": "6:00 p.m",
+      "timeSortKey": 1080,
+      "venueName": "CASA B",
+      "venueAddress": "CRA. 2 BIS #6D-30",
+      "films": [
+        {
+          "title": "Soñé su nombre",
+          "durationMin": 86,
+          "time": "6:00 p.m",
+          "director": "Ángela Carabalí",
+          "country": "Colombia",
+          "year": 2026,
+          "category": "Largometraje Documental Nacional",
+          "sala": null,
+          "qa": null,
+          "premiere": "NO"
+        }
+      ],
+      "notes": [
+        "DesarmARTE: 10 años del Acuerdo de Paz",
+        "5:00 p.m. - Reseña - Una jornada cultural para conmemorar los diez años de la firma de los acuerdos de paz en Colombia",
+        "MODERADORA - Cindy Morales - Periodista. Exeditora general Colombia +20.",
+        "PARTICIPANTES - Sarah Luna Ñustes - Actriz, investigadora y creadora escénica. Firmante del Acuerdo Final de Paz de 2016.",
+        "Maria Eugenia Mosquera Riascos - Defensora de Derechos Humanos",
+        "Alejandra Téllez - Artista, gestora cultural y promotora de paz. Firmante del Acuerdo Final de Paz de 2016.",
+        "Presentación teatral \"Del monte a la escena\" por Sarah Luna Ñustes",
+        "Ni un minuto de silencio, toda una vida de búsqueda",
+        "6:00 p.m. - Reseña - Una reflexión sobre el papel de las mujeres buscadoras a partir del documental \"Soñé su nombre\"",
+        "MODERADORA - Milena González - Doctora en Ciencia Políticas. Docente-investigadora de la Universidad Santo Tomás.",
+        "PARTICIPANTES - Pilar Navarrete - Líder de Derechos Humanos, esposa de Héctor Jaime Beltrán Fuentes, desaparecido en la toma y retoma del palacio de justicia el 6 y 7 de noviembre de 1985."
+      ]
+    },
+    {
+      "date": "2026-08-15",
+      "time": "7:00 p.m",
+      "timeSortKey": 1140,
+      "venueName": "CINEMATECA DE BOGOTÁ - BOLETERÍA EN TAQUILLA",
+      "venueAddress": "Carrera 3 # 19 - 10 - Santa Fe",
+      "films": [
+        {
+          "title": "One in a million",
+          "durationMin": 102,
+          "time": "7:00 p.m",
+          "director": "Itab Azzam, Jack Macinnes",
+          "country": "Estados Unidos , Reino Unido, Alemania",
+          "year": 2026,
+          "category": "Largometraje Documental Internacional",
+          "sala": "Sala 2",
+          "qa": null,
+          "premiere": null
+        }
+      ],
+      "notes": []
+    },
+    {
+      "date": "2026-08-15",
+      "time": "8:00 p.m",
+      "timeSortKey": 1200,
+      "venueName": "CINEMATECA DE BOGOTÁ - BOLETERÍA EN TAQUILLA",
+      "venueAddress": "Carrera 3 # 19 - 10 - Santa Fe",
+      "films": [
+        {
+          "title": "La Bonga",
+          "durationMin": 77,
+          "time": "8:00 p.m",
+          "director": "Sebastián Pinzón Silva y Canela Reyes",
+          "country": "Colombia, Estados Unidos",
+          "year": 2023,
+          "category": "Retrospectiva 10 años del Acuerdo de Paz",
+          "sala": "Sala Capital",
+          "qa": null,
+          "premiere": null
+        }
+      ],
+      "notes": []
+    },
+    {
+      "date": "2026-08-16",
+      "time": "11:00 a.m",
+      "timeSortKey": 660,
+      "venueName": "CINEMATECA DE BOGOTÁ - BOLETERÍA EN TAQUILLA",
+      "venueAddress": "Carrera 3 # 19 - 10 - Santa Fe",
+      "films": [
+        {
+          "title": "El mundo de Gugu (Feito Pipa)",
+          "durationMin": 93,
+          "time": "11:00 a.m",
+          "director": "Allan Deberton",
+          "country": "Brasil",
+          "year": 2026,
+          "category": "Largometraje Ficción Internacional",
+          "sala": "Sala 3",
+          "qa": null,
+          "premiere": null
+        }
+      ],
+      "notes": []
+    },
+    {
+      "date": "2026-08-16",
+      "time": "2:00 p.m",
+      "timeSortKey": 840,
+      "venueName": "CINEMATECA FONTANAR",
+      "venueAddress": null,
+      "films": [
+        {
+          "title": "PROGRAMA CORTOMETRAJES INFANTILES",
+          "durationMin": 14,
+          "time": "2:00 p.m",
+          "director": "Esther Niemeier/Laura Espinel",
+          "country": "Alemania/ Colombia",
+          "year": 2025,
+          "category": "Cortometraje Documental Nacional",
+          "sala": null,
+          "qa": null
+        },
+        {
+          "title": "In four stops",
+          "durationMin": 19,
+          "time": null,
+          "director": "Elizaveta Khlomova",
+          "country": "Rusia",
+          "year": 2026,
+          "category": "Cortometraje Ficción Internacional",
+          "sala": null,
+          "qa": null
+        },
+        {
+          "title": "Akababuru: Expresión de asombro",
+          "durationMin": 13,
+          "time": null,
+          "director": "Irati Dojura",
+          "country": "Colombia",
+          "year": 2025,
+          "category": "Cortometraje Ficción Nacional",
+          "sala": null,
+          "qa": null
+        },
+        {
+          "title": "La gran hazaña",
+          "durationMin": 15,
+          "time": null,
+          "director": "Luber Yesidt Zúñiga Ordóñez",
+          "country": "Colombia",
+          "year": 2025,
+          "category": "Cortometraje Ficción Nacional",
+          "sala": null,
+          "qa": null
+        },
+        {
+          "title": "Héroes del silencio",
+          "durationMin": 13,
+          "time": null,
+          "director": "Atikeinis Durán Izquierdo",
+          "country": "Colombia",
+          "year": 2026,
+          "category": "Cine Comunitario Nacional",
+          "sala": null,
+          "qa": null
+        }
+      ],
+      "notes": []
+    },
+    {
+      "date": "2026-08-16",
+      "time": "2:00 p.m",
+      "timeSortKey": 840,
+      "venueName": "CINEMATECA TUNAL",
+      "venueAddress": null,
+      "films": [
+        {
+          "title": "PROGRAMA CORTOMETRAJES INFANTILES",
+          "durationMin": 14,
+          "time": "2:00 p.m",
+          "director": "Esther Niemeier/Laura Espinel",
+          "country": "Alemania/ Colombia",
+          "year": 2025,
+          "category": "Cortometraje Documental Nacional",
+          "sala": null,
+          "qa": null
+        },
+        {
+          "title": "In four stops",
+          "durationMin": 19,
+          "time": null,
+          "director": "Elizaveta Khlomova",
+          "country": "Rusia",
+          "year": 2026,
+          "category": "Cortometraje Ficción Internacional",
+          "sala": null,
+          "qa": null
+        },
+        {
+          "title": "Akababuru: Expresión de asombro",
+          "durationMin": 13,
+          "time": null,
+          "director": "Irati Dojura",
+          "country": "Colombia",
+          "year": 2025,
+          "category": "Cortometraje Ficción Nacional",
+          "sala": null,
+          "qa": null
+        },
+        {
+          "title": "La gran hazaña",
+          "durationMin": 15,
+          "time": null,
+          "director": "Luber Yesidt Zúñiga Ordóñez",
+          "country": "Colombia",
+          "year": 2025,
+          "category": "Cortometraje Ficción Nacional",
+          "sala": null,
+          "qa": null
+        },
+        {
+          "title": "Héroes del silencio",
+          "durationMin": 13,
+          "time": null,
+          "director": "Atikeinis Durán Izquierdo",
+          "country": "Colombia",
+          "year": 2026,
+          "category": "Cine Comunitario Nacional",
+          "sala": null,
+          "qa": null
+        }
+      ],
+      "notes": [
+        "Colombia +20: una década de periodismo para la paz",
+        "3:30 p.m. - Reseña - Las periodistas de este proyecto toman los micrófonos y comparten cómo ha sido narrar el conflicto y la paz en Colombia.",
+        "MODERADORA - Elizabeth Otálvaro - Codirectora de Mutante.",
+        "PARTICIPANTES - Gloria Castrillón - Periodista. Exdirectora editorial de Colombia +20.",
+        "Cindy Morales - Periodista. Exeditora general Colombia +20."
+      ]
+    },
+    {
+      "date": "2026-08-16",
+      "time": "4:00 p.m",
+      "timeSortKey": 960,
+      "venueName": "CINEMATECA DE BOGOTÁ - BOLETERÍA EN TAQUILLA",
+      "venueAddress": "Carrera 3 # 19 - 10 - Santa Fe",
+      "films": [
+        {
+          "title": "Por una gota de leche",
+          "durationMin": 59,
+          "time": "4:00 p.m",
+          "director": "Esteban J. Corzo",
+          "country": "Colombia",
+          "year": 2025,
+          "category": "Cine Comunitario Nacional",
+          "sala": "Sala 2",
+          "qa": null,
+          "premiere": null
+        }
+      ],
+      "notes": []
+    },
+    {
+      "date": "2026-08-16",
+      "time": "5:00 p.m",
+      "timeSortKey": 1020,
+      "venueName": "CINEMATECA DE BOGOTÁ - BOLETERÍA EN TAQUILLA",
+      "venueAddress": "Carrera 3 # 19 - 10 - Santa Fe",
+      "films": [
+        {
+          "title": "Three black men",
+          "durationMin": 99,
+          "time": "5:00 p.m",
+          "director": "Sienna McLean-LoGreco",
+          "country": "Estados Unidos",
+          "year": 2026,
+          "category": "Largometraje Documental Internacional",
+          "sala": "Sala Capital",
+          "qa": null,
+          "premiere": "Sí"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "date": "2026-08-16",
+      "time": "7:00 p.m",
+      "timeSortKey": 1140,
+      "venueName": "CINEMATECA DE BOGOTÁ - BOLETERÍA EN TAQUILLA",
+      "venueAddress": "Carrera 3 # 19 - 10 - Santa Fe",
+      "films": [
+        {
+          "title": "Notas sobre un destierro",
+          "durationMin": 80,
+          "time": "7:00 p.m",
+          "director": "Gustavo Castro",
+          "country": "Brasil",
+          "year": 2025,
+          "category": "Largometraje Documental Internacional",
+          "sala": "Sala 2",
+          "qa": null,
+          "premiere": "Sí"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "date": "2026-08-16",
+      "time": "7:30 p.m",
+      "timeSortKey": 1170,
+      "venueName": "CINEMATECA DE BOGOTÁ - BOLETERÍA EN TAQUILLA",
+      "venueAddress": "Carrera 3 # 19 - 10 - Santa Fe",
+      "films": [
+        {
+          "title": "El silencio de los palafitos",
+          "durationMin": 73,
+          "time": "7:30 p.m",
+          "director": "Yull Núñez",
+          "country": "Colombia, México",
+          "year": 2024,
+          "category": "Largometraje Ficción Nacional",
+          "sala": "Sala Capital",
+          "qa": null,
+          "premiere": "Sí"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "date": "2026-08-17",
+      "time": "1:00 p.m",
+      "timeSortKey": 780,
+      "venueName": "CINEMATECA DE BOGOTÁ - BOLETERÍA EN TAQUILLA",
+      "venueAddress": "Carrera 3 # 19 - 10 - Santa Fe",
+      "films": [
+        {
+          "title": "Andariega",
+          "durationMin": 94,
+          "time": "1:00 p.m",
+          "director": "Raúl Soto",
+          "country": "Colombia",
+          "year": 2025,
+          "category": "Largometraje Documental Nacional",
+          "sala": "Sala 2",
+          "qa": null,
+          "premiere": null
+        }
+      ],
+      "notes": []
+    },
+    {
+      "date": "2026-08-17",
+      "time": "3:00 p.m",
+      "timeSortKey": 900,
+      "venueName": "CINEMATECA DE BOGOTÁ - BOLETERÍA EN TAQUILLA",
+      "venueAddress": "Carrera 3 # 19 - 10 - Santa Fe",
+      "films": [
+        {
+          "title": "American Doctor (Médico estadounidense)",
+          "durationMin": 93,
+          "time": "3:00 p.m",
+          "director": "Poh Si Teng",
+          "country": "Estados Unidos, Palestina , Malasia, Catar, Dinamarca",
+          "year": 2026,
+          "category": "Largometraje Documental Internacional",
+          "sala": "Sala Capital",
+          "qa": null,
+          "premiere": "Sí"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "date": "2026-08-17",
+      "time": "4:00 p.m",
+      "timeSortKey": 960,
+      "venueName": "CINEMATECA DE BOGOTÁ - BOLETERÍA EN TAQUILLA",
+      "venueAddress": "Carrera 3 # 19 - 10 - Santa Fe",
+      "films": [
+        {
+          "title": "Los pliegues de la falda",
+          "durationMin": 18,
+          "time": "4:00 p.m",
+          "director": "Blanca Muñoz Ávila",
+          "country": "Colombia",
+          "year": 2025,
+          "category": "Cortometraje Ficción Nacional",
+          "sala": "Sala 2",
+          "qa": null,
+          "premiere": null
+        },
+        {
+          "title": "La Cerrillana",
+          "durationMin": 14,
+          "time": null,
+          "director": "Andrea Urquiola",
+          "country": "Argentina",
+          "year": 2025,
+          "category": "Cortometraje Ficción Internacional",
+          "sala": null,
+          "qa": null,
+          "premiere": null
+        }
+      ],
+      "notes": []
+    },
+    {
+      "date": "2026-08-17",
+      "time": "5:30 p.m",
+      "timeSortKey": 1050,
+      "venueName": "CINEMATECA DE BOGOTÁ - BOLETERÍA EN TAQUILLA",
+      "venueAddress": "Carrera 3 # 19 - 10 - Santa Fe",
+      "films": [
+        {
+          "title": "Competencia Cortometrajes Nacionales, Programa 2",
+          "durationMin": 20,
+          "time": "5:30 p.m",
+          "director": "John Agudelo Suárez",
+          "country": "Colombia",
+          "year": 2025,
+          "category": "Cortometraje Ficción Nacional",
+          "sala": "Sala Capital",
+          "qa": null,
+          "premiere": null
+        },
+        {
+          "title": "Cayenas libertarias",
+          "durationMin": 20,
+          "time": null,
+          "director": "Javier Camilo Aranguren Montañez",
+          "country": "Colombia",
+          "year": 2025,
+          "category": "Cortometraje Documental Nacional",
+          "sala": null,
+          "qa": null,
+          "premiere": null
+        },
+        {
+          "title": "El Paraíso de Ainara",
+          "durationMin": 14,
+          "time": null,
+          "director": "Esther Niemeier, Laura Espinel",
+          "country": "Alemania, Colombia",
+          "year": 2025,
+          "category": "Cortometraje Documental Nacional",
+          "sala": null,
+          "qa": null,
+          "premiere": null
+        },
+        {
+          "title": "Todos los días",
+          "durationMin": 15,
+          "time": null,
+          "director": "David Rendón Peláez",
+          "country": "Colombia",
+          "year": 2024,
+          "category": "Cortometraje Ficción Nacional",
+          "sala": null,
+          "qa": null,
+          "premiere": null
+        },
+        {
+          "title": "Sukua",
+          "durationMin": 17,
+          "time": null,
+          "director": "Omar E. Ospina Giraldo",
+          "country": "Colombia",
+          "year": 2025,
+          "category": "Cortometraje Ficción Nacional",
+          "sala": null,
+          "qa": null,
+          "premiere": null
+        }
+      ],
+      "notes": []
+    },
+    {
+      "date": "2026-08-17",
+      "time": "7:00 p.m",
+      "timeSortKey": 1140,
+      "venueName": "CINEMATECA DE BOGOTÁ - BOLETERÍA EN TAQUILLA",
+      "venueAddress": "Carrera 3 # 19 - 10 - Santa Fe",
+      "films": [
+        {
+          "title": "El juego de la vida",
+          "durationMin": 95,
+          "time": "7:00 p.m",
+          "director": "Mario Andrés Ruiz Zuluaga",
+          "country": "Colombia",
+          "year": 2026,
+          "category": "Largometraje Documental Nacional",
+          "sala": "Sala 2",
+          "qa": null,
+          "premiere": null
+        }
+      ],
+      "notes": [
+        "¡Existimos! Infancias trans en Colombia",
+        "4:00 p.m. - Reseña - A partir de la proyección de los cortos La Cerillana  y Los pliegues de la falda activistas conversan sobre estas experiencia de vida.",
+        "MODERADOR - Iván Danilo Donato Castillo - Activista transmasculino, defensor de derechos humanos y profesional en Cine y Televisión.",
+        "PARTICIPANTES - Paula Quintero - Cofundadora de la organización Familias de Adolescencias e Infancias Trans -FAIT.",
+        "Ivania Cerón - Bióloga. Cofundadora de organización Familias de Adolescencias e Infancias Trans -FAIT.",
+        "Sabina Talero - Miembro de la Red de Familiares y Amigos Cuidadores de Personas con Identidad de Género no Hegemónica.",
+        "Jhonan Cardona - Asistente de dirección y director de casting del corto Los pliegues de la falda.",
+        "Tercera Charla \nDerechos Audiovisuales",
+        "5:30 p.m. - Reseña - Condiciones laborales, creativas y éticas que atraviesan la industria.",
+        "MODERADOR - Santiago Rivas - Artista y periodista colombiano. Integrante de Presunto Podcast.",
+        "PARTICIPANTES - Catherine Rodríguez Prieto - Integrante Fundadora de la Asociación Colombiana de Vestuario -VESCO.",
+        "Ana María Cabrera - Presidenta de la Asociación Colombiana de Ayudantes de Dirección -ASCAD.",
+        "Julian Sánchez - Presidente de la Asociación Internacional de Films Animados  - ASIFA Capítulo Colombia."
+      ]
+    },
+    {
+      "date": "2026-08-18",
+      "time": "2:00 p.m",
+      "timeSortKey": 840,
+      "venueName": "CDJ USAQUEN",
+      "venueAddress": "CALLE 155 #7-45",
+      "films": [
+        {
+          "title": "Mujeres modernas",
+          "durationMin": 69,
+          "time": "2:00 p.m",
+          "director": "Hugo Santa Cruz",
+          "country": "Reino Unido",
+          "year": 2025,
+          "category": "Largometraje Ficción",
+          "sala": null,
+          "qa": null,
+          "premiere": "SI"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "date": "2026-08-18",
+      "time": "3:00 p.m",
+      "timeSortKey": 900,
+      "venueName": "BP GABRIEL GARCIA MARQUEZ",
+      "venueAddress": "CALLE 48B SUR #21-13",
+      "films": [
+        {
+          "title": "Floresmiro",
+          "durationMin": 101,
+          "time": "3:00 p.m",
+          "director": "John Agudelo Suárez",
+          "country": "Colombia",
+          "year": 2025,
+          "category": "Largometraje Documental Nacional",
+          "sala": null,
+          "qa": null,
+          "premiere": "SI"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "date": "2026-08-18",
+      "time": "3:00 p.m",
+      "timeSortKey": 900,
+      "venueName": "BP MANUEL ZAPATA OLIVELLA",
+      "venueAddress": "AV. CIUDAD DE CALI #6C-09",
+      "films": [
+        {
+          "title": "Semillas",
+          "durationMin": 100,
+          "time": "3:00 p.m",
+          "director": "Eliana Niño",
+          "country": "Colombia - España",
+          "year": 2025,
+          "category": "Largometraje Ficción",
+          "sala": null,
+          "qa": null,
+          "premiere": "NO"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "date": "2026-08-18",
+      "time": "3:00 p.m",
+      "timeSortKey": 900,
+      "venueName": "CDJ NACHO SANCHEZ",
+      "venueAddress": "CRA. 3 ESTE #9-58",
+      "films": [
+        {
+          "title": "La luz por primera vez",
+          "durationMin": 78,
+          "time": "3:00 p.m",
+          "director": "Ibeth Rey Jerez/Frank Rodríguez",
+          "country": "Colombia - España",
+          "year": 2026,
+          "category": "Largometraje Documental Nacional",
+          "sala": null,
+          "qa": null,
+          "premiere": "NO"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "date": "2026-08-18",
+      "time": "3:30 p.m",
+      "timeSortKey": 930,
+      "venueName": "CDJ EL FRAILEJON",
+      "venueAddress": "CRA 12 #76A-28 SUR",
+      "films": [
+        {
+          "title": "Por una gota de leche",
+          "durationMin": 59,
+          "time": "3:30 p.m",
+          "director": "Esteban J. Corzo",
+          "country": "Colombia",
+          "year": 2025,
+          "category": "Cine comunitario nacional",
+          "sala": null,
+          "qa": null,
+          "premiere": "NO"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "date": "2026-08-18",
+      "time": "4:00 p.m",
+      "timeSortKey": 960,
+      "venueName": "BP LA MARICHUELA",
+      "venueAddress": "DIAGONAL 76B SUR #1C-40",
+      "films": [
+        {
+          "title": "El silencio de los palafitos",
+          "durationMin": 73,
+          "time": "4:00 p.m",
+          "director": "Yull Núñez",
+          "country": "Colombia/ México",
+          "year": 2024,
+          "category": "Largometraje Ficción",
+          "sala": null,
+          "qa": null,
+          "premiere": "SI"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "date": "2026-08-18",
+      "time": "4:00 p.m",
+      "timeSortKey": 960,
+      "venueName": "BP. FRANCISCO JOSÉ DE CALDAS",
+      "venueAddress": "CRA 92 # 146 C - 24",
+      "films": [
+        {
+          "title": "Herencia: Los cantos de la tierra",
+          "durationMin": 82,
+          "time": "4:00 p.m",
+          "director": "Iván Acosta Rojas",
+          "country": "Colombia",
+          "year": 2026,
+          "category": null,
+          "sala": null,
+          "qa": null,
+          "premiere": "NO"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "date": "2026-08-18",
+      "time": "4:00 p.m",
+      "timeSortKey": 960,
+      "venueName": "BP. JULIO MARIO SANTODOMINGO",
+      "venueAddress": "CALLE 170 #67-51",
+      "films": [
+        {
+          "title": "Cortometrajes",
+          "durationMin": 17,
+          "time": "4:00 p.m",
+          "director": "Omar E. Ospina Giraldo",
+          "country": "Colombia",
+          "year": 2025,
+          "category": "Cortometraje Ficción Nacional",
+          "sala": null,
+          "qa": null,
+          "premiere": "NO"
+        },
+        {
+          "title": "Los pliegues de la falda",
+          "durationMin": 18,
+          "time": null,
+          "director": "Blanca Muñoz Ávila",
+          "country": "Colombia",
+          "year": 2025,
+          "category": "Cortometraje Ficción Nacional",
+          "sala": null,
+          "qa": null,
+          "premiere": null
+        },
+        {
+          "title": "Más allá",
+          "durationMin": 16,
+          "time": null,
+          "director": "Bettina López Mendoza",
+          "country": "Venezuela/Colombia/Estados Unidos/Canadá",
+          "year": 2025,
+          "category": "Cortometraje Ficción Nacional",
+          "sala": null,
+          "qa": null,
+          "premiere": null
+        },
+        {
+          "title": "La Cerrillana",
+          "durationMin": 14,
+          "time": null,
+          "director": "Andrea Urquiola",
+          "country": "Argentina",
+          "year": 2025,
+          "category": "Cortometraje Ficción Internacional",
+          "sala": null,
+          "qa": null,
+          "premiere": null
+        },
+        {
+          "title": "Chaski Pacha",
+          "durationMin": 22,
+          "time": null,
+          "director": "Ramiro Fierro",
+          "country": "Colombia",
+          "year": 2025,
+          "category": "Cortometraje Ficción Nacional",
+          "sala": null,
+          "qa": null,
+          "premiere": null
+        }
+      ],
+      "notes": []
+    },
+    {
+      "date": "2026-08-18",
+      "time": "5:00 p.m",
+      "timeSortKey": 1020,
+      "venueName": "CASA DE LAS LUCIÉRNAGAS",
+      "venueAddress": "DIAGONAL 73H SUR #78-38",
+      "films": [
+        {
+          "title": "PROGRAMA CORTOMETRAJES INFANTILES",
+          "durationMin": 14,
+          "time": "5:00 p.m",
+          "director": "Esther Niemeier/Laura Espinel",
+          "country": "Alemania/ Colombia",
+          "year": 2025,
+          "category": "Cortometraje Documental Nacional",
+          "sala": null,
+          "qa": null
+        },
+        {
+          "title": "In four stops",
+          "durationMin": 19,
+          "time": null,
+          "director": "Elizaveta Khlomova",
+          "country": "Rusia",
+          "year": 2026,
+          "category": "Cortometraje Ficción Internacional",
+          "sala": null,
+          "qa": null
+        },
+        {
+          "title": "Akababuru: Expresión de asombro",
+          "durationMin": 13,
+          "time": null,
+          "director": "Irati Dojura",
+          "country": "Colombia",
+          "year": 2025,
+          "category": "Cortometraje Ficción Nacional",
+          "sala": null,
+          "qa": null
+        },
+        {
+          "title": "La gran hazaña",
+          "durationMin": 15,
+          "time": null,
+          "director": "Luber Yesidt Zúñiga Ordóñez",
+          "country": "Colombia",
+          "year": 2025,
+          "category": "Cortometraje Ficción Nacional",
+          "sala": null,
+          "qa": null
+        },
+        {
+          "title": "Héroes del silencio",
+          "durationMin": 13,
+          "time": null,
+          "director": "Atikeinis Durán Izquierdo",
+          "country": "Colombia",
+          "year": 2026,
+          "category": "Cine Comunitario Nacional",
+          "sala": null,
+          "qa": null
+        }
+      ],
+      "notes": []
+    },
+    {
+      "date": "2026-08-18",
+      "time": "6:00 p.m",
+      "timeSortKey": 1080,
+      "venueName": "CASA B",
+      "venueAddress": "CRA. 2 BIS #6D-30",
+      "films": [
+        {
+          "title": "La Raya",
+          "durationMin": 80,
+          "time": "6:00 p.m",
+          "director": "Yolanda Cruz",
+          "country": "Mexico",
+          "year": 2025,
+          "category": "Largometraje Ficción",
+          "sala": null,
+          "qa": null,
+          "premiere": "NO"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "date": "2026-08-18",
+      "time": "6:30 p.m",
+      "timeSortKey": 1110,
+      "venueName": "CINEMA LOCAL",
+      "venueAddress": "CALLE 74 #20 B - 19",
+      "films": [
+        {
+          "title": "El valor de la palabra",
+          "durationMin": 79,
+          "time": "6:30 p.m",
+          "director": "Marta Rodríguez/Fernando Restrepo",
+          "country": "Colombia",
+          "year": 2026,
+          "category": "Largometraje Documental Nacional",
+          "sala": null,
+          "qa": null,
+          "premiere": "NO"
+        }
+      ],
+      "notes": [
+        "De los deepfakes y otras violencias digitales",
+        "10:00 a.m. - Reseña - ¿Qué se está haciendo en Colombia para erradicar estas violencias contra las mujeres? Expertas conversan sobre el tema.",
+        "MODERADOR - Luisa Fernanda Gómez - Periodista de género y diversidades de Mutante.",
+        "PARTICIPANTES - Laura Mantilla - León - Analista de políticas públicas para la ONG Derechos Digitales América Latina.",
+        "Catalina Moreno Arocha - Codirectora de Fundación Karisma.",
+        "Carol Ann Figueroa - Periodista, guionista, escritora y creadora de contenido multiplataforma."
+      ]
+    },
+    {
+      "date": "2026-08-19",
+      "time": "9:00 a.m.",
+      "timeSortKey": 540,
+      "venueName": "UNIAGRARIA",
+      "venueAddress": null,
+      "films": [
+        {
+          "title": "Con la paz entre las manos",
+          "durationMin": 24,
+          "time": "9:00 a.m.",
+          "director": "César Romero",
+          "country": "Colombia",
+          "year": 2026,
+          "category": "Invitada - Fuera de competencia",
+          "sala": null,
+          "qa": null,
+          "premiere": "NO"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "date": "2026-08-19",
+      "time": "1:00 p. m.",
+      "timeSortKey": 780,
+      "venueName": "CINEMATECA DE BOGOTÁ - BOLETERÍA EN TAQUILLA",
+      "venueAddress": "Carrera 3 # 19 - 10 - Santa Fe",
+      "films": [
+        {
+          "title": "La luz por primera vez",
+          "durationMin": 78,
+          "time": "1:00 p. m.",
+          "director": "Ibeth Rey Jerez, Frank Rodríguez",
+          "country": "Colombia, España",
+          "year": 2026,
+          "category": "Largometraje Documental Nacional",
+          "sala": "Sala 2",
+          "qa": null,
+          "premiere": null
+        }
+      ],
+      "notes": []
+    },
+    {
+      "date": "2026-08-19",
+      "time": "2:00 p.m",
+      "timeSortKey": 840,
+      "venueName": "CDJ HUITACA",
+      "venueAddress": "CALLE 17A #118-25",
+      "films": [
+        {
+          "title": "El bosque",
+          "durationMin": 81,
+          "time": "2:00 p.m",
+          "director": "Suneesh Vadakkumbadan",
+          "country": "India",
+          "year": null,
+          "category": "Largometraje Ficción",
+          "sala": null,
+          "qa": null,
+          "premiere": "SI"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "date": "2026-08-19",
+      "time": "3:00 p.m",
+      "timeSortKey": 900,
+      "venueName": "BP VIRGILIO BARCO",
+      "venueAddress": "AV. LA ESMERALDA #57 - 60",
+      "films": [
+        {
+          "title": "Celtic Utopia",
+          "durationMin": 90,
+          "time": "3:00 p.m",
+          "director": "Dennis Harvey, Lars Lovén",
+          "country": "Irlanda / Suecia",
+          "year": null,
+          "category": "Invitada",
+          "sala": null,
+          "qa": null,
+          "premiere": "NO"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "date": "2026-08-19",
+      "time": "3:00 p.m",
+      "timeSortKey": 900,
+      "venueName": "CDJ CHIGUAZÁ",
+      "venueAddress": "CALLE 48P BIS D SUR #5A-43",
+      "films": [
+        {
+          "title": "El bosque",
+          "durationMin": 81,
+          "time": "3:00 p.m",
+          "director": "Suneesh Vadakkumbadan",
+          "country": "India",
+          "year": null,
+          "category": "Largometraje Ficción",
+          "sala": null,
+          "qa": null,
+          "premiere": "SI"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "date": "2026-08-19",
+      "time": "3:30 p.m",
+      "timeSortKey": 930,
+      "venueName": "CINEMATECA DE BOGOTÁ - BOLETERÍA EN TAQUILLA",
+      "venueAddress": "Carrera 3 # 19 - 10 - Santa Fe",
+      "films": [
+        {
+          "title": "Halima - Eine Anleitung zum Starksein*",
+          "durationMin": 25,
+          "time": "3:30 p.m",
+          "director": "Linda Verweyen",
+          "country": "Alemania",
+          "year": 2025,
+          "category": "Cortometraje de ficción internacional",
+          "sala": "Sala 2",
+          "qa": "Sí",
+          "premiere": null
+        }
+      ],
+      "notes": []
+    },
+    {
+      "date": "2026-08-19",
+      "time": "4:00 p.m",
+      "timeSortKey": 960,
+      "venueName": "CINEMATECA DE BOGOTÁ - BOLETERÍA EN TAQUILLA",
+      "venueAddress": "Carrera 3 # 19 - 10 - Santa Fe",
+      "films": [
+        {
+          "title": "Floresmiro",
+          "durationMin": 101,
+          "time": "4:00 p.m",
+          "director": "John Agudelo",
+          "country": "Colombia",
+          "year": 2025,
+          "category": "Largometraje Documental Nacional",
+          "sala": "Sala Capital",
+          "qa": null,
+          "premiere": null
+        }
+      ],
+      "notes": []
+    },
+    {
+      "date": "2026-08-19",
+      "time": "4:30 p.m",
+      "timeSortKey": 990,
+      "venueName": "BP CARLOS E, RESTREPO",
+      "venueAddress": "DIAGONAL 21A SUR #19 - 54 SUR",
+      "films": [
+        {
+          "title": "El silencio de los palafitos",
+          "durationMin": 73,
+          "time": "4:30 p.m",
+          "director": "Yull Núñez",
+          "country": "Colombia/ México",
+          "year": 2024,
+          "category": "Largometraje Ficción",
+          "sala": null,
+          "qa": null,
+          "premiere": "SI"
+        }
+      ],
+      "notes": [
+        "Reconocer, atender y reparar: 15 años de la Ley de Víctimas",
+        "09:00 a.m. - Reseña - ¿Cuáles han sido los alcances e implicaciones de la Ley 1448 de 2011? Líderes y lideresas reflexionan sobre esto.",
+        "MODERADORA - Ingrid Quintero - Directora del Programa de Derecho de UNIAGRARIA.",
+        "PARTICIPANTES - Jacqueline Castillo - Representante Legal de MAFAPO.",
+        "José Movilla - Integrante del Movimiento Nacional de Víctimas de Estado - Colombia MOVICE.",
+        "Luz Marina Becerra - Fundadora y directora Nacional de La Comadre, Asociación Nacional de Mujeres Afrocolombianas Desplazadas en Resistencia.",
+        "¡No más mutilación genital femenina en Colombia!",
+        "3:30 p.m. - Reseña - A partir de la proyección del cortometraje Halima, Juliana Domicó conversa sobre su lucha por la erradicación de esta práctica en el país.",
+        "MODERADORA - Lina Marcela Tobón Yagarí - Directora de la Comunidad de Juristas Akubadaura. Mujer del pueblo Embera Chamí.",
+        "PARTICIPANTES - Juliana Domicó Majoré - Consejera Mayor y Representante Legal de la Confederación Nacional de los Pueblos Gran Nación Emberá de Colombia -CONNPEC."
+      ]
+    },
+    {
+      "date": "2026-08-19",
+      "time": "6:30 p.m",
+      "timeSortKey": 1110,
+      "venueName": "CINEMATECA DE BOGOTÁ - BOLETERÍA EN TAQUILLA",
+      "venueAddress": "Carrera 3 # 19 - 10 - Santa Fe",
+      "films": [
+        {
+          "title": "Después del frío",
+          "durationMin": 85,
+          "time": "6:30 p.m",
+          "director": "María Jimena Duzán",
+          "country": "Colombia",
+          "year": 2025,
+          "category": "Retrospectiva 10 años del Acuerdo de Paz",
+          "sala": "Sala Capital",
+          "qa": "Sí",
+          "premiere": "Sí"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "date": "2026-08-20",
+      "time": "5:30 p.m",
+      "timeSortKey": 1050,
+      "venueName": "CEFE CHAPINERO",
+      "venueAddress": "Cl. 82 #10-69, Chapinero, Bogotá",
+      "films": [
+        {
+          "title": "The beauty of the donkey",
+          "durationMin": 76,
+          "time": "5:30 p.m",
+          "director": "Dea Gjinovci",
+          "country": "Suiza, Kosovo, Francia , Estados Unidos",
+          "year": 2025,
+          "category": "Largometraje Documental Internacional",
+          "sala": null,
+          "qa": null,
+          "premiere": null
+        }
+      ],
+      "notes": []
+    },
+    {
+      "date": "2026-08-24",
+      "time": "9:00 a.m.",
+      "timeSortKey": 540,
+      "venueName": "(BIBLORED, ESCENARIO POR DEFINIR)",
+      "venueAddress": null,
+      "films": [
+        {
+          "title": "Los bibliotecarios (The librarians)",
+          "durationMin": 91,
+          "time": "9:00 a.m.",
+          "director": "Kim Snyder",
+          "country": "Estados Unidos",
+          "year": 2025,
+          "category": "Largometraje Documental Internacional",
+          "sala": null,
+          "qa": null,
+          "premiere": "Sí"
+        }
+      ],
+      "notes": []
+    }
+  ]
+}

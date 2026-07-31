@@ -1,0 +1,298 @@
+{
+  "citySlug": "tunja",
+  "cityName": "Tunja",
+  "sourceFiles": [
+    "TUNJA/Programación _ TUNJA.xlsx"
+  ],
+  "sessions": [
+    {
+      "date": "2026-08-13",
+      "time": "4:00 p. m.",
+      "timeSortKey": 960,
+      "venueName": "CINEMATECA DE TUNJA",
+      "venueAddress": null,
+      "films": [
+        {
+          "title": "Akababuru: Expresión de asombro",
+          "director": "Irati Dojura",
+          "durationMin": 13,
+          "country": "Colombia",
+          "year": 2025,
+          "category": "Cortometraje Ficción Nacional",
+          "synopsisEs": "Kari es una niña indígena emberá que teme reír. Un día conoce a Kera, una joven mestiza, quien decide contarle el mito de Kiraparamia, una mujer que, según los ancianos, fue castigada por los dioses por reírse de su esposo. Kera reinterpreta el mito y le dice que, en realidad, la risa de Kiraparamia la liberó. Esta historia inspira profundamente a la pequeña Kari, quien decide confrontar a los niños que la oprimen a ella y a sus amigas mediante la risa.",
+          "synopsisEn": "Kari is an Embera girl afraid to laugh. One day she meets Kera, a young mestizo girl, who decides to tell her the myth of Kiraparamia, a woman who according to the elders was punished by the gods for laughing at her husband, but Kera reinterprets the myth and tells her that in reality Kiraparamia's laughter set her free. This story greatly inspires little Kari who decides to confront the children who oppress her and her friends by using laughter.",
+          "directorProfile": "Indígena del pueblo Embera Chamí, comunicadora audiovisual y multimedia, directora y productora. Participante en talleres y pitch en festivales como San Sebastián y Annecy con su cortometraje Bekaura y ganadora de mención especial en Berlinale con Akababuru. Con experiencia de trabajo como investigadora y tallerista en comunidades indígenas de Colombia en territorios de Antioquia, Nariño, Guajira, Caldas y la Sierra Nevada de Santa Marta. En 2023 fue aceptada por la Fundación Carolina y la Universidad de Salamanca para realizar un diplomado en STEM en esta universidad, ganadora de la beca Survirval para jóvenes indígenas de cultura bajo el enfoque de empoderamiento y liderazgo de la mujer, y cofundadora del colectivo audiovisual Luminti que tiene un enfoque de trabajo territorial.",
+          "filmSocial": "https://www.instagram.com/luminti_colectivo/",
+          "directorSocial": "https://www.instagram.com/_doju_/",
+          "posterUrl": "https://drive.google.com/open?id=1n7UHu4xxoiRwoBBJuuieiMXhvXGUTbWh",
+          "trailerUrl": "https://youtu.be/0hOLv0tOYkc",
+          "themePrimary": "Comunidades indígenas / Indigenous communities",
+          "themeSecondary": "Violencias basadas en género / Gender-based violence",
+          "pressKitUrl": "N/A",
+          "ageRating": "Infantil / Children's, Familiar / Family"
+        },
+        {
+          "title": "Todos los días",
+          "director": "David Rendón Peláez",
+          "durationMin": 15,
+          "country": "Colombia",
+          "year": 2024,
+          "category": "Cortometraje Ficción Nacional",
+          "synopsisEs": "Ramiro es despedido del trabajo al que perteneció gran parte de su vida. En medio de su nueva y solitaria libertad conoce a tres desocupados como él, que se reúnen para matar el tiempo y hacerse compañía mientras fantasean con vengarse de sus antiguos empleadores y buscan, un pequeño triunfo a la vez, ser felices. Cada día, todos los días.",
+          "synopsisEn": "Ramiro is fired from his job after 19 years. As he goes through his solitary days, he meets Gustavo, Ernesto and Luis Eduardo, three unemployed men like him who get together to hang around and keep each other company, while they fantasize about taking revenge on their former employers, hoping to find their happiness one small triumph at a time, as a full-time job.",
+          "directorProfile": "Comunicador audiovisual y magíster en Creación y Estudios Audiovisuales de la Universidad de Antioquia. Productor, director y guionista de cine con interés en la vida íntima y los dramas de la clase media y la ciudad. Docente universitario, tallerista y gestor cultural. Desde 2018 coordina y cura la Competencia Nacional de Cortometrajes Caleidoscopio del Festival de Cine de Jardín. Entre sus cortometrajes se encuentran Todos los días (2024), Extraños (2017), seleccionado en FIC Gibara (Cuba), Bogoshorts y Villa de Leyva, Métodos de lucha (2016) y Cállate (2012). Actualmente desarrolla su primer largometraje, La timidez de los árboles.",
+          "filmSocial": "@David_random",
+          "directorSocial": "David_random",
+          "posterUrl": "https://drive.google.com/open?id=19YCj3jpurQK6q2tDoa4t6VYZyfZQuRAt",
+          "trailerUrl": "https://youtu.be/ymd3hR6vUXw",
+          "themePrimary": "Derechos laborales / Labor rights",
+          "themeSecondary": "Salud mental / Mental health",
+          "pressKitUrl": "https://drive.google.com/open?id=1aMbsz17kZAsJeSobVNc9XH6_d-cLHOKI",
+          "ageRating": "Familiar / Family, Adolescentes / Teenagers, Adultos / Adults"
+        },
+        {
+          "title": "Sukua",
+          "director": "Omar E. Ospina Giraldo",
+          "durationMin": 17,
+          "country": "Colombia",
+          "year": 2025,
+          "category": "Cortometraje Ficción Nacional",
+          "synopsisEs": "Pirimín, un niño kogui, recibe una pistola de agua como regalo. Esa noche, escucha a su padre manifestar su inconformidad, al recordar que unas armas similares los obligaron a abandonar sus asentamientos. Ahora Pirimín no sabe qué hacer con el juguete.",
+          "synopsisEn": "Pirimín, a Kogui boy, receives a water gun as a gift. That night, he hears his father express his discontent when similar weapons forced them to abandon their settlements. Now Pirimín doesn’t know what to do with the toy.",
+          "directorProfile": "Realizador audiovisual y Magíster en Escrituras Audiovisuales de la Universidad del Magdalena. Ha realizado cinco cortometrajes con los que ha participado en más de 90 festivales alrededor del mundo.  En 2015 ganó el Premio India Catalina con el documental La ruta de Julita. Con El quimérico espectáculo de los Bizzanelli participó en el Festival Internacional de Cortometrajes de Clermont-Ferrand. En 2022 estrenó El video en el BFI Flare LGBTIQ+ Film Festival de Londres. En 2020 obtuvo el estímulo Relatos Regionales del FDC para su primer largometraje, El bovino de los cuernos curvos.",
+          "filmSocial": "@lafortalezafilms, @omare_ospina",
+          "directorSocial": "@omare_ospina",
+          "posterUrl": "https://drive.google.com/open?id=1ktE3RupNdqSpoHQnix7xy8kkafOSb8QR",
+          "trailerUrl": "https://youtu.be/7d0VxcTBZyc",
+          "themePrimary": "Comunidades indígenas / Indigenous communities",
+          "themeSecondary": "Conflicto armado colombiano / Colombian armed conflict",
+          "pressKitUrl": "https://drive.google.com/open?id=1XAnDjVHYw1iEcMsk95liOUgDWtUFjn-w",
+          "ageRating": "Infantil / Children's, Familiar / Family"
+        },
+        {
+          "title": "La gran hazaña",
+          "director": "Luber Yesidt Zúñiga Ordóñez",
+          "durationMin": 15,
+          "country": "Colombia",
+          "year": 2025,
+          "category": "Cortometraje Ficción Nacional",
+          "synopsisEs": "A Pablo le encanta jugar al trompo. Cuando Don Chucho, el usurero del pueblo, retiene a Pascualina, su amiga y mascota, Pablo debe enfrentarse a Felipe, el mejor jugador de trompo de la región, para rescatarla. Pero ganar no es suficiente: los demás niños del pueblo se unirán a él en un acto de solidaridad, amistad y trabajo en equipo para lograr esta gran hazaña.",
+          "synopsisEn": "Pablo loves to play the top. He must rescue his friend Pascualina from the clutches of Don Chucho, the town's loan shark. To do this he will face Felipe, the best spinning top player in the region. However, winning is not enough. Pablo with the other children of the town will make this great feat in an act of solidarity, friendship and teamwork.",
+          "directorProfile": "Magíster en Escrituras Audiovisuales, profesional en Dirección y Producción de Cine y T.V. y Diseñador Gráfico. Socio fundador de Cinemazul Media Group y del estudio de comunicación Concepto Comunicación Integral, donde se desempeña como director, productor, guionista y creativo audiovisual.  dirigido los cortometrajes: Cham-Piñón, Medusa de papel, Cielo rojo, Cólera, Mi ranchito hermoso y La gran hazaña, ganador del FDC en la modalidad de cortometraje infantil (2022). Ha ganado 2 premios Abre Cámara: con la serie animada El Team (2021) y la serie de ficción Mariachi Capital (2023), donde fue director, al igual que en la serie documental Victorias y Glorias, actualmente en postproducción.",
+          "filmSocial": "https://www.instagram.com/cinemazul/",
+          "directorSocial": "https://www.instagram.com/yesidzeta/",
+          "posterUrl": "https://drive.google.com/open?id=1QHD2al9P1zHJw3PFDIG-VcPcaxgLot1L",
+          "trailerUrl": "https://youtu.be/gK2QdKy8U9E",
+          "themePrimary": "Infancia y adolescencia / Infancy and adolescence",
+          "themeSecondary": "Educación / Education",
+          "pressKitUrl": "https://drive.google.com/open?id=1cAwQUfG_aPAAb_aQZ2T0g7Ok-hY3CX9X",
+          "ageRating": "Infantil / Children's, Familiar / Family"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "date": "2026-08-13",
+      "time": "6:30 p. m.",
+      "timeSortKey": 1110,
+      "venueName": "CINEMATECA DE TUNJA",
+      "venueAddress": null,
+      "films": [
+        {
+          "title": "Three black men (Tres hombres negros)",
+          "director": "Sienna McLean-LoGreco",
+          "durationMin": 99,
+          "country": "Estados Unidos",
+          "year": 2026,
+          "category": "Largometraje Documental Internacional",
+          "synopsisEs": "¿Puede un viaje hacia el pasado abrir nuevas posibilidades para la Negritud? Tres hombres negros recorren a la inversa la ruta transatlántica del comercio de esclavos, de Los Ángeles (California) a Salvador de Bahía (Brasil) y, finalmente, a Accra (Ghana). En este recorrido exploran aspectos fundamentales de la historia negra y las representaciones de la migración forzosa, la supervivencia y la desaparición de los millones de personas que cruzaron el Atlántico; y brazan la identidad negra como una fuente viva de conexión, creación y renovación.",
+          "synopsisEn": "Can a journey open new possibilities for Blackness? Three Black men embark on a transformative journey along the transatlantic slave route in reverse. This epic voyage takes them from Los Angeles, California to Salvador da Bahia in Brazil, and finally to Accra in Ghana. They explore crucial pieces of Black history and representations of the forced migration, survival and demise of the millions who crossed the Atlantic and embrace Blackness as a living source of connection, creation, and renewal.",
+          "directorProfile": "Guionista y productora apasionada por historias que entretienen e inspiran. Ha trabajado para HBO, Showtime, A+E, VH1 y Discovery, y creado contenido de marca para RSA Films de Ridley Scott. Su cortometraje Still Revolutionaries se estrenó en Sundance y se distribuye internacionalmente. La serie documental Jerrod Carmichael: Reality Show (HBO, 2024) fue destacada como uno de los mejores programas del año. Formó parte del equipo que puso en marcha la Television Race Initiative (ahora conocida como Active Voice), promoviendo documentales que abordan cuestiones de raza e igualdad, utilizándolos como catalizador para el diálogo comunitario.",
+          "filmSocial": "Instagram: three_black_men",
+          "directorSocial": "IG: sienna_mcl LinkedIn: Sienna McLean LoGreco",
+          "posterUrl": "https://drive.google.com/open?id=1Becxsn8b0sLGgsrX-M-z-xJe-glZY_5i",
+          "trailerUrl": "https://youtu.be/1vWwBO9l-S8",
+          "themePrimary": "Comunidades afrodescendientes / Afro-descendant communities",
+          "themeSecondary": "Memoria histórica / Historical memory",
+          "pressKitUrl": "https://drive.google.com/open?id=11FmOO_RLwyEbXxyYlYhOqAdy1K5SjFBr",
+          "ageRating": "Adultos / Adults"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "date": "2026-08-14",
+      "time": "4:00 p.m",
+      "timeSortKey": 960,
+      "venueName": "CINEMATECA DE TUNJA",
+      "venueAddress": null,
+      "films": [
+        {
+          "title": "Cuando la palabra se hace búsqueda",
+          "director": "Frank Benitez",
+          "durationMin": 61,
+          "country": "Colombia",
+          "year": 2026,
+          "category": "Largometraje Documental Nacional",
+          "synopsisEs": "En Colombia, la búsqueda de las personas desaparecidas ha abierto caminos inesperados de encuentro entre quienes sufren su ausencia y quienes guardan información clave sobre su paradero. Este largometraje revela el papel fundamental de los aportantes de información, en las voces de quienes participaron directa e indirectamente en las hostilidades y que, desde el compromiso, han decidido sumarse al proceso humanitario de la búsqueda liderado por la Unidad de Búsqueda (UBPD).",
+          "synopsisEn": "In Colombia, the search for missing persons has opened unexpected paths of connection between those who suffer their absence and those who hold key information about their whereabouts. This feature film reveals the fundamental role of information providers, through the voices of those who participated directly and indirectly in the hostilities and who, driven by commitment, have decided to join the humanitarian search process led by the Search Unit (UBPD).",
+          "directorProfile": "Guionista y director colombiano. Entre sus obras se encuentran el documental EL PANTERA, estrenado en 2025; la miniserie LAS IGUANAS, estrenada en HBO Max; y los cortometrajes ZOMBIE, estrenado en el Festival Internacional de Cine de Huesca 2024, El TRAJE DE KARINA, ganador de Mejor Guion y Mejor Dirección en el Festival de Cine Queer de Long Beach 2021, y MINUTO 200, Mejor Cortometraje Iberoamericano en el Festival de Cine de Guadalajara 2012",
+          "filmSocial": "@UBPDColombia",
+          "directorSocial": "@franklugosi",
+          "posterUrl": "https://drive.google.com/open?id=19jCOYfC7WSsA5vAWv21PKLfucDn8XHQJ",
+          "trailerUrl": "https://youtu.be/BpsG1cflm9A",
+          "themePrimary": "Conflicto armado colombiano / Colombian armed conflict",
+          "themeSecondary": "Acuerdos de paz / Peace Accords",
+          "pressKitUrl": "N/A",
+          "ageRating": "Adultos / Adults"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "date": "2026-08-14",
+      "time": "6:30 p.m",
+      "timeSortKey": 1110,
+      "venueName": "CINEMATECA DE TUNJA",
+      "venueAddress": null,
+      "films": [
+        {
+          "title": "El hogar fue sepultado en esa tierra que nunca pudimos encontrar",
+          "director": "Deimer Quintero Vertel",
+          "durationMin": 92,
+          "country": "Colombia",
+          "year": 2026,
+          "category": "Largometraje Documental Nacional",
+          "synopsisEs": "El hogar ha desaparecido; la casa fue paraíso, pero también infierno. Aunque la guerra intentó destruirlo todo a su paso, la familia intenta volver. Entre anhelos y pesadillas crean un nuevo territorio, un refugio donde se reencuentran con sus amigos y su comunidad. Allí logran volver a la casa grande, el parque de diversiones de la infancia, ahora habitado por seres fantásticos y espectros, en donde buscan conjurar un abrazo.",
+          "synopsisEn": "Home is gone; the house was both paradise and hell. Though war tried to destroy everything in its path, the family seeks to return. Amid longing and nightmares, they create a new territory—a refuge where they reunite with friends and community. There, they find their way back to the big house, the amusement park of their childhood, now inhabited by fantastical beings and spectres, where they attempt to conjure one final embrace.",
+          "directorProfile": "Deimer Quintero Vertel (San Pelayo, Córdoba, Colombia, 1993): cineasta y director de sonido. Magíster en Cine Documental. Su ópera prima, El hogar fue sepultado en esa tierra que nunca pudimos encontrar, ganadora del Premio Nacional de Memoria, se estrenó en el FICCI 65 y ganó 4 premios, entre los que destacan: Mejor largometraje y Premio del público. Actualmente produce su segundo largometraje, El mundo imaginado. Ha sido coproductor, diseñador sonoro y sonidista en más de 40 películas. Codirige el laboratorio cinematográfico Archipiélago Sonoro y ha sido asesor de proyectos para el FDC en Colombia, así como jurado en el Festival Lima Alterna y la MIDBO. Su ejercicio de creación explora los vínculos entre la política de la memoria, el hogar y la metafísica de los afectos.",
+          "filmSocial": "@brumacine, @_dei______, @archipielagosonoro, @caromsalazar",
+          "directorSocial": "@_dei______",
+          "posterUrl": "https://drive.google.com/open?id=1__W2FfAQLXWzJ3LawGqKM9roaPBxLTSu",
+          "trailerUrl": "https://youtu.be/OHFecQOo-RU",
+          "themePrimary": "Conflicto armado colombiano / Colombian armed conflict",
+          "themeSecondary": "Memoria histórica / Historical memory",
+          "pressKitUrl": "N/A",
+          "ageRating": "Adolescentes / Teenagers"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "date": "2026-08-15",
+      "time": "4:00 p.m",
+      "timeSortKey": 960,
+      "venueName": "CINEMATECA DE TUNJA",
+      "venueAddress": null,
+      "films": [
+        {
+          "title": "La luz por primera vez",
+          "director": "Ibeth Rey Jerez y Frank Rodriguez",
+          "durationMin": 78,
+          "country": "Colombia - España",
+          "year": 2026,
+          "category": "Largometraje Documental Nacional",
+          "synopsisEs": "Natalia Pinilla, fotógrafa y activista, en camina un viaje que cruza Santander, Norte de\nSantander y España para descubrir la obra de Amalia Ramírez, una mujer\nolvidada que, a comienzos del siglo XX, capturó una de las imágenes más impactantes\nde la historia colombiana: la pirámide de calaveras de Palonegro, símbolo brutal de la\nGuerra de los Mil Días. Más de un siglo después, esta fotografía resurge y posiciona a Amalia quien podría ser la primera fotógrafa de Colombia.",
+          "synopsisEn": "Natalia Pinilla, photographer and activist, embarks on a journey that crosses Santander, Norte de Santander, and Spain to discover the work of Amalia Ramírez, a forgotten woman who, at the beginning of the 20th century, captured one of the most impactful images in Colombian history: the pyramid of skulls at Palonegro, a brutal symbol of the Thousand Days' War. More than a century later, this photograph resurfaces, positioning Amalia as perhaps Colombia's first female photographer.",
+          "directorProfile": "IBETH JOHANNA REY JEREZ\nProductora de cine y directora nacida en Bucaramanga, Colombia. Es fundadora de la casa productora Modoc S.A.S. y profesional en comunicaciones, con formación en Marketing y Negocios Digitales, así como en Gestión y Producción de Proyectos Cinematográficos. Ha producido más de 20 cortometrajes para cine y televisión desde 2010, desempeñándose como productora general y productora ejecutiva. Sus proyectos han sido reconocidos y respaldados por el Fondo de Desarrollo Cinematográfico (FDC), y han contado con el apoyo de entidades como el Ministerio de Cultura, MinTIC, RTVC–Señal Colombia, la Gobernación de Santander y el IMCT de Bucaramanga. Ha producido dos largometrajes para cine y ahora se estrena como co directora del largometraje “La Luz Por Primera Vez”. \n\nFRANK ALEXANDER RODRÍGUEZ ROJAS\nFrank Rodríguez Rojas es documentalista, director, guionista y montajista bumangués, socio fundador de la casa productora Modoc S.A.S. Es comunicador social,  magíster en comunicación y escritura de guiones. Codirector del largometraje La Luz por Primera Vez (2026), sobre Amalia Ramírez, pionera de la fotografía en Colombia.. \n\n\nEn agosto de 2024 estrena en salas de cine colombianas la película KEKAR: La resistencia de la caricatura en Colombia, de la que también es productor ejecutivo. En el año 2021, realizó el montaje de la película Pablus Gallinazo, producida por Dago García Producciones y estrenada en salas de cine al siguiente año. En el 2023, estrenó en Señal Colombia el documental Alma de cóndor. Se destacan sus cortometrajes Camino al Chicamocha (2024) y Bucaramanga a Milímetros (2010). \n\n\nHa dirigido, montado y desarrollado alrededor de 30 documentales para cine y televisión. Desde el 2008, sus trabajos han estado en diferentes festivales nacionales e internacionales de cine documental y han sido apoyados por el Ministerio de las Culturas las Artes y los Saberes - Mincultura, Ministerio de Tecnologías de Información y Comunicaciones - MinTIC, el Fondo para el Desarrollo Cinematográfico - FDC, RTVC, Gobernación de Santander, entre otros.",
+          "filmSocial": "@ibethrey @mododocumental @frankrodriguezrojas",
+          "directorSocial": "@ibethrey @frankrodriguezrojas",
+          "posterUrl": "https://drive.google.com/open?id=1y3302D1jVuFYHxK_TCcCrAFm47lpxYjg",
+          "trailerUrl": "https://youtu.be/SXdvu8AYRgo",
+          "themePrimary": "Libertad, igualdad y equidad / Freedom, equality and equity",
+          "themeSecondary": "Memoria histórica / Historical memory",
+          "pressKitUrl": "N/A",
+          "ageRating": "Familiar / Family, Adolescentes / Teenagers, Adultos / Adults, MAYORES DE 7 AÑOS"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "date": "2026-08-15",
+      "time": "6:30 p.m",
+      "timeSortKey": 1110,
+      "venueName": "CINEMATECA DE TUNJA",
+      "venueAddress": null,
+      "films": [
+        {
+          "title": "Andariega",
+          "director": "Raúl Soto",
+          "durationMin": 94,
+          "country": "Colombia",
+          "year": 2025,
+          "category": "Largometraje Documental Nacional",
+          "synopsisEs": "Cada año, “Chena” de 26 años, se une a la diáspora de campesinos andariegos que se movilizan por Colombia recogiendo las cosechas de café. Viajar y trabajar son la base de su autonomía. En su equipaje carga un cuaderno escolar donde escribe reflexiones sobre su pasado y la vida que afronta como mujer y madre sosteniendo a los lejos un hogar lleno de dificultades y escasez. A pesar de su juventud, su cuerpo se está debilitando, poniendo en entredicho su propia idea de libertad",
+          "synopsisEn": "Every year, 26-year-old Chena joins the wandering diaspora of rural workers who travel across Colombia harvesting coffee crops. Traveling and working are the foundations of her independence. In her luggage, she carries a school notebook where she writes reflections about her past and the life she faces as a woman and mother, supporting from afar a home marked by hardship and scarcity. Despite her youth, her body is beginning to weaken, challenging her very idea of freedom.",
+          "directorProfile": "Raúl Soto Rodríguez. Medellín – Colombia. Es Investigador, productor y director de cine. Su película El segundo entierro de Alejandrino fue reconocida con el Premio Especial del Jurado en el 35°FICG 2020 (Festival Internacional de Cine  de Guadalajara) en México, el Premio de Lenguas de Ficwallmapu 2020 en Temuco - Chile, el Premio a Mejor Película en el Festival Latinoamericano de Lenguas Originarias 2021 en Trujillo - Perú y el Premio Signis del FIDBA 2021 (Festival Internacional de Cine Documental de Buenos Aires) en Argentina. Su segunda película, Andariega, tuvo su estreno mundial en el 64-FICCI 2025  (Festival Internacional de Cine de Cartagena de Indias) y su estreno internacional en la selección Luminous de IDFA 2025 (International Documentary Film Festival Amsterdam). Actualmente avanza la etapa de desarrollo de su próxima película llamada, La leyenda de Yuma.",
+          "filmSocial": "N/A",
+          "directorSocial": "https://www.instagram.com/raulsotorodriguez/",
+          "posterUrl": "https://drive.google.com/open?id=1HvGxORAW9FiJPPzq-F2_ox0lqVQ8xj2c",
+          "trailerUrl": "https://youtu.be/QGCVQyXyLP0",
+          "themePrimary": "Derechos laborales / Labor rights",
+          "themeSecondary": "Migración / Migration",
+          "pressKitUrl": "N/A",
+          "ageRating": "Familiar / Family"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "date": "2026-08-16",
+      "time": "4:00 p.m",
+      "timeSortKey": 960,
+      "venueName": "CINEMATECA DE TUNJA",
+      "venueAddress": null,
+      "films": [
+        {
+          "title": "La Raya",
+          "director": "Yolanda Cruz",
+          "durationMin": 80,
+          "country": "Mexico",
+          "year": 2025,
+          "category": "Largometraje Ficción",
+          "synopsisEs": "La llegada de un refrigerador cambia la vida en La Raya, un pueblo abandonado en la sierra sur de Oaxaca. Sotera y su amigo Erick tratan de venderlo y hacer un negocio. Sin embargo, el refri pronto empieza a revelar cosas misteriosas a la gente que se le acerca.",
+          "synopsisEn": "The arrival of a refrigerator changes life in La Raya, an abandoned village in the southern mountains of Oaxaca. Sotera and her friend Erick try to sell it and make a business. However, the fridge soon begins to reveal mysterious things to the people who approach it.",
+          "directorProfile": "Yolanda Cruz  es una cineasta independiente originaria de una comunidad Chatina de San Juan Quiahije, Oaxaca. En los últimos quince años ha producido: dos largometrajes, tres cortometrajes de ficción y siete documentales. Su más reciente largometraje es La Raya.\nEl tema constante de su trabajo es el arte, las lenguas indígenas y la migración. Como cineasta indígena, migrante y latina se ha centrado en filmar temas urgentes para su comunidad y presentar nuevos temas a discusión. Es alumna de Sundance y de la escuela de cine de la Universidad de California en Los Ángeles.",
+          "filmSocial": "petatefilms",
+          "directorSocial": "petatefilms",
+          "posterUrl": "https://drive.google.com/open?id=1f67q7LEDXtJxSvq6dOsBrhGo9ImGyrGE",
+          "trailerUrl": "https://youtu.be/Eaz6YFKdO_s",
+          "themePrimary": "Migración / Migration",
+          "themeSecondary": "Comunidades indígenas / Indigenous communities",
+          "pressKitUrl": "N/A",
+          "ageRating": "Familiar / Family, Adolescentes / Teenagers, Adultos / Adults"
+        }
+      ],
+      "notes": []
+    },
+    {
+      "date": "2026-08-16",
+      "time": "6:30 p.m",
+      "timeSortKey": 1110,
+      "venueName": "CINEMATECA DE TUNJA",
+      "venueAddress": null,
+      "films": [
+        {
+          "title": "Semillas",
+          "director": "Eliana Niño",
+          "durationMin": 100,
+          "country": "Colombia - España",
+          "year": 2025,
+          "category": "Largometraje Ficción",
+          "synopsisEs": "Shaira sueña con participar en un Torneo de Coleo, sin embargo, un día su caballo desaparece. En un atardecer llanero y en medio de una gran sequía, su abuelo le dice que en el verano el cielo atrapa a los animales y que ellos solo regresan hasta el día en que vuelva a llover en la tierra. Shaira encontrará la forma de hacer volver la lluvia para traer de vuelta a su caballo Semillas.",
+          "synopsisEn": "Shaira, a girl from the eastern plains of Colombia, dreams of participating in a coleo festival.  But after a recent drought severely damaged the crops, Shaira’s grandfather sells her horse without telling her. One day, he tells Shaira that the reason why some clouds take the shape of animals is that the sky traps them and won’t return them until it rains again. Shaira embarks on a journey to go in search of a special seed that will make the heavens rain again to bring her horse back.",
+          "directorProfile": "Guionista, directora y productora de cine, nacida el 9 de abril de 1990 Estudió el máster \"Cinéma, Réalisation et Création\" en la Universidad París 8, Francia, donde realiza su cortometraje BAJO EL JARDÍN, y con el cual ha participado en diversos festivales obteniendo el Premio del jurado en el Girogirocorto film festival en Roma, Italia (2016) y el Premio del público \"Ricardo Restrepo\" en Festival de Coine \"Regards sur le cinéma de Colombie et d'Amérique du Sud\" (FECRECCAS) en Montpellier, Francia (2018).  Su primer largometraje «Semillas», estrenado en el 2025 y rodado en San Martín Meta, fue proyecto ganador del FDC de Colombia y del ICAA de España. También participó en la Sección Primer Corte del mercado argentino Ventana Sur 2023 y el WIP del Festival Internacional de Cine de Cartagena 2024. Semillas ha participado en festivales como Spirit Of Fire en Rusia, el Chicago Latino Film Festival, Vancouver latino film festival y recientemente ganó premio de jurado en el festival para niños y adolescentes Schlingel en Alemania. En Colombia se ha llevado premios a mejor largometraje en el Festival de cine en las montañas en Salento, en el Festival Villa del cine en Villa de Leyva y el Festival del Gran Santander. Lidera el colectivo Heroínas y Villanas, un laboratorio de creación de guion y audiovisual dirigido a niñas y mujeres adolescentes.",
+          "filmSocial": "IG: semillas_film y elio.cine",
+          "directorSocial": "IG: elio.cine",
+          "posterUrl": "https://drive.google.com/open?id=1ewjRfEDiCqxf69QVLHBJ0ZMtVaEAEPDs",
+          "trailerUrl": "https://youtu.be/S14TnBcCcb4",
+          "themePrimary": "Infancia y adolescencia / Infancy and adolescence",
+          "themeSecondary": "Violencias basadas en género / Gender-based violence",
+          "pressKitUrl": "https://drive.google.com/open?id=1NP_4YqNYBzREKJ_apQKFiMLjAkqNdMCI",
+          "ageRating": "Familiar / Family"
+        }
+      ],
+      "notes": []
+    }
+  ]
+}
