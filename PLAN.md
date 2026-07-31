@@ -88,15 +88,17 @@ en una fase.
   correr con Node 22 vía `.nvmrc` (`nvm use`). *(Hecho.)*
 - **Fase 4 — Componentes de UI**: selector de ciudad/día, lista de sedes con horario, tarjeta
   de función (película o bloque de cortos), detalle de película/conversatorio, buscador y
-  filtros (categoría, nacional/internacional, título).
-  - **Índice derivado por película**: además de `data/<ciudad>.json` (sesiones con películas
-    anidadas, útil para la vista "qué hay en tal sede a tal hora"), generar en
-    `scripts/build_data.py` un `data/films.json` agrupado por título normalizado, cada uno
-    con su lista de funciones (fecha, hora, sede, ciudad). Es lo que permite "buscar película
-    → ver dónde y cuándo se proyecta" sin tocar el parser de Excel. Al construirlo hay que
-    revisar a mano los títulos que no calcen exacto entre ciudades (mayúsculas, espacios,
-    variantes de escritura) antes de agrupar, ya que ya se vieron inconsistencias de formato
-    entre fuentes (ver `data/README.md`).
+  filtros (categoría, nacional/internacional, título). *(Hecho.)*
+  - **Índice derivado por película**: `data/films.json`, generado en `scripts/build_data.py`
+    agrupando por título normalizado + una lista curada de alias (`TITLE_ALIASES`) para las
+    variantes de escritura detectadas a mano (con/sin subtítulo en otro idioma, typos
+    puntuales). Detalle en `data/README.md`. *(Hecho.)*
+  - Componentes en `app/src/components/`: `CitySelector`, `DaySelector`, `ScheduleView` +
+    `SessionCard` + `FilmCard` (vista "Agenda"), `FilmSearchView` (vista "Películas", usa
+    `films.json` filtrado a la ciudad activa), `FilmDetailDialog` (modal con `<dialog>`
+    nativo). `app/src/composables/useFestivalData.ts` centraliza el `fetch` + caché de los
+    JSON. `app/public/data` es un symlink a `data/` (mismo dato, sin duplicar ni tener que
+    recordar sincronizar).
 - **Fase 5 — Empaquetado como Web Component**: `defineCustomElement`, Shadow DOM para aislar
   estilos del sitio anfitrión, atributos (`city`, `day`) como props reactivas.
 - **Fase 6 — Funcionalidades extra (opcional)**: botón "agregar al calendario" (.ics), link a
@@ -114,5 +116,7 @@ en una fase.
 - [x] Decisión de arquitectura (Vue + `defineCustomElement`).
 - [x] Fase 1 — Script de conversión Excel → JSON (mergeado a `main`).
 - [ ] Fase 2 — Fuente de datos "viva" (pendiente, se saltó por ahora a la Fase 3).
-- [x] Fase 3 — Scaffold del proyecto (rama `fase-3-scaffold-proyecto`, pendiente de merge).
-- [ ] Fase 4 en adelante.
+- [x] Fase 3 — Scaffold del proyecto (mergeado a `main`).
+- [x] Fase 4 — Componentes de UI + índice por película (rama `fase-4-componentes-ui`,
+  probado a mano en el navegador, pendiente de merge).
+- [ ] Fase 5 en adelante.

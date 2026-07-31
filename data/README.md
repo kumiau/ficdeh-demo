@@ -7,6 +7,12 @@ Excel fuente (o en el script, si es un problema de parseo) y volver a correr el 
 ## Archivos
 
 - `data/<city-slug>.json` — una ciudad/track: `{ citySlug, cityName, sourceFiles, sessions[] }`.
+- `data/films.json` — índice derivado: `{ films: Film[] }`, una entrada por película (no por
+  función), agrupando todas sus funciones de todas las ciudades. Pensado para la vista
+  "buscar película → ver dónde y cuándo se proyecta". Cada entrada trae `filmKey` (slug),
+  los mismos campos de metadata que `Film` (ver abajo, con el mejor valor no vacío
+  encontrado entre todas sus apariciones) y `screenings[]`:
+  `{ citySlug, cityName, date, time, timeSortKey, venueName, venueAddress }`.
 - `data/index.json` — resumen de todas las ciudades (conteos) y advertencias del último build.
 
 ## Esquema de `Session`
@@ -49,6 +55,17 @@ nombres de sede). En resumen:
   Manizales, Pereira, Tunja, Quibdó...), no una sede bogotana.
 - **Resto de ciudades**: el archivo plano `Programación _ <CIUDAD>.xlsx` (una fila por
   función), que es más rico que el cartelera y ya cubre toda la ciudad.
+
+## Agrupación de `films.json`
+
+Se agrupa por título normalizado (sin acentos/mayúsculas, espacios repetidos colapsados). Eso
+no alcanza para los casos donde el mismo título viene escrito con/sin subtítulo en otro idioma,
+con "/" en vez de paréntesis, o con un typo puntual (p. ej. "La cerillana" vs "La Cerrillana").
+Esos casos se detectaron revisando a mano la primera corrida de `films.json` y quedaron en
+`TITLE_ALIASES` (`scripts/build_data.py`) como una lista curada — deliberadamente **no** es un
+algoritmo de coincidencia difusa, porque eso arriesga fusionar películas distintas sin que nadie
+lo note. Si al regenerar los datos aparecen títulos nuevos sin fusionar, hay que revisar
+`data/films.json` (ordenado por título) y sumarlos a `TITLE_ALIASES`.
 
 ## Limitaciones conocidas
 

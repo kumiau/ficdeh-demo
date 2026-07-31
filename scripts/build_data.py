@@ -134,6 +134,10 @@ def clean_line(value):
     """Colapsa saltos de línea/espacios en campos cortos (lugar, país, etc.)."""
     if value is None:
         return None
+    # Algunos títulos se digitaron como número en el Excel (p. ej. la
+    # película "1982"), y str(float) los vuelve "1982.0".
+    if isinstance(value, float) and value.is_integer():
+        value = int(value)
     text = str(value).replace("\n", ", ").replace("\r", " ")
     text = re.sub(r"\s+", " ", text).strip(" ,")
     return text or None
@@ -410,10 +414,106 @@ def parse_cartelera_file(path):
 
 
 # ---------------------------------------------------------------------------
+# Índice derivado por película: agrupa las funciones de todas las ciudades
+# por título de película, para poder "buscar película -> ver dónde y cuándo
+# se proyecta" sin tener que recorrer las sesiones de cada ciudad.
+# ---------------------------------------------------------------------------
+
+FILM_META_FIELDS = [
+    "director", "durationMin", "country", "year", "category", "sala", "qa", "premiere",
+    "synopsisEs", "synopsisEn", "directorProfile", "filmSocial", "directorSocial",
+    "posterUrl", "trailerUrl", "themePrimary", "themeSecondary", "pressKitUrl", "ageRating",
+]
+
+
+def film_group_key(title):
+    """Clave de agrupación insensible a acentos/mayúsculas/espacios repetidos.
+    Ver data/README.md: los mismos títulos vienen escritos distinto según la
+    ciudad/fuente (p. ej. "Floresmiro " con espacio final)."""
+    return re.sub(r"\s+", " ", norm(title)).strip()
+
+
+# Mismo título escrito distinto según la fuente (con/sin subtítulo en
+# inglés o español, "/" en vez de paréntesis, un typo puntual). Se detectó
+# revisando a mano data/films.json después de generarlo la primera vez —
+# no es un algoritmo de coincidencia difusa (riesgo de fusionar películas
+# distintas), es una lista curada. Si al regenerar aparecen títulos nuevos
+# sin fusionar, hay que revisar data/films.json y sumarlos aquí.
+TITLE_ALIASES = {
+    "La cerillana": "La Cerrillana",
+    "In four stops (En cuatro paradas)": "In Four Stops",
+    "FLORES MIRO": "Floresmiro",
+    "Feito Pipa /Gugu's world": "El mundo de Gugu (Feito Pipa)",
+    "My grandmother is a skydiver (Mi abuela es una paracaidista)": "My grandmother is a skydiver",
+    "The beauty of the donkey": "La Belleza del burro",
+    "La belleza del burro (The beauty of the donkey)": "La Belleza del burro",
+    "Three black men (Tres hombres negros)": "Three black men",
+    "Padamlágan (Night light)": "Night Light",
+    "Cuando la palabra se hace búsqueda. El eco de sus voces (UBPD)": "Cuando la palabra se hace búsqueda",
+}
+TITLE_ALIASES_BY_KEY = {
+    re.sub(r"\s+", " ", norm(variant)).strip(): canonical
+    for variant, canonical in TITLE_ALIASES.items()
+}
+
+
+def slugify(title):
+    slug = re.sub(r"[^a-z0-9]+", "-", norm(title).lower()).strip("-")
+    return slug or "sin-titulo"
+
+
+def build_film_index(city_sessions):
+    """city_sessions: lista de (citySlug, cityName, sessions) por ciudad ya
+    generados. Cuando dos apariciones del mismo título traen metadata
+    distinta (p. ej. el archivo cartelera de Bogotá no trae sinopsis pero el
+    plano de otra ciudad sí), se completan los campos vacíos con el primer
+    valor no vacío que aparezca — no se sobreescribe lo ya encontrado."""
+    films = {}
+    order = []
+    for city_slug, city_name, sessions in city_sessions:
+        for session in sessions:
+            for film in session["films"]:
+                title = film.get("title")
+                if not title:
+                    continue
+                raw_key = film_group_key(title)
+                title = TITLE_ALIASES_BY_KEY.get(raw_key, title)
+                key = film_group_key(title)
+                if key not in films:
+                    entry = {"filmKey": slugify(title), "title": title, "screenings": []}
+                    for field in FILM_META_FIELDS:
+                        entry[field] = film.get(field)
+                    films[key] = entry
+                    order.append(key)
+                else:
+                    entry = films[key]
+                    for field in FILM_META_FIELDS:
+                        if entry.get(field) in (None, "") and film.get(field) not in (None, ""):
+                            entry[field] = film.get(field)
+
+                films[key]["screenings"].append({
+                    "citySlug": city_slug,
+                    "cityName": city_name,
+                    "date": session["date"],
+                    "time": session["time"],
+                    "timeSortKey": session["timeSortKey"],
+                    "venueName": session["venueName"],
+                    "venueAddress": session["venueAddress"],
+                })
+
+    result = [films[k] for k in order]
+    for film in result:
+        film["screenings"].sort(key=lambda s: (s["date"] or "", s["timeSortKey"]))
+    result.sort(key=lambda f: film_group_key(f["title"]))
+    return result
+
+
+# ---------------------------------------------------------------------------
 
 def main():
     OUT.mkdir(exist_ok=True)
     index = {"festivalYear": FESTIVAL_YEAR, "cities": [], "warnings": warnings}
+    city_sessions_for_index = []
 
     for city in CITY_CONFIG:
         all_sessions = []
@@ -449,7 +549,15 @@ def main():
             "sessionCount": len(all_sessions),
             "filmCount": film_count,
         })
+        city_sessions_for_index.append((city["slug"], city["name"], all_sessions))
         print(f"{city['name']}: {len(all_sessions)} sesiones, {film_count} películas -> {out_path.relative_to(ROOT)}")
+
+    films = build_film_index(city_sessions_for_index)
+    (OUT / "films.json").write_text(
+        json.dumps({"films": films}, ensure_ascii=False, indent=2), encoding="utf-8"
+    )
+    index["filmIndexCount"] = len(films)
+    print(f"Índice por película: {len(films)} títulos únicos -> {(OUT / 'films.json').relative_to(ROOT)}")
 
     (OUT / "index.json").write_text(
         json.dumps(index, ensure_ascii=False, indent=2), encoding="utf-8"
